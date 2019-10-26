@@ -19,6 +19,13 @@ module.exports = {
   },
 
   /*
+  ** Router config
+  */
+  router: {
+    base: '/eventos/2018/arteempecas/'
+  },
+
+  /*
   ** Customize the progress-bar color
   */
   loading: { color: '#fff' },
