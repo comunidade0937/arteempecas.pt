@@ -2,18 +2,18 @@
   <section class="section">
     <div class="container content">
       <h1>Data e Horário</h1>
-      <p>Aberto de 15 a 31 de Dezembro de 2018.</p>
+      <p>Aberto de 14 a 31 de Dezembro de 2019.</p>
       <p>Aberto das 14 horas às 19 horas, das 14h às 17h nos dias 24 e 31 e encerrado no dia 25.</p>
 
       <div class="calendar-container">
         <div class="calendar">
           <div class="calendar-nav">
             <div class="calendar-nav-left"/>
-            <div>Dezembro 2018</div>
+            <div>Dezembro 2019</div>
             <div class="calendar-nav-right"/>
           </div>
           <div class="calendar-body">
-            <div class="calendar-date calendar-range range-start"><div class="date-item is-active">15</div></div>
+            <div class="calendar-date calendar-range range-start"><div class="date-item is-active">14</div></div>
             <div class="calendar-date calendar-range"><div class="date-item">...</div></div>
             <div class="calendar-date calendar-range"><div class="date-item">...</div></div>
             <div class="calendar-date calendar-range"><div class="date-item is-off">🎅</div></div>
