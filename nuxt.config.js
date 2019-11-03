@@ -1,55 +1,69 @@
-const pkg = require('./package')
-
-module.exports = {
+export default {
   mode: 'spa',
 
   /*
-  ** Headers of the page
-  */
+   ** Headers of the page
+   */
   head: {
     title: 'Arte em Peças',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: pkg.description }
+      {
+        hid: 'description',
+        name: 'description',
+        content: process.env.npm_package_description || ''
+      }
     ],
-    link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
-    ]
+    link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }]
   },
 
   /*
-  ** Customize the progress-bar color
-  */
+   ** Customize the progress-bar color
+   */
   loading: { color: '#fff' },
 
   /*
-  ** Global CSS
-  */
-  css: [
-  ],
+   ** Global CSS
+   */
+  css: [],
 
   /*
-  ** Plugins to load before mounting the App
-  */
-  plugins: [
-  ],
+   ** Plugins to load before mounting the App
+   */
+  plugins: [],
 
   /*
-  ** Nuxt.js modules
-  */
-  modules: [,
+   ** Nuxt.js dev-modules
+   */
+  buildModules: [
+    // Doc: https://github.com/nuxt-community/eslint-module
+    '@nuxtjs/eslint-module'
+  ],
+  /*
+   ** Nuxt.js modules
+   */
+  modules: [
+    '@nuxtjs/google-analytics',
+    '@nuxtjs/pwa',
     // Doc: https://buefy.github.io/#/documentation
     'nuxt-buefy'
   ],
 
   /*
-  ** Build configuration
-  */
+   ** Google Analytics Config
+   */
+  googleAnalytics: {
+    id: 'UA-1495990-5'
+  },
+
+  /*
+   ** Build configuration
+   */
   build: {
     /*
-    ** You can extend webpack config here
-    */
+     ** You can extend webpack config here
+     */
     extend(config, ctx) {
       // Run ESLint on save
       if (ctx.isDev && ctx.isClient) {
@@ -75,7 +89,7 @@ module.exports = {
           steps: 7,
           placeholder: true,
           quality: 100,
-          adapter: require("responsive-loader/sharp")
+          adapter: require('responsive-loader/sharp')
         }
       })
 

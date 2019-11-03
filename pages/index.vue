@@ -1,14 +1,14 @@
 <template>
   <section>
-    <Navigation :hide-at-top="true"/>
+    <Navigation :hide-at-top="true" />
 
-    <Cover/>
+    <Cover />
 
-    <Intro/>
-    <When/>
-    <Where/>
+    <Intro />
+    <When />
+    <Where />
 
-    <Disclaimer/>
+    <Disclaimer />
   </section>
 </template>
 

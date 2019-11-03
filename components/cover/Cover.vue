@@ -3,13 +3,12 @@
     <div class="background">
       <img
         :src="require('./background.responsive.jpg?size=2500')"
-        :srcset="require('./background.responsive.jpg').srcSet">
+        :srcset="require('./background.responsive.jpg').srcSet"
+      />
     </div>
     <div class="cover-content">
-      <div/>
-      <img
-        class="image"
-        src="./arteempecas.svg" >
+      <div />
+      <img class="image" src="./arteempecas.svg" />
       <div class="bottom">
         <p class="has-text-centered">Mais detalhes abaixo...</p>
       </div>

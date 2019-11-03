@@ -77,6 +77,10 @@ dist
 # Serverless directories
 .serverless
 
-# IDE
+# IDE / Editor
 .idea
 .history/
+
+# Service worker
+sw.*
+

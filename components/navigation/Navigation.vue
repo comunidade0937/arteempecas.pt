@@ -5,27 +5,23 @@
       'is-at-top': hideAtTop && lastScrollPosition === 0,
       'is-expanded': navbarMenuOpen
     }"
-    class="navbar is-fixed-top is-transparent">
+    class="navbar is-fixed-top is-transparent"
+  >
     <div class="navbar-brand">
-      <nuxt-link
-        to="/"
-        class="navbar-item">
-        Arte em Peças
-      </nuxt-link>
+      <nuxt-link to="/" class="navbar-item">Arte em Peças</nuxt-link>
       <div
         :class="{ 'is-active': navbarMenuOpen }"
+        @click="toggle"
         class="navbar-burger burger"
-        @click="toggle">
-        <span/>
-        <span/>
-        <span/>
+      >
+        <span />
+        <span />
+        <span />
       </div>
     </div>
 
-    <div
-      :class="{ 'is-active': navbarMenuOpen }"
-      class="navbar-menu">
-      <div class="navbar-start"/>
+    <div :class="{ 'is-active': navbarMenuOpen }" class="navbar-menu">
+      <div class="navbar-start" />
 
       <div class="navbar-end">
         <div class="navbar-item">
@@ -35,13 +31,12 @@
                 class="button is-link"
                 target="_blank"
                 rel="noopener"
-                href="https://www.facebook.com/comunidade0937">
+                href="https://www.facebook.com/comunidade0937"
+              >
                 <span class="icon">
-                  <b-icon icon="facebook"/>
+                  <b-icon icon="facebook" />
                 </span>
-                <span>
-                  Facebook
-                </span>
+                <span>Facebook</span>
               </a>
             </p>
           </div>
@@ -69,17 +64,16 @@ export default {
     }
   },
 
-  created: function() {
+  created() {},
+
+  mounted() {
+    // this.popupItem = this.$el
     if (process.browser) {
       window.addEventListener('scroll', this.handleScroll)
     }
   },
 
-  mounted() {
-    // this.popupItem = this.$el
-  },
-
-  destroyed: function() {
+  destroyed() {
     if (process.browser) {
       window.removeEventListener('scroll', this.handleScroll)
     }
@@ -90,7 +84,7 @@ export default {
       this.navbarMenuOpen = !this.navbarMenuOpen
     },
 
-    handleScroll: function(event) {
+    handleScroll(event) {
       const scrollPosition = window.pageYOffset | document.body.scrollTop
 
       const threshold = 56 // navbar height

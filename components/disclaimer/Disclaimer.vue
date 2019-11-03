@@ -10,14 +10,12 @@
             class="heart"
             alt="amor"
             aria-valuetext="amor"
-            title="amor"/>
-          pela
-          <a
-            target="_blank"
-            rel="noopener"
-            href="https://comunidade0937.com">Comunidade 0937</a>.
-          <br>
-          LEGO® é uma marca registada da LEGO Group, que não patrocina nem apoia esta página.
+            title="amor"
+          />pela
+          <a target="_blank" rel="noopener" href="https://comunidade0937.com"
+            >Comunidade 0937</a
+          >. <br />LEGO® é uma marca registada da LEGO Group, que não patrocina
+          nem apoia esta página.
         </p>
       </div>
     </div>

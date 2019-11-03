@@ -8,12 +8,14 @@ module.exports = {
     parser: 'babel-eslint'
   },
   extends: [
-    'plugin:vue/recommended',
-    'plugin:prettier/recommended'
+    '@nuxtjs',
+    'prettier',
+    'prettier/vue',
+    'plugin:prettier/recommended',
+    'plugin:nuxt/recommended'
   ],
   // required to lint *.vue files
   plugins: [
-    'vue',
     'prettier'
   ],
   // add your custom rules here
