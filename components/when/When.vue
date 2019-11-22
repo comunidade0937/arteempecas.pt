@@ -2,10 +2,10 @@
   <section class="section">
     <div class="container content">
       <h1>Data e Horário</h1>
-      <p>Aberto de 14 a 31 de Dezembro de 2019.</p>
+      <p>Aberto de 14 de Dezembro de 2019 a 3 de Janeiro de 2020.</p>
       <p>
-        Aberto das 14 horas às 19 horas, das 14h às 17h nos dias 24 e 31 e
-        encerrado no dia 25.
+        Aberto das 14h às 19h, das 14h às 17h nos dias 24 e 31 e encerrado nos
+        dias 25 e 1.
       </p>
 
       <div class="calendar-container">
@@ -43,12 +43,12 @@
             </div>
             <div class="calendar-date calendar-range">
               <div class="date-item">
-                ...
+                🎉
               </div>
             </div>
             <div class="calendar-date calendar-range range-end">
               <div class="date-item is-active">
-                31
+                3
               </div>
             </div>
           </div>
