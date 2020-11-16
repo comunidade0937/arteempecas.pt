@@ -95,6 +95,8 @@ export default function Map({ markers = [] }: MapProps) {
 			outsideMapBoundsMsg: 'Parece que estamos um pouco longe.',
 		},
 
+		onLocationOutsideMapBounds() {},
+
 		icon: styles.mapLocateIcon,
 
 		onActivate: () => {}, // callback before engine starts retrieving locations
