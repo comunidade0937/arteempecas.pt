@@ -1,0 +1,37 @@
+.mapContainer {
+	height: 100%;
+	width: 100%;
+
+	flex: 1;
+
+	display: flex;
+	flex-direction: column;
+}
+
+.map {
+	height: 100%;
+	width: 100%;
+
+	flex: 1;
+}
+
+.mapMarker {
+	display: flex;
+	background-color: #098b81;
+	color: #fff;
+
+	font-size: 10px;
+	font-family: Arial, Helvetica, sans-serif;
+
+	border-radius: 50%;
+	border: 1px solid #444;
+
+	line-height: 10px;
+
+	justify-content: center;
+	align-items: center;
+}
+
+.dialogTitle > *:first-child {
+	margin-right: 16px;
+}
