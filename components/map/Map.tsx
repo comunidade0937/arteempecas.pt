@@ -25,6 +25,7 @@ import Slide from '@material-ui/core/Slide';
 import { TransitionProps } from '@material-ui/core/transitions';
 
 import styles from './Map.module.css';
+import LocateControl from './LocateControl';
 
 const useStyles = makeStyles((theme: Theme) =>
 	createStyles({
@@ -87,6 +88,18 @@ export default function Map({ markers = [] }: MapProps) {
 		};
 	});
 
+	const locateOptions = {
+		position: 'topright',
+		strings: {
+			title: 'A minha localização!',
+			outsideMapBoundsMsg: 'Parece que estamos um pouco longe.',
+		},
+
+		icon: styles.mapLocateIcon,
+
+		onActivate: () => {}, // callback before engine starts retrieving locations
+	};
+
 	const onClick2 = (marker: MyMarker) => (event: LeafletMouseEvent) => {
 		setTimeout(() => setCurrentMarker(marker), 0);
 	};
@@ -94,6 +107,8 @@ export default function Map({ markers = [] }: MapProps) {
 	return (
 		<div className={styles.mapContainer}>
 			<LeafletMap center={center} bounds={bounds} className={styles.map} maxZoom={19} minZoom={10} maxBounds={maxBounds}>
+				<LocateControl options={locateOptions} startDirectly />
+
 				<TileLayer
 					url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
 					// url="https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png"

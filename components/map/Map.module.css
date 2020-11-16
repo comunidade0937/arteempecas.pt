@@ -32,6 +32,21 @@
 	align-items: center;
 }
 
-.dialogTitle > *:first-child {
-	margin-right: 16px;
+.mapLocateIcon {
+	display: flex;
+	height: 100%;
+	justify-content: center;
+	align-items: center;
+}
+
+.mapLocateIcon::before {
+	content: '';
+
+	background-color: #2a93ee;
+
+	border-radius: 50%;
+	border: 2px solid #fff;
+
+	height: 18px;
+	width: 18px;
 }

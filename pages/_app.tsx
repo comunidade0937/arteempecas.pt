@@ -1,5 +1,8 @@
 import '../styles/globals.css';
 
+import 'leaflet.locatecontrol/dist/L.Control.Locate.min.css'
+
+
 import React from 'react';
 import CssBaseline from '@material-ui/core/CssBaseline';
 
