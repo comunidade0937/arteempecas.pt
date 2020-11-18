@@ -127,7 +127,7 @@ export default function Map({ markers = [], currentMarkerId, onMarkerClicked = (
 
 	return (
 		<div className={styles.mapContainer}>
-			<LeafletMap {...mapProps} useFlyTo className={styles.map} maxZoom={19} minZoom={10} maxBounds={maxBounds}>
+			<LeafletMap {...mapProps} useFlyTo className={styles.map} maxZoom={19} minZoom={15} maxBounds={maxBounds}>
 				<LocateControl options={locateOptions} startDirectly />
 
 				<TileLayer
