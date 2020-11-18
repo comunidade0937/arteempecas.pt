@@ -5,6 +5,8 @@ import dynamic from 'next/dynamic';
 import QRCode from 'qrcode.react';
 
 import { makeStyles, createStyles, Theme } from '@material-ui/core/styles';
+import Avatar from '@material-ui/core/Avatar';
+import Box from '@material-ui/core/Box';
 
 import { GetStaticProps, InferGetStaticPropsType } from 'next';
 import { MyMarker } from '../components/map/Map';
@@ -25,6 +27,11 @@ const useStyles = makeStyles((theme: Theme) =>
 				pageBreakAfter: 'always',
 			},
 		},
+
+		avatar: {
+			color: theme.palette.getContrastText('#098b81'),
+			backgroundColor: '#098b81',
+		},
 	}),
 );
 
@@ -42,7 +49,12 @@ export default function Demo({ markers }: InferGetStaticPropsType<typeof getStat
 			</Head>
 			{markers?.map((marker, i) => (
 				<div key={i} className={classes.section}>
-					<div>{marker.name}</div>
+					<Box display="flex" alignItems="center">
+						<Avatar className={classes.avatar}>{marker?.id}</Avatar>
+						<Box ml={2}>
+							<h2>{marker?.name}</h2>
+						</Box>
+					</Box>
 
 					<QRCode value={`https://arteempecas-pt.vercel.app/map?m=${marker.id}`} renderAs="svg" />
 				</div>
