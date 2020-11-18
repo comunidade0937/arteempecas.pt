@@ -1,6 +1,7 @@
 import Head from 'next/head';
 
 import dynamic from 'next/dynamic';
+import { useRouter } from 'next/router';
 
 import { BottomBar } from '../components';
 
@@ -16,7 +17,17 @@ type MapProps = {
 };
 
 export default function Map({ markers }: InferGetStaticPropsType<typeof getStaticProps>) {
-	// const markers = await fetchData();
+	const router = useRouter();
+
+	const {
+		query: { m },
+	} = router;
+
+	const currentMarkerId = Array.isArray(m) ? m[0] : m;
+
+	const handleMarkerClicked = (marker: MyMarker | undefined) => {
+		router.replace({ query: marker ? { m: marker?.id } : {} });
+	};
 
 	return (
 		<div className={layout.container}>
@@ -31,7 +42,7 @@ export default function Map({ markers }: InferGetStaticPropsType<typeof getStati
 				/>
 			</Head>
 			<div className={layout.mainFullScreen}>
-				<DynamicComponentWithNoSSR markers={markers} />
+				<DynamicComponentWithNoSSR markers={markers} currentMarkerId={currentMarkerId} onMarkerClicked={handleMarkerClicked} />
 			</div>
 			<div className={layout.footer}>
 				<BottomBar activeAction={1} />

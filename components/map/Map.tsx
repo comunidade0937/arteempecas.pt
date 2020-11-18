@@ -1,7 +1,5 @@
-import { GetStaticProps } from 'next';
-
-import { LatLngExpression, latLngBounds, LeafletMouseEvent, icon, divIcon } from 'leaflet';
-import { Map as LeafletMap, Marker, Popup, TileLayer } from 'react-leaflet';
+import { LatLngExpression, latLngBounds, LeafletMouseEvent, divIcon } from 'leaflet';
+import { Map as LeafletMap, Marker, TileLayer } from 'react-leaflet';
 
 import React from 'react';
 
@@ -33,6 +31,11 @@ const useStyles = makeStyles((theme: Theme) =>
 			color: theme.palette.getContrastText('#098b81'),
 			backgroundColor: '#098b81',
 		},
+
+		dialogScrollPaper: {
+			alignItems: 'flex-end',
+			paddingBottom: '100px',
+		},
 	}),
 );
 
@@ -47,6 +50,8 @@ export type MyMarker = {
 
 type MapProps = {
 	markers?: Array<MyMarker>;
+	currentMarkerId?: string;
+	onMarkerClicked?: (marker: MyMarker | undefined) => void;
 };
 
 const googleMapsUrl = 'https://www.google.com/maps/dir/?api=1&travelmode=driving&layer=traffic&destination=';
@@ -55,24 +60,18 @@ const Transition = React.forwardRef(function Transition(props: TransitionProps &
 	return <Slide direction="up" ref={ref} {...props} />;
 });
 
-export default function Map({ markers = [] }: MapProps) {
+export default function Map({ markers = [], currentMarkerId, onMarkerClicked = () => {} }: MapProps) {
 	const classes = useStyles();
 
-	const [currentMarker, setCurrentMarker] = React.useState<MyMarker>();
-
-	const handleClose = (event: React.SyntheticEvent) => {
-		setCurrentMarker(undefined);
-	};
-
-	const bounds = latLngBounds(markers.map((marker) => marker.coordinates));
-
-	const maxBounds = bounds.pad(1);
-
-	const center = bounds.getCenter();
+	const [isNewMap, setIsNewMap] = React.useState<boolean>(true);
 
 	const markers2 = markers.map((marker, i) => {
+		const selected = marker.id === currentMarkerId;
+
+		const classes = selected ? [styles.mapMarker, styles.mapMarkerSelected] : [styles.mapMarker];
+
 		const icon = divIcon({
-			className: styles.mapMarker,
+			className: classes.join(' '),
 			iconSize: [20, 20],
 			iconAnchor: [10, 10],
 			popupAnchor: [0, 0],
@@ -88,6 +87,21 @@ export default function Map({ markers = [] }: MapProps) {
 		};
 	});
 
+	const bounds = latLngBounds(markers.map((marker) => marker.coordinates));
+
+	const currentMarker = markers2.find((marker) => marker.id === currentMarkerId);
+
+	const maxBounds = bounds.pad(1);
+
+	const mapProps =
+		(currentMarker && {
+			center: currentMarker.coordinates,
+			zoom: 19,
+		}) ||
+		(isNewMap && {
+			bounds,
+		});
+
 	const locateOptions = {
 		position: 'topright',
 		strings: {
@@ -102,13 +116,18 @@ export default function Map({ markers = [] }: MapProps) {
 		onActivate: () => {}, // callback before engine starts retrieving locations
 	};
 
-	const onClick2 = (marker: MyMarker) => (event: LeafletMouseEvent) => {
-		setTimeout(() => setCurrentMarker(marker), 0);
+	const handleMarkerClick = (marker: MyMarker) => (event: LeafletMouseEvent) => {
+		onMarkerClicked(marker);
+	};
+
+	const handleCloseDialog = () => {
+		setIsNewMap(false);
+		onMarkerClicked(undefined);
 	};
 
 	return (
 		<div className={styles.mapContainer}>
-			<LeafletMap center={center} bounds={bounds} className={styles.map} maxZoom={19} minZoom={10} maxBounds={maxBounds}>
+			<LeafletMap {...mapProps} useFlyTo className={styles.map} maxZoom={19} minZoom={10} maxBounds={maxBounds}>
 				<LocateControl options={locateOptions} startDirectly />
 
 				<TileLayer
@@ -118,14 +137,15 @@ export default function Map({ markers = [] }: MapProps) {
 				/>
 
 				{markers2.map((marker, i) => (
-					<Marker key={i} position={marker.coordinates} icon={marker.icon} onclick={onClick2(marker)}></Marker>
+					<Marker key={i} position={marker.coordinates} icon={marker.icon} onclick={handleMarkerClick(marker)}></Marker>
 				))}
 			</LeafletMap>
 			<Dialog
 				open={!!currentMarker}
+				classes={{ scrollPaper: classes.dialogScrollPaper }}
 				TransitionComponent={Transition}
 				keepMounted
-				onClose={handleClose}
+				onClose={handleCloseDialog}
 				aria-labelledby="alert-dialog-slide-title"
 				aria-describedby="alert-dialog-slide-description">
 				<DialogTitle id="alert-dialog-slide-title">
@@ -148,15 +168,3 @@ export default function Map({ markers = [] }: MapProps) {
 		</div>
 	);
 }
-
-export const getStaticProps: GetStaticProps = async (context) => {
-	const data = await import('../../public/markers.json');
-
-	const markers: Array<MyMarker> = data.default as Array<MyMarker>;
-
-	return {
-		props: {
-			markers,
-		},
-	};
-};

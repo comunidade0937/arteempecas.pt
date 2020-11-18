@@ -32,6 +32,10 @@
 	align-items: center;
 }
 
+.mapMarkerSelected {
+	background-color: #c55900;
+}
+
 .mapLocateIcon {
 	display: flex;
 	height: 100%;
