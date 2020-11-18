@@ -16,7 +16,7 @@
 }
 
 .mapMarker {
-	display: flex;
+	display: flex !important;
 	background-color: #098b81;
 	color: #fff;
 
