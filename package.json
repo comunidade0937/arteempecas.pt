@@ -12,11 +12,11 @@
 	"dependencies": {
 		"@material-ui/core": "^4.11.0",
 		"@material-ui/icons": "^4.9.1",
-		"axios": "^0.20.0",
+		"axios": "^0.21.0",
 		"classnames": "^2.2.6",
 		"leaflet": "^1.7.1",
 		"leaflet.locatecontrol": "^0.72.0",
-		"next": "9.5.3",
+		"next": "10.0.1",
 		"qrcode.react": "^1.0.0",
 		"react": "16.13.1",
 		"react-div-100vh": "^0.5.6",
@@ -27,14 +27,14 @@
 	"devDependencies": {
 		"@types/classnames": "^2.2.11",
 		"@types/leaflet.locatecontrol": "^0.60.7",
-		"@types/node": "^14.11.2",
+		"@types/node": "^14.14.8",
 		"@types/qrcode.react": "^1.0.1",
-		"@types/react": "^16.9.50",
+		"@types/react": "^16.9.56",
 		"@types/react-leaflet": "^2.5.2",
-		"next-compose-plugins": "^2.2.0",
-		"next-images": "^1.6.0",
+		"next-compose-plugins": "^2.2.1",
+		"next-images": "^1.6.2",
 		"next-react-svg": "^1.1.2",
 		"prettier": "2.1.2",
-		"typescript": "^4.0.3"
+		"typescript": "^4.0.5"
 	}
 }
