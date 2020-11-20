@@ -1,441 +1,37 @@
 [
     {
-        "id": "100",
-        "name": "Ginásio Corpo Vivo",
-        "address": "Rua Tenente Coronel Cunha Brandão Lote 1. Loja Ginásio",
+        "id": "1",
+        "name": "Clínica Dentária Lita",
         "coordinates": [
-            41.909931,
-            -8.564803
+            41.913673,
+            -8.566075
         ]
     },
     {
-        "id": "101",
-        "name": "Spegulo",
-        "address": "Rua Tenente Coronel Cunha Brandão Lote 1. Loja Ginásio",
+        "id": "2",
+        "name": "Farmácia Calçada",
+        "address": "Rua dos Emigrantes",
         "coordinates": [
-            41.909937,
-            -8.564275
+            41.912684,
+            -8.56363
         ]
     },
     {
-        "id": "99",
-        "name": "Assist Coura",
-        "address": "Rua Tenente Coronel Cunha Brandão Loja 1 R/C",
+        "id": "3",
+        "name": "MClinic",
+        "address": "Largo 5 de Outubro",
         "coordinates": [
-            41.909747,
-            -8.564638
+            41.912922,
+            -8.56311
         ]
     },
     {
-        "id": "93",
-        "name": "Móveis Cunha",
+        "id": "4",
+        "name": "Junta de Freguesia da União de Freguesias de Paredes de Coura e Resende",
+        "address": "Largo 5 de Outubro",
         "coordinates": [
-            41.909805,
-            -8.560356
-        ]
-    },
-    {
-        "id": "93",
-        "name": "Móveis Cunha",
-        "coordinates": [
-            41.910223,
-            -8.560718
-        ]
-    },
-    {
-        "id": "93",
-        "name": "Móveis Cunha",
-        "coordinates": [
-            41.910163,
-            -8.560758
-        ]
-    },
-    {
-        "id": "94",
-        "name": "Talho Ribeiro",
-        "coordinates": [
-            41.910084,
-            -8.560693
-        ]
-    },
-    {
-        "id": "92",
-        "name": "Minhahabita",
-        "address": "Largo Beato Frei Redento da Cruz, 111",
-        "coordinates": [
-            41.910343,
-            -8.56083
-        ]
-    },
-    {
-        "id": "91",
-        "name": "Ourivesaria Barros",
-        "address": "Largo Beato Frei Redento da Cruz, Loja 4",
-        "coordinates": [
-            41.910506,
-            -8.560831
-        ]
-    },
-    {
-        "id": "98",
-        "name": "Biblioteca Municipal Aquilino Ribeiro",
-        "address": "Largo Beato Frei Redento da Cruz",
-        "coordinates": [
-            41.910428,
-            -8.561297
-        ]
-    },
-    {
-        "id": "90",
-        "name": "Blue",
-        "address": "Largo Hintze Ribeiro, Loja 20",
-        "coordinates": [
-            41.910708,
-            -8.560962
-        ]
-    },
-    {
-        "id": "89",
-        "name": "Arquiteto Filipe Sousa",
-        "address": "Largo Hintze Ribeiro, Loja 24",
-        "coordinates": [
-            41.910686,
-            -8.560906
-        ]
-    },
-    {
-        "id": "88",
-        "name": "Ninibel",
-        "address": "Largo Hintze Ribeiro, Loja 26",
-        "coordinates": [
-            41.910668,
-            -8.56085
-        ]
-    },
-    {
-        "id": "87",
-        "name": "Paulo's Bar",
-        "address": "Largo Hintze Ribeiro, Loja 28",
-        "coordinates": [
-            41.910609,
-            -8.560768
-        ]
-    },
-    {
-        "id": "79",
-        "name": "Matos Oculista",
-        "address": "Largo Hintze Ribeiro, Loja 32",
-        "coordinates": [
-            41.910614,
-            -8.560686
-        ]
-    },
-    {
-        "id": "78",
-        "name": "Gabinete de Estética A.G.",
-        "address": "Largo Hintze Ribeiro, Loja 34",
-        "coordinates": [
-            41.91069,
-            -8.560622
-        ]
-    },
-    {
-        "id": "77",
-        "name": "Solicitadora Susana Mendes",
-        "address": "Largo Hintze Ribeiro, Loja 38",
-        "coordinates": [
-            41.910795,
-            -8.560586
-        ]
-    },
-    {
-        "id": "86",
-        "name": "Cristina Cabeleireira",
-        "address": "Rua Dr Albano Barreiros, Edifício Coura Shopping, Loja 11",
-        "coordinates": [
-            41.910432,
-            -8.560454
-        ]
-    },
-    {
-        "id": "84",
-        "name": "Paula Caldas, Mediação de Seguros",
-        "address": "Rua Dr Albano Barreiros, Edifício Coura Shopping, Loja 10",
-        "coordinates": [
-            41.910477,
-            -8.560433
-        ]
-    },
-    {
-        "id": "81",
-        "name": "Bella Vela Artesanato",
-        "coordinates": [
-            41.910477,
-            -8.560401
-        ]
-    },
-    {
-        "id": "82",
-        "name": "Clínica Médico Dentária Paula Lima",
-        "address": "Rua Dr Albano Barreiros, Edifício Coura Shopping, Loja 7",
-        "coordinates": [
-            41.910465,
-            -8.560335
-        ]
-    },
-    {
-        "id": "80",
-        "name": "Olímpio Caldas AND Condomínios",
-        "address": "Rua Dr Albano Barreiros, Edifício Coura Shopping, Loja 4",
-        "coordinates": [
-            41.910506,
-            -8.560316
-        ]
-    },
-    {
-        "id": "83",
-        "name": "Florista Pilar Silva",
-        "address": "Rua Dr Albano Barreiros, Edifício Coura Shopping, Loja 5",
-        "coordinates": [
-            41.910414,
-            -8.560263
-        ]
-    },
-    {
-        "id": "85",
-        "name": "RFM Informática",
-        "address": "Rua Dr Albano Barreiros, Edifício Coura Shopping, Loja 6",
-        "coordinates": [
-            41.910406,
-            -8.560278
-        ]
-    },
-    {
-        "id": "75",
-        "name": "Couratel",
-        "address": "Rua Dr. Albano Barreiros, 11",
-        "coordinates": [
-            41.910879,
-            -8.55997
-        ]
-    },
-    {
-        "id": "74",
-        "name": "Móveis Caldas",
-        "address": "Rua Custódio José Vieira, 5",
-        "coordinates": [
-            41.910877,
-            -8.559854
-        ]
-    },
-    {
-        "id": "73",
-        "name": "Sapataria Courense",
-        "address": "Rua Dr. Narciso Alves da Cunha, 2-4",
-        "coordinates": [
-            41.910737,
-            -8.559424
-        ]
-    },
-    {
-        "id": "72",
-        "name": "Livraria Gomes",
-        "address": "Rua Dr Narciso Alves da Cunha, 8",
-        "coordinates": [
-            41.910595,
-            -8.559295
-        ]
-    },
-    {
-        "id": "71",
-        "name": "Arco Barca Imobiliária",
-        "address": "Rua Dr Narciso Alves da Cunha, 14",
-        "coordinates": [
-            41.910521,
-            -8.559238
-        ]
-    },
-    {
-        "id": "70",
-        "name": "Restaurante Barbaças",
-        "address": "Rua Dr Narciso Alves da Cunha, 19",
-        "coordinates": [
-            41.910457,
-            -8.559192
-        ]
-    },
-    {
-        "id": "97",
-        "name": "Pizzaria Romântica",
-        "address": "Rua Dr Afonso Viana 34",
-        "coordinates": [
-            41.910107,
-            -8.559405
-        ]
-    },
-    {
-        "id": "96",
-        "name": "Florart",
-        "address": "Rua Dr Afonso Viana 77",
-        "coordinates": [
-            41.909849,
-            -8.559732
-        ]
-    },
-    {
-        "id": "95",
-        "name": "Angela Nails Beauty",
-        "address": "Rua Dr Afonso Viana 84",
-        "coordinates": [
-            41.909875,
-            -8.559926
-        ]
-    },
-    {
-        "id": "69",
-        "name": "Bombeiros de Paredes de Coura",
-        "address": "Rua 25 de Abril",
-        "coordinates": [
-            41.910351,
-            -8.558712
-        ]
-    },
-    {
-        "id": "68",
-        "name": "Restaurante Albergaria",
-        "address": "Rua Dr Narciso Alves da Cunha",
-        "coordinates": [
-            41.910499,
-            -8.559033
-        ]
-    },
-    {
-        "id": "67",
-        "name": "Chinês(?)",
-        "coordinates": [
-            41.910649,
-            -8.559144
-        ]
-    },
-    {
-        "id": "66",
-        "name": "Frescos Coyra",
-        "address": "Rua Dr Narciso Alves da Cunha, 9",
-        "coordinates": [
-            41.910774,
-            -8.559251
-        ]
-    },
-    {
-        "id": "65",
-        "name": "Pedreira Seguros",
-        "address": "Rua Dr Narciso Alves da Cunha, 3",
-        "coordinates": [
-            41.910854,
-            -8.559309
-        ]
-    },
-    {
-        "id": "64",
-        "name": "Crédito Agrícola",
-        "coordinates": [
-            41.911019,
-            -8.559419
-        ]
-    },
-    {
-        "id": "56",
-        "name": "Ourivesaria Rodrigues",
-        "address": "Rua Conselheiro Miguel Dantas, 67",
-        "coordinates": [
-            41.911363,
-            -8.559572
-        ]
-    },
-    {
-        "id": "55",
-        "name": "Garrafeira Mini Mercado do Jardim",
-        "address": "Rua Heróis do Ultramar, 19",
-        "coordinates": [
-            41.911652,
-            -8.559714
-        ]
-    },
-    {
-        "id": "45",
-        "name": "Quartel das Artes",
-        "coordinates": [
-            41.912092,
-            -8.559854
-        ]
-    },
-    {
-        "id": "46",
-        "name": "Museu Regional",
-        "coordinates": [
-            41.912742,
-            -8.55906
-        ]
-    },
-    {
-        "id": "47",
-        "name": "Energicoura",
-        "address": "Rua Dr Aquilino Ribeiro, Bloco 10, Loja 1 e 2",
-        "coordinates": [
-            41.912942,
-            -8.556675
-        ]
-    },
-    {
-        "id": "48",
-        "name": "Cabeleireiros e Estética Nova Imagem",
-        "address": "Rua Dr Aquilino Ribeiro, Bloco 11, Loja 2",
-        "coordinates": [
-            41.913128,
-            -8.556522
-        ]
-    },
-    {
-        "id": "49",
-        "name": "Belar",
-        "address": "Rua Dr Aquilino Ribeiro, Loja 2",
-        "coordinates": [
-            41.912887,
-            -8.556264
-        ]
-    },
-    {
-        "id": "50",
-        "name": "Café Céu Doce",
-        "coordinates": [
-            41.912921,
-            -8.556159
-        ]
-    },
-    {
-        "id": "51",
-        "name": "Electrosat",
-        "address": "Rua Dr Aquilino Ribeiro, Bloco 2, Loja 2",
-        "coordinates": [
-            41.913091,
-            -8.555931
-        ]
-    },
-    {
-        "id": "52",
-        "name": "Flor e Mimos",
-        "coordinates": [
-            41.913188,
-            -8.555778
-        ]
-    },
-    {
-        "id": "53",
-        "name": "Lavandaria Gira Água",
-        "address": "Rua Dr Aquilino Ribeiro, Bloco 5, Loja 2",
-        "coordinates": [
-            41.913336,
-            -8.555488
+            41.913427,
+            -8.562983
         ]
     },
     {
@@ -546,103 +142,6 @@
         ]
     },
     {
-        "id": "57",
-        "name": "Centro de Camionagem",
-        "coordinates": [
-            41.911567,
-            -8.558518
-        ]
-    },
-    {
-        "id": "60",
-        "name": "Papelaria Courense",
-        "address": "Rua 25 de Abril, Centro de Camionagem, Comércio 3",
-        "coordinates": [
-            41.911443,
-            -8.558431
-        ]
-    },
-    {
-        "id": "62",
-        "name": "Salão Paula",
-        "address": "Rua 25 de Abril, Centro de Camionagem, Comércio 1",
-        "coordinates": [
-            41.911335,
-            -8.558409
-        ]
-    },
-    {
-        "id": "63",
-        "name": "Café Central 2",
-        "address": "Rua 25 de Abril, Centro de Camionagem, Comércio 2",
-        "coordinates": [
-            41.911339,
-            -8.558253
-        ]
-    },
-    {
-        "id": "61",
-        "name": "Bijou",
-        "address": "Rua 25 de Abril, Centro de Camionagem, Comércio 4",
-        "coordinates": [
-            41.911427,
-            -8.558267
-        ]
-    },
-    {
-        "id": "58",
-        "name": "Courense",
-        "address": "Rua 25 de Abril, Centro de Camionagem",
-        "coordinates": [
-            41.911573,
-            -8.558316
-        ]
-    },
-    {
-        "id": "59",
-        "name": "X Decor",
-        "address": "Rua 25 de Abril, 45 R/C Esq",
-        "coordinates": [
-            41.911621,
-            -8.558152
-        ]
-    },
-    {
-        "id": "1",
-        "name": "Clínica Dentária Lita",
-        "coordinates": [
-            41.913673,
-            -8.566075
-        ]
-    },
-    {
-        "id": "2",
-        "name": "Farmácia Calçada",
-        "address": "Rua dos Emigrantes",
-        "coordinates": [
-            41.912684,
-            -8.56363
-        ]
-    },
-    {
-        "id": "3",
-        "name": "MClinic",
-        "address": "Largo 5 de Outubro",
-        "coordinates": [
-            41.912922,
-            -8.56311
-        ]
-    },
-    {
-        "id": "4",
-        "name": "Junta de Freguesia da União de Freguesias de Paredes de Coura e Resende",
-        "address": "Largo 5 de Outubro",
-        "coordinates": [
-            41.913427,
-            -8.562983
-        ]
-    },
-    {
         "id": "17",
         "name": "Nicos Bar",
         "address": "Largo 5 de Outubro, 27",
@@ -684,33 +183,6 @@
         "coordinates": [
             41.912269,
             -8.563032
-        ]
-    },
-    {
-        "id": "102",
-        "name": "Olga Rego",
-        "address": "Rua Dr José Gomes Moreira Loja Nº1 R/C",
-        "coordinates": [
-            41.91208,
-            -8.562344
-        ]
-    },
-    {
-        "id": "103",
-        "name": "Icon",
-        "address": "Rua Dr José Gomes Moreira, 318",
-        "coordinates": [
-            41.912156,
-            -8.562383
-        ]
-    },
-    {
-        "id": "104",
-        "name": "Café Palacium",
-        "address": "Rua Dr José Gomes Moreira, 10",
-        "coordinates": [
-            41.912259,
-            -8.562402
         ]
     },
     {
@@ -802,83 +274,12 @@
         ]
     },
     {
-        "id": "42",
-        "name": "Café Central 1",
-        "address": "Rua Conselheiro Miguel Dantas, 90",
+        "id": "32",
+        "name": "Simple Gift Shop",
+        "address": "Rua Conselheiro Miguel Dantas, 28",
         "coordinates": [
-            41.911796,
-            -8.560436
-        ]
-    },
-    {
-        "id": "41",
-        "name": "Farmácia Ribeiro",
-        "address": "Rua Conselheiro Miguel Dantas, 86-88",
-        "coordinates": [
-            41.911839,
-            -8.560528
-        ]
-    },
-    {
-        "id": "40",
-        "name": "Café do Pi",
-        "address": "Rua Conselheiro Miguel Dantas, 62",
-        "coordinates": [
-            41.91188,
-            -8.560598
-        ]
-    },
-    {
-        "id": "39",
-        "name": "Restaurante A Miquelina",
-        "coordinates": [
-            41.91194,
-            -8.560709
-        ]
-    },
-    {
-        "id": "38",
-        "name": "CL Decor",
-        "address": "Rua Conselheiro Miguel Dantas,",
-        "coordinates": [
-            41.91197,
-            -8.560761
-        ]
-    },
-    {
-        "id": "37",
-        "name": "Casa Forte",
-        "address": "Rua Conselheiro Miguel Dantas, 56A",
-        "coordinates": [
-            41.912059,
-            -8.56087
-        ]
-    },
-    {
-        "id": "36",
-        "name": "Quilate",
-        "address": "Rua Conselheiro Miguel Dantas, 44",
-        "coordinates": [
-            41.912116,
-            -8.560989
-        ]
-    },
-    {
-        "id": "35",
-        "name": "Restaurante Os Mouras",
-        "address": "Rua Conselheiro Miguel Dantas, 42",
-        "coordinates": [
-            41.91225,
-            -8.561233
-        ]
-    },
-    {
-        "id": "34",
-        "name": "Sapataria Alternativa",
-        "address": "Rua Conselheiro Miguel Dantas, 36",
-        "coordinates": [
-            41.912343,
-            -8.561359
+            41.912395,
+            -8.561465
         ]
     },
     {
@@ -891,12 +292,83 @@
         ]
     },
     {
-        "id": "32",
-        "name": "Simple Gift Shop",
-        "address": "Rua Conselheiro Miguel Dantas, 28",
+        "id": "34",
+        "name": "Sapataria Alternativa",
+        "address": "Rua Conselheiro Miguel Dantas, 36",
         "coordinates": [
-            41.912395,
-            -8.561465
+            41.912343,
+            -8.561359
+        ]
+    },
+    {
+        "id": "35",
+        "name": "Restaurante Os Mouras",
+        "address": "Rua Conselheiro Miguel Dantas, 42",
+        "coordinates": [
+            41.91225,
+            -8.561233
+        ]
+    },
+    {
+        "id": "36",
+        "name": "Quilate",
+        "address": "Rua Conselheiro Miguel Dantas, 44",
+        "coordinates": [
+            41.912116,
+            -8.560989
+        ]
+    },
+    {
+        "id": "37",
+        "name": "Casa Forte",
+        "address": "Rua Conselheiro Miguel Dantas, 56A",
+        "coordinates": [
+            41.912059,
+            -8.56087
+        ]
+    },
+    {
+        "id": "38",
+        "name": "CL Decor",
+        "address": "Rua Conselheiro Miguel Dantas,",
+        "coordinates": [
+            41.91197,
+            -8.560761
+        ]
+    },
+    {
+        "id": "39",
+        "name": "Restaurante A Miquelina",
+        "coordinates": [
+            41.91194,
+            -8.560709
+        ]
+    },
+    {
+        "id": "40",
+        "name": "Café do Pi",
+        "address": "Rua Conselheiro Miguel Dantas, 62",
+        "coordinates": [
+            41.91188,
+            -8.560598
+        ]
+    },
+    {
+        "id": "41",
+        "name": "Farmácia Ribeiro",
+        "address": "Rua Conselheiro Miguel Dantas, 86-88",
+        "coordinates": [
+            41.911839,
+            -8.560528
+        ]
+    },
+    {
+        "id": "42",
+        "name": "Café Central 1",
+        "address": "Rua Conselheiro Miguel Dantas, 90",
+        "coordinates": [
+            41.911796,
+            -8.560436
         ]
     },
     {
@@ -917,6 +389,83 @@
         ]
     },
     {
+        "id": "45",
+        "name": "Quartel das Artes",
+        "coordinates": [
+            41.912092,
+            -8.559854
+        ]
+    },
+    {
+        "id": "46",
+        "name": "Museu Regional",
+        "coordinates": [
+            41.912742,
+            -8.55906
+        ]
+    },
+    {
+        "id": "47",
+        "name": "Energicoura",
+        "address": "Rua Dr Aquilino Ribeiro, Bloco 10, Loja 1 e 2",
+        "coordinates": [
+            41.912942,
+            -8.556675
+        ]
+    },
+    {
+        "id": "48",
+        "name": "Cabeleireiros e Estética Nova Imagem",
+        "address": "Rua Dr Aquilino Ribeiro, Bloco 11, Loja 2",
+        "coordinates": [
+            41.913128,
+            -8.556522
+        ]
+    },
+    {
+        "id": "49",
+        "name": "Belar",
+        "address": "Rua Dr Aquilino Ribeiro, Loja 2",
+        "coordinates": [
+            41.912887,
+            -8.556264
+        ]
+    },
+    {
+        "id": "50",
+        "name": "Café Céu Doce",
+        "coordinates": [
+            41.912921,
+            -8.556159
+        ]
+    },
+    {
+        "id": "51",
+        "name": "Electrosat",
+        "address": "Rua Dr Aquilino Ribeiro, Bloco 2, Loja 2",
+        "coordinates": [
+            41.913091,
+            -8.555931
+        ]
+    },
+    {
+        "id": "52",
+        "name": "Flor e Mimos",
+        "coordinates": [
+            41.913188,
+            -8.555778
+        ]
+    },
+    {
+        "id": "53",
+        "name": "Lavandaria Gira Água",
+        "address": "Rua Dr Aquilino Ribeiro, Bloco 5, Loja 2",
+        "coordinates": [
+            41.913336,
+            -8.555488
+        ]
+    },
+    {
         "id": "54",
         "name": "Gabinete de Projetos Octávio Rodrigues",
         "address": "Largo Hintze Ribeiro",
@@ -926,11 +475,462 @@
         ]
     },
     {
+        "id": "55",
+        "name": "Garrafeira Mini Mercado do Jardim",
+        "address": "Rua Heróis do Ultramar, 19",
+        "coordinates": [
+            41.911652,
+            -8.559714
+        ]
+    },
+    {
+        "id": "56",
+        "name": "Ourivesaria Rodrigues",
+        "address": "Rua Conselheiro Miguel Dantas, 67",
+        "coordinates": [
+            41.911363,
+            -8.559572
+        ]
+    },
+    {
+        "id": "57",
+        "name": "Centro de Camionagem",
+        "coordinates": [
+            41.911567,
+            -8.558518
+        ]
+    },
+    {
+        "id": "58",
+        "name": "Courense",
+        "address": "Rua 25 de Abril, Centro de Camionagem",
+        "coordinates": [
+            41.911573,
+            -8.558316
+        ]
+    },
+    {
+        "id": "59",
+        "name": "X Decor",
+        "address": "Rua 25 de Abril, 45 R/C Esq",
+        "coordinates": [
+            41.911621,
+            -8.558152
+        ]
+    },
+    {
+        "id": "60",
+        "name": "Papelaria Courense",
+        "address": "Rua 25 de Abril, Centro de Camionagem, Comércio 3",
+        "coordinates": [
+            41.911443,
+            -8.558431
+        ]
+    },
+    {
+        "id": "61",
+        "name": "Bijou",
+        "address": "Rua 25 de Abril, Centro de Camionagem, Comércio 4",
+        "coordinates": [
+            41.911427,
+            -8.558267
+        ]
+    },
+    {
+        "id": "62",
+        "name": "Salão Paula",
+        "address": "Rua 25 de Abril, Centro de Camionagem, Comércio 1",
+        "coordinates": [
+            41.911335,
+            -8.558409
+        ]
+    },
+    {
+        "id": "63",
+        "name": "Café Central 2",
+        "address": "Rua 25 de Abril, Centro de Camionagem, Comércio 2",
+        "coordinates": [
+            41.911339,
+            -8.558253
+        ]
+    },
+    {
+        "id": "64",
+        "name": "Crédito Agrícola",
+        "coordinates": [
+            41.911019,
+            -8.559419
+        ]
+    },
+    {
+        "id": "65",
+        "name": "Pedreira Seguros",
+        "address": "Rua Dr Narciso Alves da Cunha, 3",
+        "coordinates": [
+            41.910854,
+            -8.559309
+        ]
+    },
+    {
+        "id": "66",
+        "name": "Frescos Coyra",
+        "address": "Rua Dr Narciso Alves da Cunha, 9",
+        "coordinates": [
+            41.910774,
+            -8.559251
+        ]
+    },
+    {
+        "id": "67",
+        "name": "Chinês(?)",
+        "coordinates": [
+            41.910649,
+            -8.559144
+        ]
+    },
+    {
+        "id": "68",
+        "name": "Restaurante Albergaria",
+        "address": "Rua Dr Narciso Alves da Cunha",
+        "coordinates": [
+            41.910499,
+            -8.559033
+        ]
+    },
+    {
+        "id": "69",
+        "name": "Bombeiros de Paredes de Coura",
+        "address": "Rua 25 de Abril",
+        "coordinates": [
+            41.910351,
+            -8.558712
+        ]
+    },
+    {
+        "id": "70",
+        "name": "Restaurante Barbaças",
+        "address": "Rua Dr Narciso Alves da Cunha, 19",
+        "coordinates": [
+            41.910457,
+            -8.559192
+        ]
+    },
+    {
+        "id": "71",
+        "name": "Arco Barca Imobiliária",
+        "address": "Rua Dr Narciso Alves da Cunha, 14",
+        "coordinates": [
+            41.910521,
+            -8.559238
+        ]
+    },
+    {
+        "id": "72",
+        "name": "Livraria Gomes",
+        "address": "Rua Dr Narciso Alves da Cunha, 8",
+        "coordinates": [
+            41.910595,
+            -8.559295
+        ]
+    },
+    {
+        "id": "73",
+        "name": "Sapataria Courense",
+        "address": "Rua Dr. Narciso Alves da Cunha, 2-4",
+        "coordinates": [
+            41.910737,
+            -8.559424
+        ]
+    },
+    {
+        "id": "74",
+        "name": "Móveis Caldas",
+        "address": "Rua Custódio José Vieira, 5",
+        "coordinates": [
+            41.910877,
+            -8.559854
+        ]
+    },
+    {
+        "id": "75",
+        "name": "Couratel",
+        "address": "Rua Dr. Albano Barreiros, 11",
+        "coordinates": [
+            41.910879,
+            -8.55997
+        ]
+    },
+    {
         "id": "76",
         "name": "Caixa de Brinquedos",
         "coordinates": [
             41.911023,
             -8.560421
+        ]
+    },
+    {
+        "id": "77",
+        "name": "Solicitadora Susana Mendes",
+        "address": "Largo Hintze Ribeiro, Loja 38",
+        "coordinates": [
+            41.910795,
+            -8.560586
+        ]
+    },
+    {
+        "id": "78",
+        "name": "Gabinete de Estética A.G.",
+        "address": "Largo Hintze Ribeiro, Loja 34",
+        "coordinates": [
+            41.91069,
+            -8.560622
+        ]
+    },
+    {
+        "id": "79",
+        "name": "Matos Oculista",
+        "address": "Largo Hintze Ribeiro, Loja 32",
+        "coordinates": [
+            41.910614,
+            -8.560686
+        ]
+    },
+    {
+        "id": "80",
+        "name": "Olímpio Caldas AND Condomínios",
+        "address": "Rua Dr Albano Barreiros, Edifício Coura Shopping, Loja 4",
+        "coordinates": [
+            41.910506,
+            -8.560316
+        ]
+    },
+    {
+        "id": "81",
+        "name": "Bella Vela Artesanato",
+        "coordinates": [
+            41.910477,
+            -8.560401
+        ]
+    },
+    {
+        "id": "82",
+        "name": "Clínica Médico Dentária Paula Lima",
+        "address": "Rua Dr Albano Barreiros, Edifício Coura Shopping, Loja 7",
+        "coordinates": [
+            41.910465,
+            -8.560335
+        ]
+    },
+    {
+        "id": "83",
+        "name": "Florista Pilar Silva",
+        "address": "Rua Dr Albano Barreiros, Edifício Coura Shopping, Loja 5",
+        "coordinates": [
+            41.910414,
+            -8.560263
+        ]
+    },
+    {
+        "id": "84",
+        "name": "Paula Caldas, Mediação de Seguros",
+        "address": "Rua Dr Albano Barreiros, Edifício Coura Shopping, Loja 10",
+        "coordinates": [
+            41.910477,
+            -8.560433
+        ]
+    },
+    {
+        "id": "85",
+        "name": "RFM Informática",
+        "address": "Rua Dr Albano Barreiros, Edifício Coura Shopping, Loja 6",
+        "coordinates": [
+            41.910406,
+            -8.560278
+        ]
+    },
+    {
+        "id": "86",
+        "name": "Cristina Cabeleireira",
+        "address": "Rua Dr Albano Barreiros, Edifício Coura Shopping, Loja 11",
+        "coordinates": [
+            41.910432,
+            -8.560454
+        ]
+    },
+    {
+        "id": "87",
+        "name": "Paulo's Bar",
+        "address": "Largo Hintze Ribeiro, Loja 28",
+        "coordinates": [
+            41.910609,
+            -8.560768
+        ]
+    },
+    {
+        "id": "88",
+        "name": "Ninibel",
+        "address": "Largo Hintze Ribeiro, Loja 26",
+        "coordinates": [
+            41.910668,
+            -8.56085
+        ]
+    },
+    {
+        "id": "89",
+        "name": "Arquiteto Filipe Sousa",
+        "address": "Largo Hintze Ribeiro, Loja 24",
+        "coordinates": [
+            41.910686,
+            -8.560906
+        ]
+    },
+    {
+        "id": "90",
+        "name": "Blue",
+        "address": "Largo Hintze Ribeiro, Loja 20",
+        "coordinates": [
+            41.910708,
+            -8.560962
+        ]
+    },
+    {
+        "id": "91",
+        "name": "Ourivesaria Barros",
+        "address": "Largo Beato Frei Redento da Cruz, Loja 4",
+        "coordinates": [
+            41.910506,
+            -8.560831
+        ]
+    },
+    {
+        "id": "92",
+        "name": "Minhahabita",
+        "address": "Largo Beato Frei Redento da Cruz, 111",
+        "coordinates": [
+            41.910343,
+            -8.56083
+        ]
+    },
+    {
+        "id": "93",
+        "name": "Móveis Cunha",
+        "coordinates": [
+            41.909805,
+            -8.560356
+        ]
+    },
+    {
+        "id": "93",
+        "name": "Móveis Cunha",
+        "coordinates": [
+            41.910223,
+            -8.560718
+        ]
+    },
+    {
+        "id": "93",
+        "name": "Móveis Cunha",
+        "coordinates": [
+            41.910163,
+            -8.560758
+        ]
+    },
+    {
+        "id": "94",
+        "name": "Talho Ribeiro",
+        "coordinates": [
+            41.910084,
+            -8.560693
+        ]
+    },
+    {
+        "id": "95",
+        "name": "Angela Nails Beauty",
+        "address": "Rua Dr Afonso Viana 84",
+        "coordinates": [
+            41.909875,
+            -8.559926
+        ]
+    },
+    {
+        "id": "96",
+        "name": "Florart",
+        "address": "Rua Dr Afonso Viana 77",
+        "coordinates": [
+            41.909849,
+            -8.559732
+        ]
+    },
+    {
+        "id": "97",
+        "name": "Pizzaria Romântica",
+        "address": "Rua Dr Afonso Viana 34",
+        "coordinates": [
+            41.910107,
+            -8.559405
+        ]
+    },
+    {
+        "id": "98",
+        "name": "Biblioteca Municipal Aquilino Ribeiro",
+        "address": "Largo Beato Frei Redento da Cruz",
+        "coordinates": [
+            41.910428,
+            -8.561297
+        ]
+    },
+    {
+        "id": "99",
+        "name": "Assist Coura",
+        "address": "Rua Tenente Coronel Cunha Brandão Loja 1 R/C",
+        "coordinates": [
+            41.909747,
+            -8.564638
+        ]
+    },
+    {
+        "id": "100",
+        "name": "Ginásio Corpo Vivo",
+        "address": "Rua Tenente Coronel Cunha Brandão Lote 1. Loja Ginásio",
+        "coordinates": [
+            41.909931,
+            -8.564803
+        ]
+    },
+    {
+        "id": "101",
+        "name": "Spegulo",
+        "address": "Rua Tenente Coronel Cunha Brandão Lote 1. Loja Ginásio",
+        "coordinates": [
+            41.909937,
+            -8.564275
+        ]
+    },
+    {
+        "id": "102",
+        "name": "Olga Rego",
+        "address": "Rua Dr José Gomes Moreira Loja Nº1 R/C",
+        "coordinates": [
+            41.91208,
+            -8.562344
+        ]
+    },
+    {
+        "id": "103",
+        "name": "Icon",
+        "address": "Rua Dr José Gomes Moreira, 318",
+        "coordinates": [
+            41.912156,
+            -8.562383
+        ]
+    },
+    {
+        "id": "104",
+        "name": "Café Palacium",
+        "address": "Rua Dr José Gomes Moreira, 10",
+        "coordinates": [
+            41.912259,
+            -8.562402
         ]
     }
 ]
