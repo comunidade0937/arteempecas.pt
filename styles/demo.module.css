@@ -1,0 +1,111 @@
+@media screen {
+	.container {
+		padding: 1em;
+		display: grid;
+		grid-auto-flow: row;
+		grid-gap: 5em;
+	}
+}
+@media print {
+	.section {
+		display: inline-block;
+
+		margin-top: 1em;
+		border-top: 1px dashed #ddd;
+	}
+	.section:after {
+		content: '';
+		display: block;
+		height: 0px;
+		visibility: hidden;
+	}
+}
+
+.gridContainer {
+	display: grid;
+	grid-template-columns: 1fr 1.5fr 1fr;
+	grid-template-rows: 0.8fr 0.2fr;
+	gap: 0px 0px;
+	grid-template-areas:
+		'grid-left grid-middle grid-right'
+		'grid-bottom grid-bottom grid-bottom';
+}
+.gridLeft {
+	grid-area: grid-left;
+}
+.gridMiddle {
+	grid-area: grid-middle;
+}
+.gridRight {
+	grid-area: grid-right;
+}
+.gridBottom {
+	grid-area: grid-bottom;
+}
+
+.gridContainer {
+	height: 15rem;
+}
+
+.gridLeft,
+.gridMiddle,
+.gridRight,
+.gridBottom {
+	overflow: hidden;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.gridLeft,
+.gridRight {
+	padding: 12px;
+}
+
+.middleCircle {
+	position: relative;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+
+	border: 8px solid black;
+	border-radius: 50%;
+
+	width: 18rem;
+	height: 18rem;
+
+	background-color: #098b81;
+	color: #fff;
+}
+
+.middleCircleNumber {
+	font-size: 8rem;
+	line-height: 8rem;
+}
+
+.middleCircleText {
+	font-size: 0.7rem;
+	padding: 0 2rem;
+	text-align: center;
+	position: absolute;
+	bottom: 2.5rem;
+}
+
+.bottomInfo {
+	border-top: 6px solid black;
+
+	background-color: #373736;
+	color: #fff;
+
+	font-size: 1.5rem;
+	text-transform: uppercase;
+}
+
+.logo,
+.qrcode {
+	width: 100%;
+	max-height: 100%;
+	height: auto;
+}
