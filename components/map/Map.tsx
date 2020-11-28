@@ -42,10 +42,12 @@ const useStyles = makeStyles((theme: Theme) =>
 export type MyMarker = {
 	id: string;
 	name: string;
+	flyer: string;
 	address: string;
 	type: string;
 	coordinates: LatLngExpression;
 	link: string;
+	description: string;
 };
 
 type MapProps = {
@@ -75,7 +77,7 @@ export default function Map({ markers = [], currentMarkerId, onMarkerClicked = (
 			iconSize: [20, 20],
 			iconAnchor: [10, 10],
 			popupAnchor: [0, 0],
-			html: marker.id,
+			html: marker.flyer,
 		});
 
 		const link = googleMapsUrl + marker.coordinates;
@@ -150,12 +152,13 @@ export default function Map({ markers = [], currentMarkerId, onMarkerClicked = (
 				aria-describedby="alert-dialog-slide-description">
 				<DialogTitle id="alert-dialog-slide-title">
 					<Box display="flex" alignItems="center">
-						<Avatar className={classes.dialogAvatar}>{currentMarker?.id}</Avatar>
+						<Avatar className={classes.dialogAvatar}>{currentMarker?.flyer}</Avatar>
 						<Box ml={2}>{currentMarker?.name}</Box>
 					</Box>
 				</DialogTitle>
 				<DialogContent>
 					<DialogContentText id="alert-dialog-slide-description">{currentMarker?.address}</DialogContentText>
+					<DialogContentText id="alert-dialog-slide-description">{currentMarker?.description}</DialogContentText>
 				</DialogContent>
 				<DialogActions>
 					<Link href={currentMarker?.link} target="_blank" rel="noopener">

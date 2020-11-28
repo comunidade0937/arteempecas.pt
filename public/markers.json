@@ -1,86 +1,105 @@
 [
     {
-        "id": "1",
+        "id": "716286a2",
+        "flyer": "1",
         "name": "Clínica Dentária Lita",
+        "description": "Aldeia de Natal",
         "coordinates": [
             41.913673,
             -8.566075
         ]
     },
     {
-        "id": "2",
+        "id": "a250ea76",
+        "flyer": "2",
         "name": "Farmácia Calçada",
         "address": "Rua dos Emigrantes",
+        "description": "Aldeia de Natal",
         "coordinates": [
             41.912684,
             -8.56363
         ]
     },
     {
-        "id": "3",
+        "id": "5ffd6781",
+        "flyer": "3",
         "name": "MClinic",
         "address": "Largo 5 de Outubro",
+        "description": "Aldeia de Natal",
         "coordinates": [
             41.912922,
             -8.56311
         ]
     },
     {
-        "id": "4",
+        "id": "7d154b9a",
+        "flyer": "4",
         "name": "Junta de Freguesia da União de Freguesias de Paredes de Coura e Resende",
         "address": "Largo 5 de Outubro",
+        "description": "Aldeia de Natal",
         "coordinates": [
             41.913427,
             -8.562983
         ]
     },
     {
-        "id": "5",
+        "id": "77de314a",
+        "flyer": "5",
         "name": "JL Reparações",
         "address": "Rua Frei António de Jesus, 42A",
+        "description": "Base espacial Rasputin",
         "coordinates": [
             41.913869,
             -8.561427
         ]
     },
     {
-        "id": "6",
+        "id": "457d3e8c",
+        "flyer": "6",
         "name": "Dental Clinicoura",
         "address": "Rua Frei António de Jesus, 34 R/C",
+        "description": "Carrossell",
         "coordinates": [
             41.913791,
             -8.561512
         ]
     },
     {
-        "id": "7",
+        "id": "b137f034",
+        "flyer": "7",
         "name": "Análises Clínicas Dr Manuel Pimenta",
         "address": "Rua Frei António de Jesus, 24",
+        "description": "Estação de comboios Disneys",
         "coordinates": [
             41.913709,
             -8.561609
         ]
     },
     {
-        "id": "8",
+        "id": "4f4896cf",
+        "flyer": "8",
         "name": "Centro de Estética Candida Pereira",
         "address": "Rua Frei António de Jeses, 22",
+        "description": "Ghostbusters",
         "coordinates": [
             41.913681,
             -8.561647
         ]
     },
     {
-        "id": "9",
+        "id": "092514bf",
+        "flyer": "9",
         "name": "Electro Cunha",
         "address": "Rua Bernardino António Gomes, 9",
+        "description": "Cargueiro do Guerreiro",
         "coordinates": [
             41.91343,
             -8.561636
         ]
     },
     {
-        "id": "10",
+        "id": "41bff900",
+        "flyer": "10",
         "name": "Artesanarte",
         "coordinates": [
             41.913304,
@@ -88,70 +107,85 @@
         ]
     },
     {
-        "id": "11",
+        "id": "e2b30ec2",
+        "flyer": "11",
         "name": "Foto Guilherme",
         "address": "Rua Bernardino António Gomes, 19",
+        "description": "Piodão",
         "coordinates": [
             41.91324,
             -8.561501
         ]
     },
     {
-        "id": "12",
+        "id": "acd1f198",
+        "flyer": "12",
         "name": "Clínica Veterinária Dr Jorge Lino",
         "address": "Rua Bernardino António Gomes, 23",
+        "description": "OutroMundo",
         "coordinates": [
             41.913168,
             -8.561439
         ]
     },
     {
-        "id": "13",
+        "id": "373da690",
+        "flyer": "13",
         "name": "AgrilCoura - Fogões",
         "address": "Rua Bernardino António Gomes",
+        "description": "OutroMundo",
         "coordinates": [
             41.913124,
             -8.561424
         ]
     },
     {
-        "id": "14",
+        "id": "16cbffaa",
+        "flyer": "14",
         "name": "Talho Carlos",
         "address": "Rua Bernardino António Gomes, 31",
+        "description": "Castelo da Tânia",
         "coordinates": [
             41.913047,
             -8.561352
         ]
     },
     {
-        "id": "15",
+        "id": "341fc574",
+        "flyer": "15",
         "name": "AgrilCoura",
         "address": "Rua Bernardino António Gomes, 35",
+        "description": "Helicarrier",
         "coordinates": [
             41.912958,
             -8.561297
         ]
     },
     {
-        "id": "16",
+        "id": "1ded040e",
+        "flyer": "16",
         "name": "Lavandaria Magia do Sabão",
         "address": "Rua Bernardino António Gomes",
+        "description": "Simpsons",
         "coordinates": [
             41.912736,
             -8.561161
         ]
     },
     {
-        "id": "17",
+        "id": "d23abd66",
+        "flyer": "17",
         "name": "Nicos Bar",
         "address": "Largo 5 de Outubro, 27",
+        "description": "Ilha da d. Gertrudes",
         "coordinates": [
             41.913196,
             -8.561877
         ]
     },
     {
-        "id": "18",
+        "id": "5857e32a",
+        "flyer": "18",
         "name": "Pastelaria Courense",
         "address": "Largo 5 de Outubro, 20",
         "coordinates": [
@@ -160,7 +194,8 @@
         ]
     },
     {
-        "id": "19",
+        "id": "cd2035d8",
+        "flyer": "19",
         "name": "Luanita",
         "address": "Largo 5 de Outubro, 16",
         "coordinates": [
@@ -169,50 +204,61 @@
         ]
     },
     {
-        "id": "20",
+        "id": "271bd148",
+        "flyer": "20",
         "name": "Opticoura",
         "address": "Largo 5 de Outubro, 2",
+        "description": "Ilhas Piratas",
         "coordinates": [
             41.912724,
             -8.561979
         ]
     },
     {
-        "id": "21",
+        "id": "4b21d08a",
+        "flyer": "21",
         "name": "Centro Cultural",
+        "description": "Estação, linhas, fábrica, celeiro e pálacio",
         "coordinates": [
             41.912269,
             -8.563032
         ]
     },
     {
-        "id": "22",
+        "id": "00d4e388",
+        "flyer": "22",
         "name": "Papelaria Nova Coura",
         "address": "Rua Conselheiro Miguel Dantas, 10",
+        "description": "Star Wars Batalha de Hoth",
         "coordinates": [
             41.912539,
             -8.562406
         ]
     },
     {
-        "id": "23",
+        "id": "046993ce",
+        "flyer": "23",
         "name": "Belinha Sapataria",
         "address": "Rua Conselheiro Miguel Dantas",
+        "description": "Espaço (cenário amarelo)",
         "coordinates": [
             41.912562,
             -8.562226
         ]
     },
     {
-        "id": "24",
+        "id": "57fc570e",
+        "flyer": "24",
         "name": "Banco Santander",
+        "description": "Carros LEGO tipo model team",
         "coordinates": [
             41.912566,
             -8.562002
         ]
     },
     {
-        "id": "25",
+        "id": "5181d760",
+        "flyer": "25",
         "name": "Atôla",
         "address": "Rua Conselheiro Miguel Dantas, 9",
         "coordinates": [
@@ -221,16 +267,19 @@
         ]
     },
     {
-        "id": "26",
+        "id": "9f3a565c",
+        "flyer": "26",
         "name": "Pastelaria Conselheiro",
         "address": "Rua Conselheiro Miguel Dantas, 17-19",
+        "description": "Steampunk (hugo.tx)",
         "coordinates": [
             41.912593,
             -8.561704
         ]
     },
     {
-        "id": "27",
+        "id": "378a4ed0",
+        "flyer": "27",
         "name": "Café Courense",
         "address": "Rua Conselheiro Miguel Dantas",
         "coordinates": [
@@ -239,16 +288,19 @@
         ]
     },
     {
-        "id": "28",
+        "id": "4340f562",
+        "flyer": "28",
         "name": "Planeta D",
         "address": "Rua Conselheiro Miguel Dantas, 45",
+        "description": "Minifigs Coleccionáveis",
         "coordinates": [
             41.912355,
             -8.561224
         ]
     },
     {
-        "id": "29",
+        "id": "76955f33",
+        "flyer": "29",
         "name": "Primax Jeans",
         "address": "Rua Conselheiro Miguel Dantas, 51",
         "coordinates": [
@@ -257,7 +309,8 @@
         ]
     },
     {
-        "id": "30",
+        "id": "24a8acb3",
+        "flyer": "30",
         "name": "Flor do Coura",
         "address": "Rua Conselheiro Miguel Dantas, 61",
         "coordinates": [
@@ -266,585 +319,718 @@
         ]
     },
     {
-        "id": "31",
+        "id": "ae1b798c",
+        "flyer": "31",
         "name": "Caixa Geral de Depósitos",
+        "description": "Minifigs Coleccionáveis",
         "coordinates": [
             41.912128,
             -8.560879
         ]
     },
     {
-        "id": "32",
+        "id": "05b3ba6c",
+        "flyer": "32",
         "name": "Simple Gift Shop",
         "address": "Rua Conselheiro Miguel Dantas, 28",
+        "description": "Costa Nova (minorka)",
         "coordinates": [
             41.912395,
             -8.561465
         ]
     },
     {
-        "id": "33",
+        "id": "387938e9",
+        "flyer": "33",
         "name": "Primax Jeans Criança",
         "address": "Rua Conselheiro Miguel Dantas, 32",
+        "description": "Baixinho (sets winter village, ideas dinossauro e ideas rua sesamo)",
         "coordinates": [
             41.912345,
             -8.56138
         ]
     },
     {
-        "id": "34",
+        "id": "a63702de",
+        "flyer": "34",
         "name": "Sapataria Alternativa",
         "address": "Rua Conselheiro Miguel Dantas, 36",
+        "description": "Predío dark red do alexis",
         "coordinates": [
             41.912343,
             -8.561359
         ]
     },
     {
-        "id": "35",
+        "id": "350819fb",
+        "flyer": "35",
         "name": "Restaurante Os Mouras",
         "address": "Rua Conselheiro Miguel Dantas, 42",
+        "description": "Hangar e Biplanos",
         "coordinates": [
             41.91225,
             -8.561233
         ]
     },
     {
-        "id": "36",
+        "id": "77773c39",
+        "flyer": "36",
         "name": "Quilate",
         "address": "Rua Conselheiro Miguel Dantas, 44",
+        "description": "Minifigs Coleccionáveis",
         "coordinates": [
             41.912116,
             -8.560989
         ]
     },
     {
-        "id": "37",
+        "id": "f122863c",
+        "flyer": "37",
         "name": "Casa Forte",
         "address": "Rua Conselheiro Miguel Dantas, 56A",
+        "description": "Byblos e Torre de Belém",
         "coordinates": [
             41.912059,
             -8.56087
         ]
     },
     {
-        "id": "38",
+        "id": "b3acc554",
+        "flyer": "38",
         "name": "CL Decor",
         "address": "Rua Conselheiro Miguel Dantas,",
+        "description": "Edifícios Cidade",
         "coordinates": [
             41.91197,
             -8.560761
         ]
     },
     {
-        "id": "39",
+        "id": "3108f73e",
+        "flyer": "39",
         "name": "Restaurante A Miquelina",
+        "description": "Edifícios Cidade",
         "coordinates": [
             41.91194,
             -8.560709
         ]
     },
     {
-        "id": "40",
+        "id": "335ca39a",
+        "flyer": "40",
         "name": "Café do Pi",
         "address": "Rua Conselheiro Miguel Dantas, 62",
+        "description": "Edifícios Cidade",
         "coordinates": [
             41.91188,
             -8.560598
         ]
     },
     {
-        "id": "41",
+        "id": "2d80193a",
+        "flyer": "41",
         "name": "Farmácia Ribeiro",
         "address": "Rua Conselheiro Miguel Dantas, 86-88",
+        "description": "Edifícios Cidade",
         "coordinates": [
             41.911839,
             -8.560528
         ]
     },
     {
-        "id": "42",
+        "id": "6a38b135",
+        "flyer": "42",
         "name": "Café Central 1",
         "address": "Rua Conselheiro Miguel Dantas, 90",
+        "description": "Edifícios Cidade",
         "coordinates": [
             41.911796,
             -8.560436
         ]
     },
     {
-        "id": "43",
+        "id": "5a83d099",
+        "flyer": "43",
         "name": "Pastelaria Visconde",
         "address": "Largo Visconde de Mozelos",
+        "description": "Edifícios da praça da républica de viana",
         "coordinates": [
             41.912289,
             -8.560508
         ]
     },
     {
-        "id": "44",
+        "id": "182129f4",
+        "flyer": "44",
         "name": "Loja Rural",
+        "description": "Astérix (aldeia e forte)",
         "coordinates": [
             41.91218,
             -8.56013
         ]
     },
     {
-        "id": "45",
+        "id": "72e4915f",
+        "flyer": "45",
         "name": "Quartel das Artes",
+        "description": "Catedral do romão",
         "coordinates": [
             41.912092,
             -8.559854
         ]
     },
     {
-        "id": "46",
+        "id": "7a632452",
+        "flyer": "46",
         "name": "Museu Regional",
+        "description": "Palácio????",
         "coordinates": [
             41.912742,
             -8.55906
         ]
     },
     {
-        "id": "47",
+        "id": "a1f3a6a6",
+        "flyer": "47",
         "name": "Energicoura",
         "address": "Rua Dr Aquilino Ribeiro, Bloco 10, Loja 1 e 2",
+        "description": "Edifícios Cidade",
         "coordinates": [
             41.912942,
             -8.556675
         ]
     },
     {
-        "id": "48",
+        "id": "ea76b8a6",
+        "flyer": "48",
         "name": "Cabeleireiros e Estética Nova Imagem",
         "address": "Rua Dr Aquilino Ribeiro, Bloco 11, Loja 2",
+        "description": "Edifícios Cidade",
         "coordinates": [
             41.913128,
             -8.556522
         ]
     },
     {
-        "id": "49",
+        "id": "707dab6e",
+        "flyer": "49",
         "name": "Belar",
         "address": "Rua Dr Aquilino Ribeiro, Loja 2",
+        "description": "Comboios 8-Wide",
         "coordinates": [
             41.912887,
             -8.556264
         ]
     },
     {
-        "id": "50",
+        "id": "0abe1c2f",
+        "flyer": "50",
         "name": "Café Céu Doce",
+        "description": "Comboios 8-Wide",
         "coordinates": [
             41.912921,
             -8.556159
         ]
     },
     {
-        "id": "51",
+        "id": "80484b7e",
+        "flyer": "51",
         "name": "Electrosat",
         "address": "Rua Dr Aquilino Ribeiro, Bloco 2, Loja 2",
+        "description": "Comboios 8-Wide",
         "coordinates": [
             41.913091,
             -8.555931
         ]
     },
     {
-        "id": "52",
+        "id": "8e23d0aa",
+        "flyer": "52",
         "name": "Flor e Mimos",
+        "description": "Comboios 8-Wide",
         "coordinates": [
             41.913188,
             -8.555778
         ]
     },
     {
-        "id": "53",
+        "id": "45b2792c",
+        "flyer": "53",
         "name": "Lavandaria Gira Água",
         "address": "Rua Dr Aquilino Ribeiro, Bloco 5, Loja 2",
+        "description": "Big Ben",
         "coordinates": [
             41.913336,
             -8.555488
         ]
     },
     {
-        "id": "54",
+        "id": "ceadeb16",
+        "flyer": "54",
         "name": "Gabinete de Projetos Octávio Rodrigues",
         "address": "Largo Hintze Ribeiro",
+        "description": "Veículos technic (camião mercedes e camião mack)",
         "coordinates": [
             41.911523,
             -8.560566
         ]
     },
     {
-        "id": "55",
+        "id": "0952550d",
+        "flyer": "55",
         "name": "Garrafeira Mini Mercado do Jardim",
         "address": "Rua Heróis do Ultramar, 19",
+        "description": "Micropolis",
         "coordinates": [
             41.911652,
             -8.559714
         ]
     },
     {
-        "id": "56",
+        "id": "4b40da40",
+        "flyer": "56",
         "name": "Ourivesaria Rodrigues",
         "address": "Rua Conselheiro Miguel Dantas, 67",
+        "description": "Micropolis",
         "coordinates": [
             41.911363,
             -8.559572
         ]
     },
     {
-        "id": "57",
+        "id": "0af7f5d3",
+        "flyer": "57",
         "name": "Centro de Camionagem",
+        "description": "Barco do Guerreiro",
         "coordinates": [
             41.911567,
             -8.558518
         ]
     },
     {
-        "id": "58",
+        "id": "81d26eac",
+        "flyer": "58",
         "name": "Courense",
         "address": "Rua 25 de Abril, Centro de Camionagem",
+        "description": "Veículos Technic (carro desportivo verde e branco)",
         "coordinates": [
             41.911573,
             -8.558316
         ]
     },
     {
-        "id": "59",
+        "id": "5d5827c4",
+        "flyer": "59",
         "name": "X Decor",
         "address": "Rua 25 de Abril, 45 R/C Esq",
+        "description": "Sets Ideas (garrafa, livro, yellow submarine)",
         "coordinates": [
             41.911621,
             -8.558152
         ]
     },
     {
-        "id": "60",
+        "id": "8d0253f4",
+        "flyer": "60",
         "name": "Papelaria Courense",
         "address": "Rua 25 de Abril, Centro de Camionagem, Comércio 3",
+        "description": "Veículos Technic (escavadora pequena)",
         "coordinates": [
             41.911443,
             -8.558431
         ]
     },
     {
-        "id": "61",
+        "id": "04a361a6",
+        "flyer": "61",
         "name": "Bijou",
         "address": "Rua 25 de Abril, Centro de Camionagem, Comércio 4",
+        "description": "Baixinho Mickey e Minie",
         "coordinates": [
             41.911427,
             -8.558267
         ]
     },
     {
-        "id": "62",
+        "id": "25d8e15a",
+        "flyer": "62",
         "name": "Salão Paula",
         "address": "Rua 25 de Abril, Centro de Camionagem, Comércio 1",
+        "description": "Veículos Technic (pá carregedora e grua grande)",
         "coordinates": [
             41.911335,
             -8.558409
         ]
     },
     {
-        "id": "63",
+        "id": "40a6536a",
+        "flyer": "63",
         "name": "Café Central 2",
         "address": "Rua 25 de Abril, Centro de Camionagem, Comércio 2",
+        "description": "Veículos Technic (escavadora gigante)",
         "coordinates": [
             41.911339,
             -8.558253
         ]
     },
     {
-        "id": "64",
+        "id": "65ba7094",
+        "flyer": "64",
         "name": "Crédito Agrícola",
+        "description": "Micropolis",
         "coordinates": [
             41.911019,
             -8.559419
         ]
     },
     {
-        "id": "65",
+        "id": "2e43eed4",
+        "flyer": "65",
         "name": "Pedreira Seguros",
         "address": "Rua Dr Narciso Alves da Cunha, 3",
+        "description": "Modulares",
         "coordinates": [
             41.910854,
             -8.559309
         ]
     },
     {
-        "id": "66",
+        "id": "4f242fe3",
+        "flyer": "66",
         "name": "Frescos Coyra",
         "address": "Rua Dr Narciso Alves da Cunha, 9",
+        "description": "Modulares",
         "coordinates": [
             41.910774,
             -8.559251
         ]
     },
     {
-        "id": "67",
+        "id": "3203b32d",
+        "flyer": "67",
         "name": "Chinês(?)",
+        "description": "R2D2 e BB8",
         "coordinates": [
             41.910649,
             -8.559144
         ]
     },
     {
-        "id": "68",
+        "id": "7b75dd25",
+        "flyer": "68",
         "name": "Restaurante Albergaria",
         "address": "Rua Dr Narciso Alves da Cunha",
+        "description": "Modulares",
         "coordinates": [
             41.910499,
             -8.559033
         ]
     },
     {
-        "id": "69",
+        "id": "71f35e6e",
+        "flyer": "69",
         "name": "Bombeiros de Paredes de Coura",
         "address": "Rua 25 de Abril",
+        "description": "Bombeiros do alexis?",
         "coordinates": [
             41.910351,
             -8.558712
         ]
     },
     {
-        "id": "70",
+        "id": "32e5e6a1",
+        "flyer": "70",
         "name": "Restaurante Barbaças",
         "address": "Rua Dr Narciso Alves da Cunha, 19",
+        "description": "Naves Star Wars",
         "coordinates": [
             41.910457,
             -8.559192
         ]
     },
     {
-        "id": "71",
+        "id": "e61060e8",
+        "flyer": "71",
         "name": "Arco Barca Imobiliária",
         "address": "Rua Dr Narciso Alves da Cunha, 14",
+        "description": "Naves Star Wars",
         "coordinates": [
             41.910521,
             -8.559238
         ]
     },
     {
-        "id": "72",
+        "id": "166620e0",
+        "flyer": "72",
         "name": "Livraria Gomes",
         "address": "Rua Dr Narciso Alves da Cunha, 8",
+        "description": "Naves Star Wars",
         "coordinates": [
             41.910595,
             -8.559295
         ]
     },
     {
-        "id": "73",
+        "id": "21e88c5c",
+        "flyer": "73",
         "name": "Sapataria Courense",
         "address": "Rua Dr. Narciso Alves da Cunha, 2-4",
+        "description": "Naves Star Wars",
         "coordinates": [
             41.910737,
             -8.559424
         ]
     },
     {
-        "id": "74",
+        "id": "075535a0",
+        "flyer": "74",
         "name": "Móveis Caldas",
         "address": "Rua Custódio José Vieira, 5",
+        "description": "Naves Star Wars",
         "coordinates": [
             41.910877,
             -8.559854
         ]
     },
     {
-        "id": "75",
+        "id": "11beede3",
+        "flyer": "75",
         "name": "Couratel",
         "address": "Rua Dr. Albano Barreiros, 11",
+        "description": "Naves Star Wars",
         "coordinates": [
             41.910879,
             -8.55997
         ]
     },
     {
-        "id": "76",
+        "id": "1fcc34a4",
+        "flyer": "76",
         "name": "Caixa de Brinquedos",
+        "description": "Livraria Lello",
         "coordinates": [
             41.911023,
             -8.560421
         ]
     },
     {
-        "id": "77",
+        "id": "19138d9e",
+        "flyer": "77",
         "name": "Solicitadora Susana Mendes",
         "address": "Largo Hintze Ribeiro, Loja 38",
+        "description": "Western - Colonos",
         "coordinates": [
             41.910795,
             -8.560586
         ]
     },
     {
-        "id": "78",
+        "id": "6b49f004",
+        "flyer": "78",
         "name": "Gabinete de Estética A.G.",
         "address": "Largo Hintze Ribeiro, Loja 34",
+        "description": "Western - Comboio",
         "coordinates": [
             41.91069,
             -8.560622
         ]
     },
     {
-        "id": "79",
+        "id": "328158b8",
+        "flyer": "79",
         "name": "Matos Oculista",
         "address": "Largo Hintze Ribeiro, Loja 32",
+        "description": "Western - Forte e cavalaria",
         "coordinates": [
             41.910614,
             -8.560686
         ]
     },
     {
-        "id": "80",
+        "id": "6616063e",
+        "flyer": "80",
         "name": "Olímpio Caldas AND Condomínios",
         "address": "Rua Dr Albano Barreiros, Edifício Coura Shopping, Loja 4",
+        "description": "Opera de Sidney e Taj Mahal",
         "coordinates": [
             41.910506,
             -8.560316
         ]
     },
     {
-        "id": "81",
+        "id": "42533bb4",
+        "flyer": "81",
         "name": "Bella Vela Artesanato",
+        "description": "Architecture",
         "coordinates": [
             41.910477,
             -8.560401
         ]
     },
     {
-        "id": "82",
+        "id": "10d82d73",
+        "flyer": "82",
         "name": "Clínica Médico Dentária Paula Lima",
         "address": "Rua Dr Albano Barreiros, Edifício Coura Shopping, Loja 7",
+        "description": "Architecture",
         "coordinates": [
             41.910465,
             -8.560335
         ]
     },
     {
-        "id": "83",
+        "id": "557b3c71",
+        "flyer": "83",
         "name": "Florista Pilar Silva",
         "address": "Rua Dr Albano Barreiros, Edifício Coura Shopping, Loja 5",
+        "description": "Tower Bridge",
         "coordinates": [
             41.910414,
             -8.560263
         ]
     },
     {
-        "id": "84",
+        "id": "42533c13",
+        "flyer": "84",
         "name": "Paula Caldas, Mediação de Seguros",
         "address": "Rua Dr Albano Barreiros, Edifício Coura Shopping, Loja 10",
+        "description": "Architecture",
         "coordinates": [
             41.910477,
             -8.560433
         ]
     },
     {
-        "id": "85",
+        "id": "7792fcb8",
+        "flyer": "85",
         "name": "RFM Informática",
         "address": "Rua Dr Albano Barreiros, Edifício Coura Shopping, Loja 6",
+        "description": "Architecture",
         "coordinates": [
             41.910406,
             -8.560278
         ]
     },
     {
-        "id": "86",
+        "id": "3b152911",
+        "flyer": "86",
         "name": "Cristina Cabeleireira",
         "address": "Rua Dr Albano Barreiros, Edifício Coura Shopping, Loja 11",
+        "description": "Architecture",
         "coordinates": [
             41.910432,
             -8.560454
         ]
     },
     {
-        "id": "87",
+        "id": "134734a3",
+        "flyer": "87",
         "name": "Paulo's Bar",
         "address": "Largo Hintze Ribeiro, Loja 28",
+        "description": "Western - Acampamento indíos",
         "coordinates": [
             41.910609,
             -8.560768
         ]
     },
     {
-        "id": "88",
+        "id": "792dd1ba",
+        "flyer": "88",
         "name": "Ninibel",
         "address": "Largo Hintze Ribeiro, Loja 26",
+        "description": "Western - Cidade 2",
         "coordinates": [
             41.910668,
             -8.56085
         ]
     },
     {
-        "id": "89",
+        "id": "dbb363c4",
+        "flyer": "89",
         "name": "Arquiteto Filipe Sousa",
         "address": "Largo Hintze Ribeiro, Loja 24",
+        "description": "Lusitanis / Lord of the Rings",
         "coordinates": [
             41.910686,
             -8.560906
         ]
     },
     {
-        "id": "90",
+        "id": "6ce58fdf",
+        "flyer": "90",
         "name": "Blue",
         "address": "Largo Hintze Ribeiro, Loja 20",
+        "description": "Lusitanis / Lord of the Rings",
         "coordinates": [
             41.910708,
             -8.560962
         ]
     },
     {
-        "id": "91",
+        "id": "6616193c",
+        "flyer": "91",
         "name": "Ourivesaria Barros",
         "address": "Largo Beato Frei Redento da Cruz, Loja 4",
+        "description": "Sets antigos",
         "coordinates": [
             41.910506,
             -8.560831
         ]
     },
     {
-        "id": "92",
+        "id": "72e0467e",
+        "flyer": "92",
         "name": "Minhahabita",
         "address": "Largo Beato Frei Redento da Cruz, 111",
+        "description": "Sets antigos",
         "coordinates": [
             41.910343,
             -8.56083
         ]
     },
     {
-        "id": "93",
+        "id": "33ab13d2",
+        "flyer": "93",
         "name": "Móveis Cunha",
+        "description": "Jurassic Park",
         "coordinates": [
             41.909805,
             -8.560356
         ]
     },
     {
-        "id": "93",
+        "id": "297b9788",
+        "flyer": "93",
         "name": "Móveis Cunha",
+        "description": "Casas medievais Venceslau/Alexis",
         "coordinates": [
             41.910223,
             -8.560718
         ]
     },
     {
-        "id": "93",
+        "id": "1b85c3b3",
+        "flyer": "93",
         "name": "Móveis Cunha",
+        "description": "Castelo Venceslau",
         "coordinates": [
             41.910163,
             -8.560758
         ]
     },
     {
-        "id": "94",
+        "id": "5d6a9132",
+        "flyer": "94",
         "name": "Talho Ribeiro",
+        "description": "Jurassic Park",
         "coordinates": [
             41.910084,
             -8.560693
         ]
     },
     {
-        "id": "95",
+        "id": "697caf6a",
+        "flyer": "95",
         "name": "Angela Nails Beauty",
         "address": "Rua Dr Afonso Viana 84",
         "coordinates": [
@@ -853,61 +1039,74 @@
         ]
     },
     {
-        "id": "96",
+        "id": "b40afa2c",
+        "flyer": "96",
         "name": "Florart",
         "address": "Rua Dr Afonso Viana 77",
+        "description": "Set Ideas - Casa na árvore",
         "coordinates": [
             41.909849,
             -8.559732
         ]
     },
     {
-        "id": "97",
+        "id": "40e4a272",
+        "flyer": "97",
         "name": "Pizzaria Romântica",
         "address": "Rua Dr Afonso Viana 34",
+        "description": "Castelo Harry Potter????",
         "coordinates": [
             41.910107,
             -8.559405
         ]
     },
     {
-        "id": "98",
+        "id": "9e7fbcd8",
+        "flyer": "98",
         "name": "Biblioteca Municipal Aquilino Ribeiro",
         "address": "Largo Beato Frei Redento da Cruz",
+        "description": "Sets antigos",
         "coordinates": [
             41.910428,
             -8.561297
         ]
     },
     {
-        "id": "99",
+        "id": "e48c365c",
+        "flyer": "99",
         "name": "Assist Coura",
         "address": "Rua Tenente Coronel Cunha Brandão Loja 1 R/C",
+        "description": "Templo Japonês do Nascimento",
         "coordinates": [
             41.909747,
             -8.564638
         ]
     },
     {
-        "id": "100",
+        "id": "349bb9e2",
+        "flyer": "100",
         "name": "Ginásio Corpo Vivo",
         "address": "Rua Tenente Coronel Cunha Brandão Lote 1. Loja Ginásio",
+        "description": "Casa MInhota",
         "coordinates": [
             41.909931,
             -8.564803
         ]
     },
     {
-        "id": "101",
+        "id": "630e3dea",
+        "flyer": "101",
         "name": "Spegulo",
         "address": "Rua Tenente Coronel Cunha Brandão Lote 1. Loja Ginásio",
+        "description": "Escola Primária",
         "coordinates": [
             41.909937,
             -8.564275
         ]
     },
     {
-        "id": "102",
+        "id": "37594080",
+        "flyer": "102",
         "name": "Olga Rego",
         "address": "Rua Dr José Gomes Moreira Loja Nº1 R/C",
         "coordinates": [
@@ -916,16 +1115,19 @@
         ]
     },
     {
-        "id": "103",
+        "id": "d382b832",
+        "flyer": "103",
         "name": "Icon",
         "address": "Rua Dr José Gomes Moreira, 318",
+        "description": "BrickHeadz",
         "coordinates": [
             41.912156,
             -8.562383
         ]
     },
     {
-        "id": "104",
+        "id": "436fc573",
+        "flyer": "104",
         "name": "Café Palacium",
         "address": "Rua Dr José Gomes Moreira, 10",
         "coordinates": [

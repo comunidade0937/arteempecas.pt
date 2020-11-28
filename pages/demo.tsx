@@ -30,14 +30,14 @@ export default function Demo({ markers }: InferGetStaticPropsType<typeof getStat
 						</div>
 						<div className={styles.gridMiddle}>
 							<div className={styles.middleCircle}>
-								<span className={styles.middleCircleNumber}>{marker?.id}</span>
-								<span className={styles.middleCircleText}>{marker?.name}</span>
+								<span className={styles.middleCircleNumber}>{marker.flyer}</span>
+								<span className={styles.middleCircleText}>{marker.name}</span>
 							</div>
 						</div>
 						<div className={styles.gridRight}>
 							<Logo className={styles.logo} />
 						</div>
-						<div className={classnames(styles.gridBottom, styles.bottomInfo)}>Informação da Construção</div>
+						<div className={classnames(styles.gridBottom, styles.bottomInfo)}>{marker.description}</div>
 					</div>
 				</div>
 			))}
