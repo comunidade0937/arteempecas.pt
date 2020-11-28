@@ -6,6 +6,8 @@ import React from 'react';
 import Avatar from '@material-ui/core/Avatar';
 
 import MapIcon from '@material-ui/icons/Map';
+import DescriptionIcon from '@material-ui/icons/Description';
+import RoomIcon from '@material-ui/icons/Room';
 
 import { makeStyles, createStyles, Theme } from '@material-ui/core/styles';
 
@@ -157,8 +159,22 @@ export default function Map({ markers = [], currentMarkerId, onMarkerClicked = (
 					</Box>
 				</DialogTitle>
 				<DialogContent>
-					<DialogContentText id="alert-dialog-slide-description">{currentMarker?.address}</DialogContentText>
-					<DialogContentText id="alert-dialog-slide-description">{currentMarker?.description}</DialogContentText>
+					<DialogContentText id="alert-dialog-slide-description">
+						{currentMarker?.address && (
+							<Box display="flex" alignItems="center">
+								<RoomIcon />
+								<Box ml={1}>{currentMarker?.address}</Box>
+							</Box>
+						)}
+					</DialogContentText>
+					<DialogContentText id="alert-dialog-slide-description">
+						{currentMarker?.description && (
+							<Box display="flex" alignItems="center">
+								<DescriptionIcon />
+								<Box ml={1}>{currentMarker?.description}</Box>
+							</Box>
+						)}
+					</DialogContentText>
 				</DialogContent>
 				<DialogActions>
 					<Link href={currentMarker?.link} target="_blank" rel="noopener">
