@@ -2,6 +2,7 @@ import React from 'react';
 
 import classnames from 'classnames';
 
+import Link from 'next/link';
 import Head from 'next/head';
 
 import KeyboardArrowDownIcon from '@material-ui/icons/KeyboardArrowDown';
@@ -9,6 +10,7 @@ import FavoriteIcon from '@material-ui/icons/Favorite';
 import Box from '@material-ui/core/Box';
 import Container from '@material-ui/core/Container';
 import Typography from '@material-ui/core/Typography';
+import MuiLink from '@material-ui/core/Link';
 
 import { BottomBar } from '../components';
 
@@ -36,16 +38,32 @@ export default function Home() {
 				<div className={styles.section}>
 					<Container maxWidth="sm">
 						<Typography variant="h2" gutterBottom>
-							Data e Horário
+							Introdução
 						</Typography>
 
-						<Typography variant="body1" gutterBottom>
-							body1. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos blanditiis tenetur unde suscipit, quam beatae rerum inventore consectetur,
-							neque doloribus, cupiditate numquam dignissimos laborum fugiat deleniti? Eum quasi quidem quibusdam.
+						<Typography variant="body1" align="justify" paragraph>
+							O Arte em Peças 2020 acontece num formato completamente inovador. Para garantir toda a segurança aos visitantes, a exposição saiu do Centro
+							Cultural e espalhou-se por mais de 100 locais no centro da vila de Paredes de Coura.
+						</Typography>
+
+						<Typography variant="h2" gutterBottom>
+							Datas
+						</Typography>
+
+						<Typography variant="body1" paragraph>
+							1 de Dezembro de 2020 a 10 de Janeiro de 2021
 						</Typography>
 
 						<Typography variant="h2" gutterBottom>
 							Localização
+						</Typography>
+
+						<Typography variant="body1" paragraph>
+							Vila de Paredes de Coura. Os locais podem ser consultados no{' '}
+							<Link href="/map">
+								<MuiLink>Mapa</MuiLink>
+							</Link>
+							.
 						</Typography>
 					</Container>
 					<Box bgcolor="text.secondary" color="background.paper" textAlign="center">
@@ -53,7 +71,7 @@ export default function Home() {
 							<p>
 								Feito com
 								<FavoriteIcon className={styles.heart} titleAccess="amor" color="secondary" />
-								pela
+								pela{' '}
 								<a target="_blank" rel="noopener" href="https://comunidade0937.com">
 									Comunidade 0937
 								</a>
