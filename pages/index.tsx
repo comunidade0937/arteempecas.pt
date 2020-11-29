@@ -66,21 +66,21 @@ export default function Home() {
 							.
 						</Typography>
 					</Container>
-					<Box bgcolor="text.secondary" color="background.paper" textAlign="center">
-						<Container maxWidth="sm">
-							<p>
-								Feito com
-								<FavoriteIcon className={styles.heart} titleAccess="amor" color="secondary" />
-								pela{' '}
-								<a target="_blank" rel="noopener" href="https://comunidade0937.com">
-									Comunidade 0937
-								</a>
-								.
-							</p>
-							<p>LEGO® é uma marca registada da LEGO Group, que não patrocina nem apoia esta página.</p>
-						</Container>
-					</Box>
 				</div>
+				<Box bgcolor="text.secondary" color="background.paper" textAlign="center" py={1}>
+					<Container maxWidth="sm">
+						<p>
+							Feito com
+							<FavoriteIcon className={styles.heart} titleAccess="amor" color="secondary" />
+							pela{' '}
+							<a target="_blank" rel="noopener" href="https://comunidade0937.com">
+								Comunidade 0937
+							</a>
+							.
+						</p>
+						<p>LEGO® é uma marca registada da LEGO Group, que não patrocina nem apoia esta página.</p>
+					</Container>
+				</Box>
 			</div>
 
 			<div className={classnames(layout.footer, layout.footerSticky)}>
