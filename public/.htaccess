@@ -9,6 +9,14 @@ RewriteCond %{REQUEST_FILENAME} -l [OR]
 RewriteCond %{REQUEST_FILENAME} -d
 RewriteRule ^.*$ - [NC,L]
 
+# Serve HTML files
+RewriteBase /
+RewriteRule ^index\.html$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-l
+RewriteRule ^(.*)$ /$1.html [L]
+
 # AddEncoding allows you to have certain browsers uncompress information on the fly.
 AddEncoding gzip .gz
 
@@ -27,7 +35,7 @@ RewriteRule \.svg\.gz$ - [T=image/svg+xml,E=no-gzip:1]
 Header set Cache-Control "max-age=86400, public"
 </FilesMatch>
 
-<FilesMatch "(index\.html|manifest\.json|sw\.js)$">
+<FilesMatch "(\.html|manifest\.json|sw\.js)$">
 Header set Cache-Control "max-age=0, must-revalidate"
 </FilesMatch>
 
