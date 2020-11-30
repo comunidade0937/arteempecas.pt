@@ -19,6 +19,13 @@ export default {
   },
 
   /*
+   ** Router config
+   */
+  router: {
+    base: '/eventos/2019/arteempecas/'
+  },
+
+  /*
    ** Customize the progress-bar color
    */
   loading: { color: '#fff' },
