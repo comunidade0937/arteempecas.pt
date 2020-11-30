@@ -3,7 +3,6 @@ import React from 'react';
 import classnames from 'classnames';
 
 import Link from 'next/link';
-import Head from 'next/head';
 
 import KeyboardArrowDownIcon from '@material-ui/icons/KeyboardArrowDown';
 import FavoriteIcon from '@material-ui/icons/Favorite';
@@ -22,11 +21,6 @@ import Logo from '../images/logo-aep-2020.svg';
 export default function Home() {
 	return (
 		<div className={layout.container}>
-			<Head>
-				<title>Arte em Peças 2020</title>
-				<link rel="icon" href="/favicon.ico" />
-			</Head>
-
 			<div className={layout.main}>
 				<div className={styles.cover}>
 					<div></div>

@@ -1,7 +1,5 @@
 import classnames from 'classnames';
 
-import Head from 'next/head';
-
 import QRCode from 'qrcode.react';
 
 import { GetStaticProps, InferGetStaticPropsType } from 'next';
@@ -18,15 +16,12 @@ type MapProps = {
 export default function Demo({ markers }: InferGetStaticPropsType<typeof getStaticProps>) {
 	return (
 		<div className={styles.container}>
-			<Head>
-				<title>Arte em Peças 2020</title>
-			</Head>
 			{markers?.map((marker, i) => (
 				<div key={i} className={styles.section}>
 					{/* <h2>{marker?.name}</h2> */}
 					<div className={styles.gridContainer}>
 						<div className={styles.gridLeft}>
-							<QRCode className={styles.qrcode} value={`https://arteempecas-pt.vercel.app/map?m=${marker.id}`} renderAs="svg" />
+							<QRCode className={styles.qrcode} value={`https://arteempecas.pt/map?m=${marker.id}`} renderAs="svg" />
 						</div>
 						<div className={styles.gridMiddle}>
 							<div className={styles.middleCircle}>

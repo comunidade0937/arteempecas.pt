@@ -6,7 +6,6 @@ import { useRouter } from 'next/router';
 import { BottomBar } from '../components';
 
 import layout from '../styles/Layout.module.css';
-import styles from '../styles/Map.module.css';
 import { GetStaticProps, InferGetStaticPropsType } from 'next';
 import { MyMarker } from '../components/map/Map';
 
@@ -32,8 +31,6 @@ export default function Map({ markers }: InferGetStaticPropsType<typeof getStati
 	return (
 		<div className={layout.container}>
 			<Head>
-				<title>Arte em Peças 2020</title>
-				<link rel="icon" href="/favicon.ico" />
 				<link
 					rel="stylesheet"
 					href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
