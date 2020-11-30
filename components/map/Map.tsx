@@ -161,17 +161,17 @@ export default function Map({ markers = [], currentMarkerId, onMarkerClicked = (
 				<DialogContent>
 					<DialogContentText id="alert-dialog-slide-description">
 						{currentMarker?.address && (
-							<Box display="flex" alignItems="center">
+							<Box component="span" display="flex" alignItems="center">
 								<RoomIcon />
-								<Box ml={1}>{currentMarker?.address}</Box>
+								<Box component="span" ml={1}>{currentMarker?.address}</Box>
 							</Box>
 						)}
 					</DialogContentText>
 					<DialogContentText id="alert-dialog-slide-description">
 						{currentMarker?.description && (
-							<Box display="flex" alignItems="center">
+							<Box component="span" display="flex" alignItems="center">
 								<DescriptionIcon />
-								<Box ml={1}>{currentMarker?.description}</Box>
+								<Box component="span" ml={1}>{currentMarker?.description}</Box>
 							</Box>
 						)}
 					</DialogContentText>
