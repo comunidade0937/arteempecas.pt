@@ -3,7 +3,7 @@ import { useRouter } from 'next/router';
 import Link from '../link/Link';
 
 import { BottomNavigation, BottomNavigationAction } from '@material-ui/core';
-import { Home, Map, LocationOn } from '@material-ui/icons';
+import { Home, Map, CropFree } from '@material-ui/icons';
 
 import styles from './BottomBar.module.css';
 
@@ -14,7 +14,7 @@ type BottomBarProps = {
 export default function BottomBar(props: BottomBarProps) {
 	const routes: { [key: number]: string } = {
 		0: '/',
-		1: '/map'
+		1: '/map',
 	};
 
 	const router = useRouter();
@@ -28,6 +28,7 @@ export default function BottomBar(props: BottomBarProps) {
 			<BottomNavigation value={props.activeAction} onChange={onClick} showLabels>
 				<BottomNavigationAction component={Link} href="/" icon={<Home />} />
 				<BottomNavigationAction component={Link} href="/map" icon={<Map />} />
+				<BottomNavigationAction component={Link} href="/scan" icon={<CropFree />} />
 			</BottomNavigation>
 		</div>
 	);
