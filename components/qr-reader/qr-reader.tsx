@@ -1,6 +1,6 @@
 import { Component } from 'react';
 
-import { NextRouter, useRouter } from 'next/router';
+import { useRouter } from 'next/router';
 
 import QrReader from 'react-qr-reader';
 
@@ -27,9 +27,5 @@ export default function MyQrReader() {
 		console.error(err);
 	};
 
-	return (
-		<div>
-			<QrReader delay={300} onError={handleError} onScan={handleScan} style={{ width: '100%' }} />
-		</div>
-	);
+	return <QrReader delay={300} onError={handleError} onScan={handleScan} style={{ width: '100%', maxWidth: '600px' }} />;
 }

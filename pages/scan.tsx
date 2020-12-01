@@ -3,6 +3,10 @@ import dynamic from 'next/dynamic';
 
 import { GetStaticProps, InferGetStaticPropsType } from 'next';
 
+import Box from '@material-ui/core/Box';
+import Container from '@material-ui/core/Container';
+import Typography from '@material-ui/core/Typography';
+
 import { MyMarker } from '../components/map/Map';
 import { BottomBar } from '../components';
 
@@ -12,7 +16,7 @@ type MapProps = {
 	markers?: Array<MyMarker>;
 };
 
-const DynamicComponentWithNoSSR = dynamic(() => import('../components/qr-reader/qr-reader'), { ssr: false });
+const DynamicQRReader = dynamic(() => import('../components/qr-reader/qr-reader'), { ssr: false });
 
 export default function Demo({ markers }: InferGetStaticPropsType<typeof getStaticProps>) {
 	return (
@@ -22,7 +26,14 @@ export default function Demo({ markers }: InferGetStaticPropsType<typeof getStat
 			</Head>
 
 			<div className={layout.mainFullScreen}>
-				<DynamicComponentWithNoSSR />
+				<Box display="flex" alignItems="center" justifyContent="center" mb={2}>
+					<DynamicQRReader />
+				</Box>
+				<Container maxWidth="sm">
+					<Typography variant="body1" align="center" paragraph>
+						Utiliza a câmara do teu Smartphone para ler os QR Codes junto às construções.
+					</Typography>
+				</Container>
 			</div>
 
 			<div className={layout.footer}>
