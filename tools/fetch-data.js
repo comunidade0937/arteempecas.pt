@@ -2,7 +2,7 @@ const axios = require('axios');
 const fsp = require('fs').promises;
 const hashSum = require('hash-sum');
 
-const url = 'https://spreadsheets.google.com/feeds/cells/1SbqtiD7tJbH45dW82_eA6EZ79q_ogWeUSWQTK7ia6lk/2/public/values?alt=json';
+const url = 'https://spreadsheets.google.com/feeds/cells/1SbqtiD7tJbH45dW82_eA6EZ79q_ogWeUSWQTK7ia6lk/1/public/values?alt=json';
 
 function parseFeed(feed) {
 	const rows = [];

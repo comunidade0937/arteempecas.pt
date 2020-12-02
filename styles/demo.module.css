@@ -99,14 +99,14 @@
 	background-color: #373736;
 	color: #fff;
 
-	font-size: 1.5rem;
+	font-size: 1.1rem;
 	text-transform: uppercase;
 
 	padding: 0 0.5em;
 
 	display: flex;
     line-height: 1.6em;
-    align-items: flex-start;
+    align-items: center;
 }
 
 .logo,

@@ -3,7 +3,7 @@
         "id": "716286a2",
         "flyer": "1",
         "name": "Clínica Dentária Lita",
-        "description": "Aldeia de Natal",
+        "description": "Cenário de Natal - Trenó do Pai Natal",
         "coordinates": [
             41.913673,
             -8.566075
@@ -14,7 +14,7 @@
         "flyer": "2",
         "name": "Farmácia Calçada",
         "address": "Rua dos Emigrantes",
-        "description": "Aldeia de Natal",
+        "description": "Cenário de Natal - Estação de comboios",
         "coordinates": [
             41.912684,
             -8.56363
@@ -25,7 +25,7 @@
         "flyer": "3",
         "name": "MClinic",
         "address": "Largo 5 de Outubro",
-        "description": "Aldeia de Natal",
+        "description": "Cenário de Natal - Diversões",
         "coordinates": [
             41.912922,
             -8.56311
@@ -36,7 +36,7 @@
         "flyer": "4",
         "name": "Junta de Freguesia da União de Freguesias de Paredes de Coura e Resende",
         "address": "Largo 5 de Outubro",
-        "description": "Aldeia de Natal",
+        "description": "Cenário de Natal - Habitações e palco de concertos",
         "coordinates": [
             41.913427,
             -8.562983
@@ -47,7 +47,7 @@
         "flyer": "5",
         "name": "JL Reparações",
         "address": "Rua Frei António de Jesus, 42A",
-        "description": "Base espacial Rasputin",
+        "description": "Base Espacial",
         "coordinates": [
             41.913869,
             -8.561427
@@ -58,7 +58,7 @@
         "flyer": "6",
         "name": "Dental Clinicoura",
         "address": "Rua Frei António de Jesus, 34 R/C",
-        "description": "Carrossell",
+        "description": "Conjunto LEGO 10257 Carousel",
         "coordinates": [
             41.913791,
             -8.561512
@@ -69,7 +69,7 @@
         "flyer": "7",
         "name": "Análises Clínicas Dr Manuel Pimenta",
         "address": "Rua Frei António de Jesus, 24",
-        "description": "Estação de comboios Disneys",
+        "description": "Conjunto LEGO 71044 Disney Train and Station",
         "coordinates": [
             41.913709,
             -8.561609
@@ -80,7 +80,7 @@
         "flyer": "8",
         "name": "Centro de Estética Candida Pereira",
         "address": "Rua Frei António de Jeses, 22",
-        "description": "Ghostbusters",
+        "description": "Conjunto LEGO 75827 Firehouse Headquarters",
         "coordinates": [
             41.913681,
             -8.561647
@@ -91,7 +91,7 @@
         "flyer": "9",
         "name": "Electro Cunha",
         "address": "Rua Bernardino António Gomes, 9",
-        "description": "Cargueiro do Guerreiro",
+        "description": "Petroleiro",
         "coordinates": [
             41.91343,
             -8.561636
@@ -101,6 +101,7 @@
         "id": "41bff900",
         "flyer": "10",
         "name": "Artesanarte",
+        "description": "Mortal Engines - Salthook",
         "coordinates": [
             41.913304,
             -8.56153
@@ -111,7 +112,7 @@
         "flyer": "11",
         "name": "Foto Guilherme",
         "address": "Rua Bernardino António Gomes, 19",
-        "description": "Piodão",
+        "description": "Aldeia do Piodão",
         "coordinates": [
             41.91324,
             -8.561501
@@ -122,7 +123,7 @@
         "flyer": "12",
         "name": "Clínica Veterinária Dr Jorge Lino",
         "address": "Rua Bernardino António Gomes, 23",
-        "description": "OutroMundo",
+        "description": "Jurassic Park",
         "coordinates": [
             41.913168,
             -8.561439
@@ -133,7 +134,7 @@
         "flyer": "13",
         "name": "AgrilCoura - Fogões",
         "address": "Rua Bernardino António Gomes",
-        "description": "OutroMundo",
+        "description": "Embarcações voadoras",
         "coordinates": [
             41.913124,
             -8.561424
@@ -144,7 +145,7 @@
         "flyer": "14",
         "name": "Talho Carlos",
         "address": "Rua Bernardino António Gomes, 31",
-        "description": "Castelo da Tânia",
+        "description": "Castelo Summerfell",
         "coordinates": [
             41.913047,
             -8.561352
@@ -155,7 +156,7 @@
         "flyer": "15",
         "name": "AgrilCoura",
         "address": "Rua Bernardino António Gomes, 35",
-        "description": "Helicarrier",
+        "description": "Conjunto LEGO 76042 The SHIELD Helicarrier",
         "coordinates": [
             41.912958,
             -8.561297
@@ -166,7 +167,7 @@
         "flyer": "16",
         "name": "Lavandaria Magia do Sabão",
         "address": "Rua Bernardino António Gomes",
-        "description": "Simpsons",
+        "description": "Conjuntos LEGO Simpsons",
         "coordinates": [
             41.912736,
             -8.561161
@@ -177,7 +178,7 @@
         "flyer": "17",
         "name": "Nicos Bar",
         "address": "Largo 5 de Outubro, 27",
-        "description": "Ilha da d. Gertrudes",
+        "description": "A Peculiar Estalagem da D. Gertrudes",
         "coordinates": [
             41.913196,
             -8.561877
@@ -188,6 +189,7 @@
         "flyer": "18",
         "name": "Pastelaria Courense",
         "address": "Largo 5 de Outubro, 20",
+        "description": "Conjuntos LEGO Apollo 11",
         "coordinates": [
             41.913135,
             -8.561881
@@ -198,6 +200,7 @@
         "flyer": "19",
         "name": "Luanita",
         "address": "Largo 5 de Outubro, 16",
+        "description": "Ilhas dos Piratas",
         "coordinates": [
             41.913041,
             -8.561907
@@ -208,7 +211,7 @@
         "flyer": "20",
         "name": "Opticoura",
         "address": "Largo 5 de Outubro, 2",
-        "description": "Ilhas Piratas",
+        "description": "Casa Minhota",
         "coordinates": [
             41.912724,
             -8.561979
@@ -218,7 +221,7 @@
         "id": "4b21d08a",
         "flyer": "21",
         "name": "Centro Cultural",
-        "description": "Estação, linhas, fábrica, celeiro e pálacio",
+        "description": "Cenário de comboios",
         "coordinates": [
             41.912269,
             -8.563032
@@ -229,7 +232,7 @@
         "flyer": "22",
         "name": "Papelaria Nova Coura",
         "address": "Rua Conselheiro Miguel Dantas, 10",
-        "description": "Star Wars Batalha de Hoth",
+        "description": "Star Wars - Batalha de Hoth",
         "coordinates": [
             41.912539,
             -8.562406
@@ -240,7 +243,7 @@
         "flyer": "23",
         "name": "Belinha Sapataria",
         "address": "Rua Conselheiro Miguel Dantas",
-        "description": "Espaço (cenário amarelo)",
+        "description": "Exploração do planeta amarelo",
         "coordinates": [
             41.912562,
             -8.562226
@@ -250,7 +253,7 @@
         "id": "57fc570e",
         "flyer": "24",
         "name": "Banco Santander",
-        "description": "Carros LEGO tipo model team",
+        "description": "Conjuntos LEGO de automóveis",
         "coordinates": [
             41.912566,
             -8.562002
@@ -261,6 +264,7 @@
         "flyer": "25",
         "name": "Atôla",
         "address": "Rua Conselheiro Miguel Dantas, 9",
+        "description": "Conjunto LEGO 76023 The Tumbler",
         "coordinates": [
             41.912628,
             -8.561815
@@ -271,7 +275,7 @@
         "flyer": "26",
         "name": "Pastelaria Conselheiro",
         "address": "Rua Conselheiro Miguel Dantas, 17-19",
-        "description": "Steampunk (hugo.tx)",
+        "description": "Jurassic Park",
         "coordinates": [
             41.912593,
             -8.561704
@@ -282,6 +286,7 @@
         "flyer": "27",
         "name": "Café Courense",
         "address": "Rua Conselheiro Miguel Dantas",
+        "description": "Jurassic Park",
         "coordinates": [
             41.912489,
             -8.561454
@@ -292,7 +297,7 @@
         "flyer": "28",
         "name": "Planeta D",
         "address": "Rua Conselheiro Miguel Dantas, 45",
-        "description": "Minifigs Coleccionáveis",
+        "description": "Cenário citadino",
         "coordinates": [
             41.912355,
             -8.561224
@@ -303,6 +308,7 @@
         "flyer": "29",
         "name": "Primax Jeans",
         "address": "Rua Conselheiro Miguel Dantas, 51",
+        "description": "Cenário citadino",
         "coordinates": [
             41.912308,
             -8.561143
@@ -313,6 +319,7 @@
         "flyer": "30",
         "name": "Flor do Coura",
         "address": "Rua Conselheiro Miguel Dantas, 61",
+        "description": "Conjunto LEGO 71040 Disney Castle",
         "coordinates": [
             41.912219,
             -8.561012
@@ -322,7 +329,7 @@
         "id": "ae1b798c",
         "flyer": "31",
         "name": "Caixa Geral de Depósitos",
-        "description": "Minifigs Coleccionáveis",
+        "description": "Cenário citadino",
         "coordinates": [
             41.912128,
             -8.560879
@@ -333,7 +340,7 @@
         "flyer": "32",
         "name": "Simple Gift Shop",
         "address": "Rua Conselheiro Miguel Dantas, 28",
-        "description": "Costa Nova (minorka)",
+        "description": "Casas da Costa Nova",
         "coordinates": [
             41.912395,
             -8.561465
@@ -344,7 +351,7 @@
         "flyer": "33",
         "name": "Primax Jeans Criança",
         "address": "Rua Conselheiro Miguel Dantas, 32",
-        "description": "Baixinho (sets winter village, ideas dinossauro e ideas rua sesamo)",
+        "description": "Conjuntos LEGO Winter Village e Ideas",
         "coordinates": [
             41.912345,
             -8.56138
@@ -355,7 +362,7 @@
         "flyer": "34",
         "name": "Sapataria Alternativa",
         "address": "Rua Conselheiro Miguel Dantas, 36",
-        "description": "Predío dark red do alexis",
+        "description": "Cenário citadino",
         "coordinates": [
             41.912343,
             -8.561359
@@ -377,7 +384,7 @@
         "flyer": "36",
         "name": "Quilate",
         "address": "Rua Conselheiro Miguel Dantas, 44",
-        "description": "Minifigs Coleccionáveis",
+        "description": "Minifigs Coleccionáveis (Disney e Simpsons)",
         "coordinates": [
             41.912116,
             -8.560989
@@ -388,7 +395,7 @@
         "flyer": "37",
         "name": "Casa Forte",
         "address": "Rua Conselheiro Miguel Dantas, 56A",
-        "description": "Byblos e Torre de Belém",
+        "description": "Torre de Belém e Byblios",
         "coordinates": [
             41.912059,
             -8.56087
@@ -399,7 +406,7 @@
         "flyer": "38",
         "name": "CL Decor",
         "address": "Rua Conselheiro Miguel Dantas,",
-        "description": "Edifícios Cidade",
+        "description": "Cenário citadino",
         "coordinates": [
             41.91197,
             -8.560761
@@ -409,7 +416,7 @@
         "id": "3108f73e",
         "flyer": "39",
         "name": "Restaurante A Miquelina",
-        "description": "Edifícios Cidade",
+        "description": "Cenário citadino",
         "coordinates": [
             41.91194,
             -8.560709
@@ -420,7 +427,7 @@
         "flyer": "40",
         "name": "Café do Pi",
         "address": "Rua Conselheiro Miguel Dantas, 62",
-        "description": "Edifícios Cidade",
+        "description": "Cenário citadino",
         "coordinates": [
             41.91188,
             -8.560598
@@ -431,7 +438,7 @@
         "flyer": "41",
         "name": "Farmácia Ribeiro",
         "address": "Rua Conselheiro Miguel Dantas, 86-88",
-        "description": "Edifícios Cidade",
+        "description": "Cenário citadino",
         "coordinates": [
             41.911839,
             -8.560528
@@ -442,7 +449,7 @@
         "flyer": "42",
         "name": "Café Central 1",
         "address": "Rua Conselheiro Miguel Dantas, 90",
-        "description": "Edifícios Cidade",
+        "description": "Conjuntos LEGO Technic",
         "coordinates": [
             41.911796,
             -8.560436
@@ -453,7 +460,7 @@
         "flyer": "43",
         "name": "Pastelaria Visconde",
         "address": "Largo Visconde de Mozelos",
-        "description": "Edifícios da praça da républica de viana",
+        "description": "Edifícios da praça da Républica de Viana do Castelo",
         "coordinates": [
             41.912289,
             -8.560508
@@ -463,7 +470,7 @@
         "id": "182129f4",
         "flyer": "44",
         "name": "Loja Rural",
-        "description": "Astérix (aldeia e forte)",
+        "description": "Cenário com aventuras do Astérix e cenários da 2ª Guerra Mundial",
         "coordinates": [
             41.91218,
             -8.56013
@@ -473,7 +480,7 @@
         "id": "72e4915f",
         "flyer": "45",
         "name": "Quartel das Artes",
-        "description": "Catedral do romão",
+        "description": "Castelo medieval",
         "coordinates": [
             41.912092,
             -8.559854
@@ -483,7 +490,7 @@
         "id": "7a632452",
         "flyer": "46",
         "name": "Museu Regional",
-        "description": "Palácio????",
+        "description": "Palácio",
         "coordinates": [
             41.912742,
             -8.55906
@@ -494,7 +501,7 @@
         "flyer": "47",
         "name": "Energicoura",
         "address": "Rua Dr Aquilino Ribeiro, Bloco 10, Loja 1 e 2",
-        "description": "Edifícios Cidade",
+        "description": "Cenário citadino",
         "coordinates": [
             41.912942,
             -8.556675
@@ -505,7 +512,6 @@
         "flyer": "48",
         "name": "Cabeleireiros e Estética Nova Imagem",
         "address": "Rua Dr Aquilino Ribeiro, Bloco 11, Loja 2",
-        "description": "Edifícios Cidade",
         "coordinates": [
             41.913128,
             -8.556522
@@ -516,7 +522,7 @@
         "flyer": "49",
         "name": "Belar",
         "address": "Rua Dr Aquilino Ribeiro, Loja 2",
-        "description": "Comboios 8-Wide",
+        "description": "Cenário Frozen",
         "coordinates": [
             41.912887,
             -8.556264
@@ -526,7 +532,7 @@
         "id": "0abe1c2f",
         "flyer": "50",
         "name": "Café Céu Doce",
-        "description": "Comboios 8-Wide",
+        "description": "Comboios",
         "coordinates": [
             41.912921,
             -8.556159
@@ -537,7 +543,7 @@
         "flyer": "51",
         "name": "Electrosat",
         "address": "Rua Dr Aquilino Ribeiro, Bloco 2, Loja 2",
-        "description": "Comboios 8-Wide",
+        "description": "Comboios",
         "coordinates": [
             41.913091,
             -8.555931
@@ -547,7 +553,7 @@
         "id": "8e23d0aa",
         "flyer": "52",
         "name": "Flor e Mimos",
-        "description": "Comboios 8-Wide",
+        "description": "Jardim citadino",
         "coordinates": [
             41.913188,
             -8.555778
@@ -558,7 +564,7 @@
         "flyer": "53",
         "name": "Lavandaria Gira Água",
         "address": "Rua Dr Aquilino Ribeiro, Bloco 5, Loja 2",
-        "description": "Big Ben",
+        "description": "Conjunto LEGO 10253 Big Ben",
         "coordinates": [
             41.913336,
             -8.555488
@@ -569,7 +575,7 @@
         "flyer": "54",
         "name": "Gabinete de Projetos Octávio Rodrigues",
         "address": "Largo Hintze Ribeiro",
-        "description": "Veículos technic (camião mercedes e camião mack)",
+        "description": "Conjuntos LEGO Technic",
         "coordinates": [
             41.911523,
             -8.560566
@@ -591,7 +597,7 @@
         "flyer": "56",
         "name": "Ourivesaria Rodrigues",
         "address": "Rua Conselheiro Miguel Dantas, 67",
-        "description": "Micropolis",
+        "description": "Conjunto LEGO 41168 Elsa's Jewellery Box",
         "coordinates": [
             41.911363,
             -8.559572
@@ -601,7 +607,7 @@
         "id": "0af7f5d3",
         "flyer": "57",
         "name": "Centro de Camionagem",
-        "description": "Barco do Guerreiro",
+        "description": "Barco de Cruzeiro Fluvial",
         "coordinates": [
             41.911567,
             -8.558518
@@ -612,7 +618,7 @@
         "flyer": "58",
         "name": "Courense",
         "address": "Rua 25 de Abril, Centro de Camionagem",
-        "description": "Veículos Technic (carro desportivo verde e branco)",
+        "description": "Conjuntos LEGO Technic",
         "coordinates": [
             41.911573,
             -8.558316
@@ -623,7 +629,7 @@
         "flyer": "59",
         "name": "X Decor",
         "address": "Rua 25 de Abril, 45 R/C Esq",
-        "description": "Sets Ideas (garrafa, livro, yellow submarine)",
+        "description": "Conjuntos LEGO Ideas",
         "coordinates": [
             41.911621,
             -8.558152
@@ -634,7 +640,7 @@
         "flyer": "60",
         "name": "Papelaria Courense",
         "address": "Rua 25 de Abril, Centro de Camionagem, Comércio 3",
-        "description": "Veículos Technic (escavadora pequena)",
+        "description": "Conjuntos LEGO Technic",
         "coordinates": [
             41.911443,
             -8.558431
@@ -645,7 +651,7 @@
         "flyer": "61",
         "name": "Bijou",
         "address": "Rua 25 de Abril, Centro de Camionagem, Comércio 4",
-        "description": "Baixinho Mickey e Minie",
+        "description": "Conjunto LEGO 43179 Mickey Mouse and Minnie Mouse",
         "coordinates": [
             41.911427,
             -8.558267
@@ -656,7 +662,7 @@
         "flyer": "62",
         "name": "Salão Paula",
         "address": "Rua 25 de Abril, Centro de Camionagem, Comércio 1",
-        "description": "Veículos Technic (pá carregedora e grua grande)",
+        "description": "Conjuntos LEGO Technic",
         "coordinates": [
             41.911335,
             -8.558409
@@ -667,7 +673,7 @@
         "flyer": "63",
         "name": "Café Central 2",
         "address": "Rua 25 de Abril, Centro de Camionagem, Comércio 2",
-        "description": "Veículos Technic (escavadora gigante)",
+        "description": "Conjuntos LEGO Technic",
         "coordinates": [
             41.911339,
             -8.558253
@@ -677,7 +683,7 @@
         "id": "65ba7094",
         "flyer": "64",
         "name": "Crédito Agrícola",
-        "description": "Micropolis",
+        "description": "Cenário com aventuras do Astérix no Egito",
         "coordinates": [
             41.911019,
             -8.559419
@@ -688,7 +694,7 @@
         "flyer": "65",
         "name": "Pedreira Seguros",
         "address": "Rua Dr Narciso Alves da Cunha, 3",
-        "description": "Modulares",
+        "description": "Conjuntos LEGO Modulares",
         "coordinates": [
             41.910854,
             -8.559309
@@ -699,7 +705,7 @@
         "flyer": "66",
         "name": "Frescos Coyra",
         "address": "Rua Dr Narciso Alves da Cunha, 9",
-        "description": "Modulares",
+        "description": "Conjuntos LEGO Modulares",
         "coordinates": [
             41.910774,
             -8.559251
@@ -709,7 +715,7 @@
         "id": "3203b32d",
         "flyer": "67",
         "name": "Chinês(?)",
-        "description": "R2D2 e BB8",
+        "description": "Conjuntos LEGO Robôs Star Wars",
         "coordinates": [
             41.910649,
             -8.559144
@@ -720,7 +726,7 @@
         "flyer": "68",
         "name": "Restaurante Albergaria",
         "address": "Rua Dr Narciso Alves da Cunha",
-        "description": "Modulares",
+        "description": "Conjuntos LEGO Modulares",
         "coordinates": [
             41.910499,
             -8.559033
@@ -731,7 +737,7 @@
         "flyer": "69",
         "name": "Bombeiros de Paredes de Coura",
         "address": "Rua 25 de Abril",
-        "description": "Bombeiros do alexis?",
+        "description": "Quartel dos Bombeiros",
         "coordinates": [
             41.910351,
             -8.558712
@@ -742,7 +748,7 @@
         "flyer": "70",
         "name": "Restaurante Barbaças",
         "address": "Rua Dr Narciso Alves da Cunha, 19",
-        "description": "Naves Star Wars",
+        "description": "Conjuntos LEGO veículos espaciais Star Wars",
         "coordinates": [
             41.910457,
             -8.559192
@@ -753,7 +759,7 @@
         "flyer": "71",
         "name": "Arco Barca Imobiliária",
         "address": "Rua Dr Narciso Alves da Cunha, 14",
-        "description": "Naves Star Wars",
+        "description": "Conjuntos LEGO veículos espaciais Star Wars",
         "coordinates": [
             41.910521,
             -8.559238
@@ -764,7 +770,7 @@
         "flyer": "72",
         "name": "Livraria Gomes",
         "address": "Rua Dr Narciso Alves da Cunha, 8",
-        "description": "Naves Star Wars",
+        "description": "Conjuntos LEGO veículos espaciais Star Wars",
         "coordinates": [
             41.910595,
             -8.559295
@@ -775,7 +781,7 @@
         "flyer": "73",
         "name": "Sapataria Courense",
         "address": "Rua Dr. Narciso Alves da Cunha, 2-4",
-        "description": "Naves Star Wars",
+        "description": "Conjuntos LEGO veículos espaciais Star Wars",
         "coordinates": [
             41.910737,
             -8.559424
@@ -786,7 +792,7 @@
         "flyer": "74",
         "name": "Móveis Caldas",
         "address": "Rua Custódio José Vieira, 5",
-        "description": "Naves Star Wars",
+        "description": "Conjuntos LEGO veículos espaciais Star Wars",
         "coordinates": [
             41.910877,
             -8.559854
@@ -797,7 +803,7 @@
         "flyer": "75",
         "name": "Couratel",
         "address": "Rua Dr. Albano Barreiros, 11",
-        "description": "Naves Star Wars",
+        "description": "Conjuntos LEGO veículos espaciais Star Wars",
         "coordinates": [
             41.910879,
             -8.55997
@@ -851,7 +857,7 @@
         "flyer": "80",
         "name": "Olímpio Caldas AND Condomínios",
         "address": "Rua Dr Albano Barreiros, Edifício Coura Shopping, Loja 4",
-        "description": "Opera de Sidney e Taj Mahal",
+        "description": "Conjuntos LEGO 10256 Taj Mahal e 10234 Sydney Opera House",
         "coordinates": [
             41.910506,
             -8.560316
@@ -861,7 +867,7 @@
         "id": "42533bb4",
         "flyer": "81",
         "name": "Bella Vela Artesanato",
-        "description": "Architecture",
+        "description": "Conjuntos LEGO Architecture",
         "coordinates": [
             41.910477,
             -8.560401
@@ -872,7 +878,7 @@
         "flyer": "82",
         "name": "Clínica Médico Dentária Paula Lima",
         "address": "Rua Dr Albano Barreiros, Edifício Coura Shopping, Loja 7",
-        "description": "Architecture",
+        "description": "Conjuntos LEGO Architecture",
         "coordinates": [
             41.910465,
             -8.560335
@@ -894,7 +900,7 @@
         "flyer": "84",
         "name": "Paula Caldas, Mediação de Seguros",
         "address": "Rua Dr Albano Barreiros, Edifício Coura Shopping, Loja 10",
-        "description": "Architecture",
+        "description": "Conjuntos LEGO Architecture",
         "coordinates": [
             41.910477,
             -8.560433
@@ -905,7 +911,7 @@
         "flyer": "85",
         "name": "RFM Informática",
         "address": "Rua Dr Albano Barreiros, Edifício Coura Shopping, Loja 6",
-        "description": "Architecture",
+        "description": "Conjuntos LEGO Architecture",
         "coordinates": [
             41.910406,
             -8.560278
@@ -916,7 +922,7 @@
         "flyer": "86",
         "name": "Cristina Cabeleireira",
         "address": "Rua Dr Albano Barreiros, Edifício Coura Shopping, Loja 11",
-        "description": "Architecture",
+        "description": "Conjuntos LEGO Architecture",
         "coordinates": [
             41.910432,
             -8.560454
@@ -938,7 +944,7 @@
         "flyer": "88",
         "name": "Ninibel",
         "address": "Largo Hintze Ribeiro, Loja 26",
-        "description": "Western - Cidade 2",
+        "description": "Western - Cidade",
         "coordinates": [
             41.910668,
             -8.56085
@@ -949,7 +955,7 @@
         "flyer": "89",
         "name": "Arquiteto Filipe Sousa",
         "address": "Largo Hintze Ribeiro, Loja 24",
-        "description": "Lusitanis / Lord of the Rings",
+        "description": "O Senhor dos Aneís",
         "coordinates": [
             41.910686,
             -8.560906
@@ -960,7 +966,7 @@
         "flyer": "90",
         "name": "Blue",
         "address": "Largo Hintze Ribeiro, Loja 20",
-        "description": "Lusitanis / Lord of the Rings",
+        "description": "O Senhor dos Aneís",
         "coordinates": [
             41.910708,
             -8.560962
@@ -971,7 +977,7 @@
         "flyer": "91",
         "name": "Ourivesaria Barros",
         "address": "Largo Beato Frei Redento da Cruz, Loja 4",
-        "description": "Sets antigos",
+        "description": "Conjunto LEGO 4002018 Employee Christmas Gift",
         "coordinates": [
             41.910506,
             -8.560831
@@ -982,7 +988,7 @@
         "flyer": "92",
         "name": "Minhahabita",
         "address": "Largo Beato Frei Redento da Cruz, 111",
-        "description": "Sets antigos",
+        "description": "Conjuntos LEGO dos anos 70",
         "coordinates": [
             41.910343,
             -8.56083
@@ -992,7 +998,7 @@
         "id": "33ab13d2",
         "flyer": "93",
         "name": "Móveis Cunha",
-        "description": "Jurassic Park",
+        "description": "Cenário medieval",
         "coordinates": [
             41.909805,
             -8.560356
@@ -1002,7 +1008,7 @@
         "id": "297b9788",
         "flyer": "93",
         "name": "Móveis Cunha",
-        "description": "Casas medievais Venceslau/Alexis",
+        "description": "Igreja medieval",
         "coordinates": [
             41.910223,
             -8.560718
@@ -1012,7 +1018,6 @@
         "id": "1b85c3b3",
         "flyer": "93",
         "name": "Móveis Cunha",
-        "description": "Castelo Venceslau",
         "coordinates": [
             41.910163,
             -8.560758
@@ -1022,7 +1027,7 @@
         "id": "5d6a9132",
         "flyer": "94",
         "name": "Talho Ribeiro",
-        "description": "Jurassic Park",
+        "description": "Cenário medieval",
         "coordinates": [
             41.910084,
             -8.560693
@@ -1043,7 +1048,7 @@
         "flyer": "96",
         "name": "Florart",
         "address": "Rua Dr Afonso Viana 77",
-        "description": "Set Ideas - Casa na árvore",
+        "description": "Conjunto LEGO Ideas 21318 Tree House",
         "coordinates": [
             41.909849,
             -8.559732
@@ -1054,7 +1059,7 @@
         "flyer": "97",
         "name": "Pizzaria Romântica",
         "address": "Rua Dr Afonso Viana 34",
-        "description": "Castelo Harry Potter????",
+        "description": "Conjunto LEGO 71043 Hogwarts Castle",
         "coordinates": [
             41.910107,
             -8.559405
@@ -1065,7 +1070,7 @@
         "flyer": "98",
         "name": "Biblioteca Municipal Aquilino Ribeiro",
         "address": "Largo Beato Frei Redento da Cruz",
-        "description": "Sets antigos",
+        "description": "Conjuntos LEGO dos anos 70",
         "coordinates": [
             41.910428,
             -8.561297
@@ -1076,7 +1081,7 @@
         "flyer": "99",
         "name": "Assist Coura",
         "address": "Rua Tenente Coronel Cunha Brandão Loja 1 R/C",
-        "description": "Templo Japonês do Nascimento",
+        "description": "Templo Japonês",
         "coordinates": [
             41.909747,
             -8.564638
@@ -1087,7 +1092,7 @@
         "flyer": "100",
         "name": "Ginásio Corpo Vivo",
         "address": "Rua Tenente Coronel Cunha Brandão Lote 1. Loja Ginásio",
-        "description": "Casa MInhota",
+        "description": "Cenário de Natal - Quartel dos bombeiros",
         "coordinates": [
             41.909931,
             -8.564803
@@ -1098,7 +1103,7 @@
         "flyer": "101",
         "name": "Spegulo",
         "address": "Rua Tenente Coronel Cunha Brandão Lote 1. Loja Ginásio",
-        "description": "Escola Primária",
+        "description": "Conjunto LEGO 70840 Welcome to Apocalypseburg!",
         "coordinates": [
             41.909937,
             -8.564275
@@ -1109,6 +1114,7 @@
         "flyer": "102",
         "name": "Olga Rego",
         "address": "Rua Dr José Gomes Moreira Loja Nº1 R/C",
+        "description": "Cenário Ninjago",
         "coordinates": [
             41.91208,
             -8.562344
@@ -1119,7 +1125,7 @@
         "flyer": "103",
         "name": "Icon",
         "address": "Rua Dr José Gomes Moreira, 318",
-        "description": "BrickHeadz",
+        "description": "Conjuntos LEGO BrickHeadz",
         "coordinates": [
             41.912156,
             -8.562383
@@ -1130,9 +1136,20 @@
         "flyer": "104",
         "name": "Café Palacium",
         "address": "Rua Dr José Gomes Moreira, 10",
+        "description": "Cenário Ninjago",
         "coordinates": [
             41.912259,
             -8.562402
+        ]
+    },
+    {
+        "id": "59baf2c8",
+        "flyer": "105",
+        "name": "Estamparia Courense",
+        "description": "Conjuntos LEGO Architecture",
+        "coordinates": [
+            41.91047,
+            -8.56037
         ]
     }
 ]
