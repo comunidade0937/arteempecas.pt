@@ -1,7 +1,7 @@
 import { LatLngExpression, latLngBounds, LeafletMouseEvent, divIcon } from 'leaflet';
 import { Map as LeafletMap, Marker, TileLayer } from 'react-leaflet';
 
-import React from 'react';
+import { useState, forwardRef, ReactElement, Ref } from 'react';
 
 import Avatar from '@material-ui/core/Avatar';
 
@@ -26,6 +26,7 @@ import { TransitionProps } from '@material-ui/core/transitions';
 
 import styles from './Map.module.css';
 import LocateControl from './LocateControl';
+import { LocateOptions } from 'leaflet.locatecontrol';
 
 const useStyles = makeStyles((theme: Theme) =>
 	createStyles({
@@ -60,14 +61,14 @@ type MapProps = {
 
 const googleMapsUrl = 'https://www.google.com/maps/dir/?api=1&travelmode=driving&layer=traffic&destination=';
 
-const Transition = React.forwardRef(function Transition(props: TransitionProps & { children?: React.ReactElement<any, any> }, ref: React.Ref<unknown>) {
+const Transition = forwardRef(function Transition(props: TransitionProps & { children?: ReactElement<any, any> }, ref: Ref<unknown>) {
 	return <Slide direction="up" ref={ref} {...props} />;
 });
 
 export default function Map({ markers = [], currentMarkerId, onMarkerClicked = () => {} }: MapProps) {
 	const classes = useStyles();
 
-	const [isNewMap, setIsNewMap] = React.useState<boolean>(true);
+	const [isNewMap, setIsNewMap] = useState<boolean>(true);
 
 	const markers2 = markers.map((marker, i) => {
 		const selected = marker.id === currentMarkerId;
@@ -106,7 +107,8 @@ export default function Map({ markers = [], currentMarkerId, onMarkerClicked = (
 			bounds,
 		});
 
-	const locateOptions = {
+	const locateOptions: LocateOptions = {
+		flyTo: true,
 		position: 'topright',
 		strings: {
 			title: 'A minha localização!',
@@ -117,7 +119,7 @@ export default function Map({ markers = [], currentMarkerId, onMarkerClicked = (
 
 		icon: styles.mapLocateIcon,
 
-		onActivate: () => {}, // callback before engine starts retrieving locations
+		onLocationError() {},
 	};
 
 	const handleMarkerClick = (marker: MyMarker) => (event: LeafletMouseEvent) => {
@@ -163,7 +165,9 @@ export default function Map({ markers = [], currentMarkerId, onMarkerClicked = (
 						{currentMarker?.address && (
 							<Box component="span" display="flex" alignItems="center">
 								<RoomIcon />
-								<Box component="span" ml={1}>{currentMarker?.address}</Box>
+								<Box component="span" ml={1}>
+									{currentMarker?.address}
+								</Box>
 							</Box>
 						)}
 					</DialogContentText>
@@ -171,7 +175,9 @@ export default function Map({ markers = [], currentMarkerId, onMarkerClicked = (
 						{currentMarker?.description && (
 							<Box component="span" display="flex" alignItems="center">
 								<DescriptionIcon />
-								<Box component="span" ml={1}>{currentMarker?.description}</Box>
+								<Box component="span" ml={1}>
+									{currentMarker?.description}
+								</Box>
 							</Box>
 						)}
 					</DialogContentText>
