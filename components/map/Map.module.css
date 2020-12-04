@@ -58,3 +58,16 @@
 :global(.leaflet-control-locate.active.following) .mapLocateIcon::before {
 	background-color: #2a93ee;
 }
+
+:global(.leaflet-control-locate.active.requesting) .mapLocateIcon::before {
+	animation: mapLocateIconColorsLoop 0.5s linear infinite alternate;
+}
+
+@keyframes mapLocateIconColorsLoop {
+	from {
+		background-color: #a8a8a8;
+	}
+	to {
+		background-color: #2a93ee;
+	}
+}
