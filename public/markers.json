@@ -4,6 +4,7 @@
         "flyer": "1",
         "name": "Clínica Dentária Lita",
         "description": "Cenário de Natal - Trenó do Pai Natal",
+        "description2": "Cenário composto por construções originais, algumas delas inspiradas pela série Winter Village. Nesta série a LEGO lança um conjunto por ano abordando edifícios, veículos e situações relacionadas com o Inverno e com o Natal.",
         "coordinates": [
             41.913673,
             -8.566075
@@ -15,6 +16,7 @@
         "name": "Farmácia Calçada",
         "address": "Rua dos Emigrantes",
         "description": "Cenário de Natal - Estação de comboios",
+        "description2": "Cenário composto por construções originais, algumas delas inspiradas pela série Winter Village. Nesta série a LEGO lança um conjunto por ano abordando edifícios, veículos e situações relacionadas com o Inverno e com o Natal.",
         "coordinates": [
             41.912684,
             -8.56363
@@ -26,6 +28,7 @@
         "name": "MClinic",
         "address": "Largo 5 de Outubro",
         "description": "Cenário de Natal - Diversões",
+        "description2": "Cenário composto por construções originais, algumas delas inspiradas pela série Winter Village. Nesta série a LEGO lança um conjunto por ano abordando edifícios, veículos e situações relacionadas com o Inverno e com o Natal.",
         "coordinates": [
             41.912922,
             -8.56311
@@ -37,6 +40,7 @@
         "name": "Junta de Freguesia da União de Freguesias de Paredes de Coura e Resende",
         "address": "Largo 5 de Outubro",
         "description": "Cenário de Natal - Habitações e palco de concertos",
+        "description2": "Cenário composto por construções originais, algumas delas inspiradas pela série Winter Village. Nesta série a LEGO lança um conjunto por ano abordando edifícios, veículos e situações relacionadas com o Inverno e com o Natal.",
         "coordinates": [
             41.913427,
             -8.562983
@@ -48,6 +52,7 @@
         "name": "JL Reparações",
         "address": "Rua Frei António de Jesus, 42A",
         "description": "Base Espacial",
+        "description2": "Construção original representando uma base espacial num planeta distante.",
         "coordinates": [
             41.913869,
             -8.561427
@@ -59,6 +64,7 @@
         "name": "Dental Clinicoura",
         "address": "Rua Frei António de Jesus, 34 R/C",
         "description": "Conjunto LEGO 10257 Carousel",
+        "description2": "Conjunto do tema Creator Expert/Fairground, lançado em 2017 com 2670 peças.",
         "coordinates": [
             41.913791,
             -8.561512
@@ -70,6 +76,7 @@
         "name": "Análises Clínicas Dr Manuel Pimenta",
         "address": "Rua Frei António de Jesus, 24",
         "description": "Conjunto LEGO 71044 Disney Train and Station",
+        "description2": "Conjunto do tema Disney/Disney Parks, lançado em 2019 com 2925 peças. Desenhado pelo português Marcos Bessa.",
         "coordinates": [
             41.913709,
             -8.561609
@@ -81,6 +88,7 @@
         "name": "Centro de Estética Candida Pereira",
         "address": "Rua Frei António de Jeses, 22",
         "description": "Conjunto LEGO 75827 Firehouse Headquarters",
+        "description2": "Conjunto do tema Ghostbusters, lançado em 2016 com 4634 peças. Desenhado pelo português Marcos Bessa.",
         "coordinates": [
             41.913681,
             -8.561647
@@ -92,6 +100,7 @@
         "name": "Electro Cunha",
         "address": "Rua Bernardino António Gomes, 9",
         "description": "Petroleiro",
+        "description2": "Construção original representando um navio petroleiro a ser atacado por piratas modernos. O navio divide-se em três partes para facilitar o transporte e armazenamento.",
         "coordinates": [
             41.91343,
             -8.561636
@@ -102,6 +111,7 @@
         "flyer": "10",
         "name": "Artesanarte",
         "description": "Mortal Engines - Salthook",
+        "description2": "Construção original inspirada numa cidade que se movimenta do filme Mortal Engines. Esta construção possui motores e receptor para se movimentar através de um controlo remoto.",
         "coordinates": [
             41.913304,
             -8.56153
@@ -113,6 +123,7 @@
         "name": "Foto Guilherme",
         "address": "Rua Bernardino António Gomes, 19",
         "description": "Aldeia do Piodão",
+        "description2": "Construção original baseada na Aldeia Histórica do Piodão. Quem conhece a aldeia será capaz de identificar vários detalhes.",
         "coordinates": [
             41.91324,
             -8.561501
@@ -124,6 +135,7 @@
         "name": "Clínica Veterinária Dr Jorge Lino",
         "address": "Rua Bernardino António Gomes, 23",
         "description": "Jurassic Park",
+        "description2": "Cenário original com recurso a alguns conjuntos oficiais do tema inspirado na famosa série de filmes.",
         "coordinates": [
             41.913168,
             -8.561439
@@ -135,6 +147,7 @@
         "name": "AgrilCoura - Fogões",
         "address": "Rua Bernardino António Gomes",
         "description": "Embarcações voadoras",
+        "description2": "Construções originais representando barcos voadores de uma história de fantasia. Um deles é um pequeno barco de transporte de mercadorias, o segundo é um barco pirata.",
         "coordinates": [
             41.913124,
             -8.561424
@@ -146,6 +159,7 @@
         "name": "Talho Carlos",
         "address": "Rua Bernardino António Gomes, 31",
         "description": "Castelo Summerfell",
+        "description2": "Construção original representando um pequeno castelo senhorial com parte do terreno envolvente. Como curiosidade algumas das pequenas peças que compõem as paredes do castelo são de cores raras.",
         "coordinates": [
             41.913047,
             -8.561352
@@ -157,6 +171,7 @@
         "name": "AgrilCoura",
         "address": "Rua Bernardino António Gomes, 35",
         "description": "Conjunto LEGO 76042 The SHIELD Helicarrier",
+        "description2": "Conjunto do tema Marvel Super Heroes/The Avengers, lançado em 2015 com 2996 peças. Desenhado pelo português Marcos Bessa.",
         "coordinates": [
             41.912958,
             -8.561297
@@ -168,6 +183,7 @@
         "name": "Lavandaria Magia do Sabão",
         "address": "Rua Bernardino António Gomes",
         "description": "Conjuntos LEGO Simpsons",
+        "description2": "Conjuntos LEGO 71006 The Simpsons House e 71016 Kwik-E-Market lançados em 2014 e 2015 e com 2523 e 2179 peças respectivamente. Ambos desenhados pelo português Marcos Bessa.",
         "coordinates": [
             41.912736,
             -8.561161
@@ -179,6 +195,7 @@
         "name": "Nicos Bar",
         "address": "Largo 5 de Outubro, 27",
         "description": "A Peculiar Estalagem da D. Gertrudes",
+        "description2": "Construção original representando um pequeno albergue numa ilha distante. Como curiosidade, as peças lisas no telhado estão mal presas para assim darem um melhor efeito.",
         "coordinates": [
             41.913196,
             -8.561877
@@ -190,6 +207,7 @@
         "name": "Pastelaria Courense",
         "address": "Largo 5 de Outubro, 20",
         "description": "Conjuntos LEGO Apollo 11",
+        "description2": "Dois conjuntos LEGO representando a Apollo 11. O primeiro é o 10029 Lunar Lander, lançado em 2003 e com 453 peças. O segundo é o 10266 NASA Apollo 11 Lunar Lander de 2019 e com 1087 peças.",
         "coordinates": [
             41.913135,
             -8.561881
@@ -201,6 +219,7 @@
         "name": "Luanita",
         "address": "Largo 5 de Outubro, 16",
         "description": "Ilhas dos Piratas",
+        "description2": "Construções originais com fantásticas ilhas povoadas por soldados ou piratas. Uma das ilhas é inspirada num conjunto LEGO de 1989, o 6276 Eldorado Fortress.",
         "coordinates": [
             41.913041,
             -8.561907
@@ -212,6 +231,7 @@
         "name": "Opticoura",
         "address": "Largo 5 de Outubro, 2",
         "description": "Casa Minhota",
+        "description2": "Construções originais. Uma representando a vida rural de uma antiga casa minhota. Esta construção foi criada em 2004 e, por isso, utiliza peças e técnicas algo datadas. Por exemplo os animais (vacas e galinhas) são construídos com peças já que a LEGO apenas lançou esses animais cerca de 5 anos depois. A segunda construção representa uma escola primária portuguesa de meados do século passado. A traça era semelhante a muitas escolas daquela altura.",
         "coordinates": [
             41.912724,
             -8.561979
@@ -221,7 +241,8 @@
         "id": "4b21d08a",
         "flyer": "21",
         "name": "Centro Cultural",
-        "description": "Cenário de comboios",
+        "description": "Cenário de comboios e aeroporto",
+        "description2": "Gigantesco cenário citadino constituído por construções originais. A estação de comboios é inspirada na estação de S. Bento no Porto. O aeroporto teve que ser reduzido na sua extensão para poder caber neste local.",
         "coordinates": [
             41.912269,
             -8.563032
@@ -233,6 +254,7 @@
         "name": "Papelaria Nova Coura",
         "address": "Rua Conselheiro Miguel Dantas, 10",
         "description": "Star Wars - Batalha de Hoth",
+        "description2": "Cenário original onde os veículos são conjuntos LEGO. A cena retratada é inspirada no filme Star Wars, o Império Contra-Ataca. Estes dois pequenos displays são fracções de um maior que esteve patente em algumas edições anteriores do Arte em Peças.",
         "coordinates": [
             41.912539,
             -8.562406
@@ -244,6 +266,7 @@
         "name": "Belinha Sapataria",
         "address": "Rua Conselheiro Miguel Dantas",
         "description": "Exploração do planeta amarelo",
+        "description2": "Cenário original com construções originais (exceptuando uma proveniente do conjunto 7649 MT-201 Ultra Drill Walker). Estes cenários foram retirados de um maior que esteve patente em algumas edições anteriores do Arte em Peças. Como curiosidade a superifície do planeta é conseguida através de uma técnica conhecida por SNOT por colocar as peças LEGO de lado.",
         "coordinates": [
             41.912562,
             -8.562226
@@ -988,7 +1011,7 @@
         "flyer": "92",
         "name": "Minhahabita",
         "address": "Largo Beato Frei Redento da Cruz, 111",
-        "description": "Conjuntos LEGO dos anos 70",
+        "description": "Conjuntos LEGO Architecture",
         "coordinates": [
             41.910343,
             -8.56083
@@ -1093,6 +1116,7 @@
         "name": "Ginásio Corpo Vivo",
         "address": "Rua Tenente Coronel Cunha Brandão Lote 1. Loja Ginásio",
         "description": "Cenário de Natal - Quartel dos bombeiros",
+        "description2": "Cenário composto por construções originais, algumas delas inspiradas pela série Winter Village. Nesta série a LEGO lança um conjunto por ano abordando edifícios, veículos e situações relacionadas com o Inverno e com o Natal.",
         "coordinates": [
             41.909931,
             -8.564803

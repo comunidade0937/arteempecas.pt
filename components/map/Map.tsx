@@ -51,6 +51,7 @@ export type MyMarker = {
 	coordinates: LatLngExpression;
 	link: string;
 	description: string;
+	description2: string;
 };
 
 type MapProps = {
@@ -151,6 +152,7 @@ export default function Map({ markers = [], currentMarkerId, onMarkerClicked = (
 				classes={{ scrollPaper: classes.dialogScrollPaper }}
 				TransitionComponent={Transition}
 				keepMounted
+				scroll="body"
 				onClose={handleCloseDialog}
 				aria-labelledby="alert-dialog-slide-title"
 				aria-describedby="alert-dialog-slide-description">
@@ -181,6 +183,7 @@ export default function Map({ markers = [], currentMarkerId, onMarkerClicked = (
 							</Box>
 						)}
 					</DialogContentText>
+					<DialogContentText align="justify">{currentMarker?.description2}</DialogContentText>
 				</DialogContent>
 				<DialogActions>
 					<Link href={currentMarker?.link} target="_blank" rel="noopener">

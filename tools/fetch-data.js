@@ -29,8 +29,9 @@ function parseFeed(feed) {
 				const coordinates = row[2].split(',').map((s) => Number.parseFloat(s.trim()));
 				const flyer = row[3];
 				const description = row[4];
+				const description2 = row[5];
 				const id = hashSum(coordinates.join(','));
-				return { id, flyer, name, address, description, coordinates };
+				return { id, flyer, name, address, description, description2, coordinates };
 			})
 			.sort((a, b) => a.id - b.id);
 
