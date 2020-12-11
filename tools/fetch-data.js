@@ -35,7 +35,7 @@ function parseFeed(feed) {
 			})
 			.sort((a, b) => a.id - b.id);
 
-		await fsp.writeFile('public/markers.json', JSON.stringify(markers, undefined, 4), 'utf8');
+		await fsp.writeFile('data/markers.json', JSON.stringify(markers, undefined, 4), 'utf8');
 	} catch (error) {
 		console.error(error);
 	}

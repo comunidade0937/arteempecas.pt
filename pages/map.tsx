@@ -49,7 +49,7 @@ export default function Map({ markers }: InferGetStaticPropsType<typeof getStati
 }
 
 export const getStaticProps: GetStaticProps<MapProps> = async (context) => {
-	const data = await import('../public/markers.json');
+	const data = await import('../data/markers.json');
 
 	const markers: Array<MyMarker> = data.default as Array<MyMarker>;
 
