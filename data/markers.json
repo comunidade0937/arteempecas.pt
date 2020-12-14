@@ -207,7 +207,7 @@
         "name": "Pastelaria Courense",
         "address": "Largo 5 de Outubro, 20",
         "description": "Conjuntos LEGO Apollo 11",
-        "description2": "Dois conjuntos LEGO representando a Apollo 11. O primeiro é o 10029 Lunar Lander, lançado em 2003 e com 453 peças. O segundo é o 10266 NASA Apollo 11 Lunar Lander de 2019 e com 1087 peças.",
+        "description2": "Dois conjuntos LEGO representando a Apollo 11. O primeiro é o 10029 Lunar Lander, lançado em 2003 e com 453 peças. O segundo é o 10266 NASA Apollo 11 Lunar Lander de 2019 e com 1087 peças. Com estes dois conjuntos é fácil perceber a brutal evolução que o brinquedo LEGO teve nas últimas duas décadas.",
         "coordinates": [
             41.913135,
             -8.561881
@@ -277,6 +277,7 @@
         "flyer": "24",
         "name": "Banco Santander",
         "description": "Conjuntos LEGO de automóveis",
+        "description2": "Display constituído por conjuntos LEGO e duas construções originais. Os conjuntos são tema Creator Expert/Vehicles e foram lançados durante a última década. O destaque nas duas construções vai para uma réplica do UMM, todo-o-terreno fabricado em Portugal no final do século passado.",
         "coordinates": [
             41.912566,
             -8.562002
@@ -288,6 +289,7 @@
         "name": "Atôla",
         "address": "Rua Conselheiro Miguel Dantas, 9",
         "description": "Conjunto LEGO 76023 The Tumbler",
+        "description2": "Conjunto do tema DC Comics Super Heroes, lançado em 2014 e com 1869 peças.",
         "coordinates": [
             41.912628,
             -8.561815
@@ -299,6 +301,7 @@
         "name": "Pastelaria Conselheiro",
         "address": "Rua Conselheiro Miguel Dantas, 17-19",
         "description": "Jurassic Park",
+        "description2": "Cenário original com recurso a alguns conjuntos oficiais do tema inspirado na famosa série de filmes.",
         "coordinates": [
             41.912593,
             -8.561704
@@ -310,6 +313,7 @@
         "name": "Café Courense",
         "address": "Rua Conselheiro Miguel Dantas",
         "description": "Jurassic Park",
+        "description2": "Cenário original com recurso a alguns conjuntos oficiais do tema inspirado na famosa série de filmes.",
         "coordinates": [
             41.912489,
             -8.561454
@@ -321,6 +325,7 @@
         "name": "Planeta D",
         "address": "Rua Conselheiro Miguel Dantas, 45",
         "description": "Cenário citadino",
+        "description2": "Construções originais retiradas do gigantesco cenário citadino que costuma estar presente nas edições do Arte em Peças. Estes edifícios são construídos de forma a serem intercambiáveis, fáceis de armazenar e transportar.",
         "coordinates": [
             41.912355,
             -8.561224
@@ -332,6 +337,7 @@
         "name": "Primax Jeans",
         "address": "Rua Conselheiro Miguel Dantas, 51",
         "description": "Cenário citadino",
+        "description2": "Construções originais retiradas do gigantesco cenário citadino que costuma estar presente nas edições do Arte em Peças. Estes edifícios são construídos de forma a serem intercambiáveis, fáceis de armazenar e transportar.",
         "coordinates": [
             41.912308,
             -8.561143
@@ -343,6 +349,7 @@
         "name": "Flor do Coura",
         "address": "Rua Conselheiro Miguel Dantas, 61",
         "description": "Conjunto LEGO 71040 Disney Castle",
+        "description2": "Conjunto do tema Disney/Disney Parks, lançado em 2016 com 4080 peças. Desenhado pelo português Marcos Bessa.",
         "coordinates": [
             41.912219,
             -8.561012
@@ -353,6 +360,7 @@
         "flyer": "31",
         "name": "Caixa Geral de Depósitos",
         "description": "Cenário citadino",
+        "description2": "Construções originais retiradas do gigantesco cenário citadino que costuma estar presente nas edições do Arte em Peças. Estes edifícios são construídos de forma a serem intercambiáveis, fáceis de armazenar e transportar.",
         "coordinates": [
             41.912128,
             -8.560879
@@ -364,6 +372,7 @@
         "name": "Simple Gift Shop",
         "address": "Rua Conselheiro Miguel Dantas, 28",
         "description": "Casas da Costa Nova",
+        "description2": "Pequeno cenário original representando as casas da Costa Nova perto de Aveiro.",
         "coordinates": [
             41.912395,
             -8.561465
@@ -375,6 +384,7 @@
         "name": "Primax Jeans Criança",
         "address": "Rua Conselheiro Miguel Dantas, 32",
         "description": "Conjuntos LEGO Winter Village e Ideas",
+        "description2": "Conjuntos LEGO das séries Winter Village e Ideas. Winter Village é uma série da LEGO em que todos os anos edita um conjunto dedicado ao tema natalício. Ideas é uma iniciativa da LEGO em que os fãs submetem ideias e se angariarem 10 000 apoiantes tem a hipótese de a empresa lançar o projecto sob a forma de um conjunto. Um dos conjuntos Winter Village foi desenhado pelo português Tiago Catarino.",
         "coordinates": [
             41.912345,
             -8.56138
@@ -386,6 +396,7 @@
         "name": "Sapataria Alternativa",
         "address": "Rua Conselheiro Miguel Dantas, 36",
         "description": "Cenário citadino",
+        "description2": "Construções originais retiradas do gigantesco cenário citadino que costuma estar presente nas edições do Arte em Peças. Estes edifícios são construídos de forma a serem intercambiáveis, fáceis de armazenar e transportar.",
         "coordinates": [
             41.912343,
             -8.561359
@@ -397,6 +408,7 @@
         "name": "Restaurante Os Mouras",
         "address": "Rua Conselheiro Miguel Dantas, 42",
         "description": "Hangar e Biplanos",
+        "description2": "Construção original representando os primórdios da aviação. O telhado do hangar está recortado para permitir a visualização do interior. Ambos os biplanos utilizam técnicas de construção invulgares para obterem o efeito desejado.",
         "coordinates": [
             41.91225,
             -8.561233
@@ -408,6 +420,7 @@
         "name": "Quilate",
         "address": "Rua Conselheiro Miguel Dantas, 44",
         "description": "Minifigs Coleccionáveis (Disney e Simpsons)",
+        "description2": "Desde 2009 que a LEGO lança periodicamente séries de minifigs coleccionáveis. Estas quatro séries são dedicadas ao universo Disney e aos personagens da conhecida série de TV, The Simpsons.",
         "coordinates": [
             41.912116,
             -8.560989
@@ -419,6 +432,7 @@
         "name": "Casa Forte",
         "address": "Rua Conselheiro Miguel Dantas, 56A",
         "description": "Torre de Belém e Byblios",
+        "description2": "Réplica da Torre de São Vicente (mais conhecida por Torre de Belém) em Lisboa e uma biblioteca da antiguidade de fantasia. Ambas as construções são originais.",
         "coordinates": [
             41.912059,
             -8.56087
@@ -430,6 +444,7 @@
         "name": "CL Decor",
         "address": "Rua Conselheiro Miguel Dantas,",
         "description": "Cenário citadino",
+        "description2": "Construções originais retiradas do gigantesco cenário citadino que costuma estar presente nas edições do Arte em Peças. Estes edifícios são construídos de forma a serem intercambiáveis, fáceis de armazenar e transportar.",
         "coordinates": [
             41.91197,
             -8.560761
@@ -440,6 +455,7 @@
         "flyer": "39",
         "name": "Restaurante A Miquelina",
         "description": "Cenário citadino",
+        "description2": "Construções originais retiradas do gigantesco cenário citadino que costuma estar presente nas edições do Arte em Peças. Estes edifícios são construídos de forma a serem intercambiáveis, fáceis de armazenar e transportar.",
         "coordinates": [
             41.91194,
             -8.560709
@@ -451,6 +467,7 @@
         "name": "Café do Pi",
         "address": "Rua Conselheiro Miguel Dantas, 62",
         "description": "Cenário citadino",
+        "description2": "Construções originais retiradas do gigantesco cenário citadino que costuma estar presente nas edições do Arte em Peças. Estes edifícios são construídos de forma a serem intercambiáveis, fáceis de armazenar e transportar.",
         "coordinates": [
             41.91188,
             -8.560598
@@ -462,6 +479,7 @@
         "name": "Farmácia Ribeiro",
         "address": "Rua Conselheiro Miguel Dantas, 86-88",
         "description": "Cenário citadino",
+        "description2": "Construções originais retiradas do gigantesco cenário citadino que costuma estar presente nas edições do Arte em Peças. Estes edifícios são construídos de forma a serem intercambiáveis, fáceis de armazenar e transportar.",
         "coordinates": [
             41.911839,
             -8.560528
@@ -473,6 +491,7 @@
         "name": "Café Central 1",
         "address": "Rua Conselheiro Miguel Dantas, 90",
         "description": "Conjuntos LEGO Technic",
+        "description2": "Desde o final dos anos 70 do século passado que a LEGO lança regularmente conjuntos com capacidades técnicas relevantes. Estes conjuntos, os Technic, possuem mecanismos que possibilitam a concretização de movimentos apenas utilizando peças LEGO. Por norma são dirigidos a jovens ou adultos e requerem bastante destreza na sua montagem.",
         "coordinates": [
             41.911796,
             -8.560436
@@ -484,6 +503,7 @@
         "name": "Pastelaria Visconde",
         "address": "Largo Visconde de Mozelos",
         "description": "Edifícios da praça da Républica de Viana do Castelo",
+        "description2": "Réplica de quatro edifícios da Praça da República em Viana do Castelo.",
         "coordinates": [
             41.912289,
             -8.560508
@@ -504,6 +524,7 @@
         "flyer": "45",
         "name": "Quartel das Artes",
         "description": "Castelo medieval",
+        "description2": "Construção original representando um grande castelo medieval numa ilha. Esta construção foi projetada para fazer parte de um cenário maior e que irá incluir algumas casa medievais que podem ser vistas na loja Móveis Cunha (93) e Talho Ribeiro (94).",
         "coordinates": [
             41.912092,
             -8.559854
@@ -514,6 +535,7 @@
         "flyer": "46",
         "name": "Museu Regional",
         "description": "Palácio",
+        "description2": "Construção original inspirada em palácios de São Petersburgo. Como curiosidade esta construção está dividida em vários módulos para facilitar o armazenamento e transporte.",
         "coordinates": [
             41.912742,
             -8.55906
@@ -525,6 +547,7 @@
         "name": "Energicoura",
         "address": "Rua Dr Aquilino Ribeiro, Bloco 10, Loja 1 e 2",
         "description": "Cenário citadino",
+        "description2": "Construções originais retiradas do gigantesco cenário citadino que costuma estar presente nas edições do Arte em Peças. Estes edifícios são construídos de forma a serem intercambiáveis, fáceis de armazenar e transportar.",
         "coordinates": [
             41.912942,
             -8.556675
@@ -546,6 +569,7 @@
         "name": "Belar",
         "address": "Rua Dr Aquilino Ribeiro, Loja 2",
         "description": "Cenário Frozen",
+        "description2": "Cenário constituído por conjuntos LEGO e criações originais inspiradas nos dois filmes Frozen da Disney.",
         "coordinates": [
             41.912887,
             -8.556264
@@ -556,6 +580,7 @@
         "flyer": "50",
         "name": "Café Céu Doce",
         "description": "Comboios",
+        "description2": "Criações originais onde os comboios estão numa escala diferente da habitual utilizada pela LEGO. Isto resulta em comboios mais detalhados e elaborados. Alguns dos comboios são réplicas de comboios reais.",
         "coordinates": [
             41.912921,
             -8.556159
@@ -567,6 +592,7 @@
         "name": "Electrosat",
         "address": "Rua Dr Aquilino Ribeiro, Bloco 2, Loja 2",
         "description": "Comboios",
+        "description2": "Criações originais onde os comboios estão numa escala diferente da habitual utilizada pela LEGO. Isto resulta em comboios mais detalhados e elaborados. Alguns dos comboios são réplicas de comboios reais.",
         "coordinates": [
             41.913091,
             -8.555931
@@ -577,6 +603,7 @@
         "flyer": "52",
         "name": "Flor e Mimos",
         "description": "Jardim citadino",
+        "description2": "Criação original com um parque citadino. De realçar que a secção central do parque foi elevada para poder ser colocado um lago.",
         "coordinates": [
             41.913188,
             -8.555778
@@ -588,6 +615,7 @@
         "name": "Lavandaria Gira Água",
         "address": "Rua Dr Aquilino Ribeiro, Bloco 5, Loja 2",
         "description": "Conjunto LEGO 10253 Big Ben",
+        "description2": "Conjunto do tema Creator Expert/Buildings, lançado em 2016 com 4163 peças.",
         "coordinates": [
             41.913336,
             -8.555488
@@ -599,6 +627,7 @@
         "name": "Gabinete de Projetos Octávio Rodrigues",
         "address": "Largo Hintze Ribeiro",
         "description": "Conjuntos LEGO Technic",
+        "description2": "Desde o final dos anos 70 do século passado que a LEGO lança regularmente conjuntos com capacidades técnicas relevantes. Estes conjuntos, os Technic, possuem mecanismos que possibilitam a concretização de movimentos apenas utilizando peças LEGO. Por norma são dirigidos a jovens ou adultos e requerem bastante destreza na sua montagem.",
         "coordinates": [
             41.911523,
             -8.560566
@@ -610,6 +639,7 @@
         "name": "Garrafeira Mini Mercado do Jardim",
         "address": "Rua Heróis do Ultramar, 19",
         "description": "Micropolis",
+        "description2": "Construções originais. Em 2017 durante a segunda edição do Paredes de Coura Fan Weekend (convenção internacional do hobby LEGO) os participantes foram desafiados a construírem edifícios numa escala mais pequena que o habitual e utilizando conexões standard. Assim todas as criações poderiam facilmente ser integradas entre elas. Reflexo das diferentes origens dos criadores, as construções são bastante diferentes resultando num pequeno cenário rico de detalhes.",
         "coordinates": [
             41.911652,
             -8.559714
@@ -621,6 +651,7 @@
         "name": "Ourivesaria Rodrigues",
         "address": "Rua Conselheiro Miguel Dantas, 67",
         "description": "Conjunto LEGO 41168 Elsa's Jewellery Box",
+        "description2": "Conjunto do tema Disney/Frozen II, lançado em 2020 com 300 peças. A pequena gaveta contêm dois anéis. Foi adicionado uma base com folhagens.",
         "coordinates": [
             41.911363,
             -8.559572
@@ -631,6 +662,7 @@
         "flyer": "57",
         "name": "Centro de Camionagem",
         "description": "Barco de Cruzeiro Fluvial",
+        "description2": "Enorme cruzeiro fluvial construído à escala das figuras LEGO. A embarcação é constituída por várias secções para facilitar o transporte e armazenagem. Apesar de não estar a ser utilizada, possui um sistema de iluminação interno possibilitando a iluminação dos vários camarotes.",
         "coordinates": [
             41.911567,
             -8.558518
@@ -642,6 +674,7 @@
         "name": "Courense",
         "address": "Rua 25 de Abril, Centro de Camionagem",
         "description": "Conjuntos LEGO Technic",
+        "description2": "Desde o final dos anos 70 do século passado que a LEGO lança regularmente conjuntos com capacidades técnicas relevantes. Estes conjuntos, os Technic, possuem mecanismos que possibilitam a concretização de movimentos apenas utilizando peças LEGO. Por norma são dirigidos a jovens ou adultos e requerem bastante destreza na sua montagem.",
         "coordinates": [
             41.911573,
             -8.558316
@@ -653,6 +686,7 @@
         "name": "X Decor",
         "address": "Rua 25 de Abril, 45 R/C Esq",
         "description": "Conjuntos LEGO Ideas",
+        "description2": "No site Ideas da LEGO os fãs podem submeter projectos de possíveis conjuntos LEGO. Se um projecto receber 10 000 apoiantes, a LEGO estuda a sua viabilidade e se possível edita-o como conjunto oficial LEGO. Aqui estão quatro exemplos deste programa que foram lançados nos últimos anos. O conjunto do barco na garrafa foi desenhado pelo português Tiago Catarino.",
         "coordinates": [
             41.911621,
             -8.558152
@@ -664,6 +698,7 @@
         "name": "Papelaria Courense",
         "address": "Rua 25 de Abril, Centro de Camionagem, Comércio 3",
         "description": "Conjuntos LEGO Technic",
+        "description2": "Desde o final dos anos 70 do século passado que a LEGO lança regularmente conjuntos com capacidades técnicas relevantes. Estes conjuntos, os Technic, possuem mecanismos que possibilitam a concretização de movimentos apenas utilizando peças LEGO. Por norma são dirigidos a jovens ou adultos e requerem bastante destreza na sua montagem.",
         "coordinates": [
             41.911443,
             -8.558431
@@ -675,6 +710,7 @@
         "name": "Bijou",
         "address": "Rua 25 de Abril, Centro de Camionagem, Comércio 4",
         "description": "Conjunto LEGO 43179 Mickey Mouse and Minnie Mouse",
+        "description2": "Conjunto do tema Disney/18+, lançado em 2020 com 1739 peças.",
         "coordinates": [
             41.911427,
             -8.558267
@@ -686,6 +722,7 @@
         "name": "Salão Paula",
         "address": "Rua 25 de Abril, Centro de Camionagem, Comércio 1",
         "description": "Conjuntos LEGO Technic",
+        "description2": "Desde o final dos anos 70 do século passado que a LEGO lança regularmente conjuntos com capacidades técnicas relevantes. Estes conjuntos, os Technic, possuem mecanismos que possibilitam a concretização de movimentos apenas utilizando peças LEGO. Por norma são dirigidos a jovens ou adultos e requerem bastante destreza na sua montagem.",
         "coordinates": [
             41.911335,
             -8.558409
@@ -697,6 +734,7 @@
         "name": "Café Central 2",
         "address": "Rua 25 de Abril, Centro de Camionagem, Comércio 2",
         "description": "Conjuntos LEGO Technic",
+        "description2": "Desde o final dos anos 70 do século passado que a LEGO lança regularmente conjuntos com capacidades técnicas relevantes. Estes conjuntos, os Technic, possuem mecanismos que possibilitam a concretização de movimentos apenas utilizando peças LEGO. Por norma são dirigidos a jovens ou adultos e requerem bastante destreza na sua montagem.",
         "coordinates": [
             41.911339,
             -8.558253
@@ -707,6 +745,7 @@
         "flyer": "64",
         "name": "Crédito Agrícola",
         "description": "Cenário com aventuras do Astérix no Egito",
+        "description2": "Cenário original inspirado na banda desenhada do Astérix no Egipto. De notar como curiosidade a forma como foi construída a personagem do Obélix e o cãozinho Ideiafix. A pirâmide é construída modularmente para permitir um melhor transporte e armazenagem. Este display é a continuação do display presente na Loja Rural (44).",
         "coordinates": [
             41.911019,
             -8.559419
@@ -718,6 +757,7 @@
         "name": "Pedreira Seguros",
         "address": "Rua Dr Narciso Alves da Cunha, 3",
         "description": "Conjuntos LEGO Modulares",
+        "description2": "Desde de 2007 que a LEGO lança anualmente edifícios modulares que se conectam facilmente. Estes conjuntos são conhecidos por conterem peças incomuns e técnicas de construção avançadas resultando em edifícios lindíssimos e cheios de detalhes.",
         "coordinates": [
             41.910854,
             -8.559309
@@ -729,6 +769,7 @@
         "name": "Frescos Coyra",
         "address": "Rua Dr Narciso Alves da Cunha, 9",
         "description": "Conjuntos LEGO Modulares",
+        "description2": "Desde de 2007 que a LEGO lança anualmente edifícios modulares que se conectam facilmente. Estes conjuntos são conhecidos por conterem peças incomuns e técnicas de construção avançadas resultando em edifícios lindíssimos e cheios de detalhes.",
         "coordinates": [
             41.910774,
             -8.559251
@@ -739,6 +780,7 @@
         "flyer": "67",
         "name": "Chinês(?)",
         "description": "Conjuntos LEGO Robôs Star Wars",
+        "description2": "Dois conjuntos LEGO Star Wars. 10225: R2-D2 de 2012 com 2127 peças e o 75187: BB-8 de 2017 com 1106 peças.",
         "coordinates": [
             41.910649,
             -8.559144
@@ -750,6 +792,7 @@
         "name": "Restaurante Albergaria",
         "address": "Rua Dr Narciso Alves da Cunha",
         "description": "Conjuntos LEGO Modulares",
+        "description2": "Desde de 2007 que a LEGO lança anualmente edifícios modulares que se conectam facilmente. Estes conjuntos são conhecidos por conterem peças incomuns e técnicas de construção avançadas resultando em edifícios lindíssimos e cheios de detalhes.",
         "coordinates": [
             41.910499,
             -8.559033
@@ -761,6 +804,7 @@
         "name": "Bombeiros de Paredes de Coura",
         "address": "Rua 25 de Abril",
         "description": "Quartel dos Bombeiros",
+        "description2": "Cenário onde o quartel dos bombeiros é uma construção original. O topo teve que ser retirado já que não cabia no acrílico. Os veículos são conjuntos oficiais da LEGO.",
         "coordinates": [
             41.910351,
             -8.558712
@@ -772,6 +816,7 @@
         "name": "Restaurante Barbaças",
         "address": "Rua Dr Narciso Alves da Cunha, 19",
         "description": "Conjuntos LEGO veículos espaciais Star Wars",
+        "description2": "A LEGO obteve os direitos da saga Star Wars em 1999 e desde aí já lançou perto de 800 conjuntos. Os mais icónicos são os veículos que são imediatamente reconhecíveis pelos fãs dos filmes e séries deste tema. Muitos destes conjuntos tornaram-se peças de coleção devido à sua raridade.",
         "coordinates": [
             41.910457,
             -8.559192
@@ -783,6 +828,7 @@
         "name": "Arco Barca Imobiliária",
         "address": "Rua Dr Narciso Alves da Cunha, 14",
         "description": "Conjuntos LEGO veículos espaciais Star Wars",
+        "description2": "A LEGO obteve os direitos da saga Star Wars em 1999 e desde aí já lançou perto de 800 conjuntos. Os mais icónicos são os veículos que são imediatamente reconhecíveis pelos fãs dos filmes e séries deste tema. Muitos destes conjuntos tornaram-se peças de coleção devido à sua raridade.",
         "coordinates": [
             41.910521,
             -8.559238
@@ -794,6 +840,7 @@
         "name": "Livraria Gomes",
         "address": "Rua Dr Narciso Alves da Cunha, 8",
         "description": "Conjuntos LEGO veículos espaciais Star Wars",
+        "description2": "Dois conjuntos LEGO Star Wars do tema Ultimate Collector's Series. 10240: Red Five X-wing Starfighter de 2013 e com 1559 peças e o 75060: Slave I de 2015 e com 1996 peças.",
         "coordinates": [
             41.910595,
             -8.559295
@@ -805,6 +852,7 @@
         "name": "Sapataria Courense",
         "address": "Rua Dr. Narciso Alves da Cunha, 2-4",
         "description": "Conjuntos LEGO veículos espaciais Star Wars",
+        "description2": "A LEGO obteve os direitos da saga Star Wars em 1999 e desde aí já lançou perto de 800 conjuntos. Os mais icónicos são os veículos que são imediatamente reconhecíveis pelos fãs dos filmes e séries deste tema. Muitos destes conjuntos tornaram-se peças de coleção devido à sua raridade.",
         "coordinates": [
             41.910737,
             -8.559424
@@ -816,6 +864,7 @@
         "name": "Móveis Caldas",
         "address": "Rua Custódio José Vieira, 5",
         "description": "Conjuntos LEGO veículos espaciais Star Wars",
+        "description2": "A LEGO obteve os direitos da saga Star Wars em 1999 e desde aí já lançou perto de 800 conjuntos. Os mais icónicos são os veículos que são imediatamente reconhecíveis pelos fãs dos filmes e séries deste tema. Muitos destes conjuntos tornaram-se peças de coleção devido à sua raridade.",
         "coordinates": [
             41.910877,
             -8.559854
@@ -827,6 +876,7 @@
         "name": "Couratel",
         "address": "Rua Dr. Albano Barreiros, 11",
         "description": "Conjuntos LEGO veículos espaciais Star Wars",
+        "description2": "Esquadrão de naves TIE do Império. Estas naves são conjuntos da LEGO com várias alterações, nomeadamente na cor das peças.",
         "coordinates": [
             41.910879,
             -8.55997
@@ -837,6 +887,7 @@
         "flyer": "76",
         "name": "Caixa de Brinquedos",
         "description": "Livraria Lello",
+        "description2": "Construção original da conhecida Livraria Lello & Irmãos no Porto. Para esta construção foram utilizadas dezenas de fotografias e as plantas do edifício para aproximar-se ao máximo do edifício real.",
         "coordinates": [
             41.911023,
             -8.560421
@@ -848,6 +899,7 @@
         "name": "Solicitadora Susana Mendes",
         "address": "Largo Hintze Ribeiro, Loja 38",
         "description": "Western - Colonos",
+        "description2": "Construções originais que pertencem a um display de cerca de 9 metros quadrados que esteve patente em várias edições do Arte em Peças e que foi seccionado para este evento.",
         "coordinates": [
             41.910795,
             -8.560586
@@ -859,6 +911,7 @@
         "name": "Gabinete de Estética A.G.",
         "address": "Largo Hintze Ribeiro, Loja 34",
         "description": "Western - Comboio",
+        "description2": "Construções originais que pertencem a um display de cerca de 9 metros quadrados que esteve patente em várias edições do Arte em Peças e que foi seccionado para este evento.",
         "coordinates": [
             41.91069,
             -8.560622
@@ -870,6 +923,7 @@
         "name": "Matos Oculista",
         "address": "Largo Hintze Ribeiro, Loja 32",
         "description": "Western - Forte e cavalaria",
+        "description2": "Construções originais que pertencem a um display de cerca de 9 metros quadrados que esteve patente em várias edições do Arte em Peças e que foi seccionado para este evento.",
         "coordinates": [
             41.910614,
             -8.560686
@@ -881,6 +935,7 @@
         "name": "Olímpio Caldas AND Condomínios",
         "address": "Rua Dr Albano Barreiros, Edifício Coura Shopping, Loja 4",
         "description": "Conjuntos LEGO 10256 Taj Mahal e 10234 Sydney Opera House",
+        "description2": "Conjunto do tema Creator Expert/Buildings. O Taj Mahal foi lançado em 2017 (apesar de ser uma reedição de um conjunto de 2008) e contêm 5923 peças. O Sydney Opera House foi lançado em 2013 e possui 2989 peças.",
         "coordinates": [
             41.910506,
             -8.560316
@@ -891,6 +946,7 @@
         "flyer": "81",
         "name": "Bella Vela Artesanato",
         "description": "Conjuntos LEGO Architecture",
+        "description2": "Desde 2008 que a LEGO lança anualmente alguns conjuntos da linha Architecture com réplicas de edifícios, monumentos, moradias com interesse arquitectónico, etc. Esta linha é dirigida a um público adulto e é caracterizada pelo seu realismo aliada ao minimalismo proporcionado pelas peças LEGO. Nos últimos anos a LEGO adicionou a esta série um conjunto de sets onde são representados os edifícios mais icónicos de cidades famosas, a linha Skyline.",
         "coordinates": [
             41.910477,
             -8.560401
@@ -902,6 +958,7 @@
         "name": "Clínica Médico Dentária Paula Lima",
         "address": "Rua Dr Albano Barreiros, Edifício Coura Shopping, Loja 7",
         "description": "Conjuntos LEGO Architecture",
+        "description2": "Desde 2008 que a LEGO lança anualmente alguns conjuntos da linha Architecture com réplicas de edifícios, monumentos, moradias com interesse arquitectónico, etc. Esta linha é dirigida a um público adulto e é caracterizada pelo seu realismo aliada ao minimalismo proporcionado pelas peças LEGO. Nos últimos anos a LEGO adicionou a esta série um conjunto de sets onde são representados os edifícios mais icónicos de cidades famosas, a linha Skyline.",
         "coordinates": [
             41.910465,
             -8.560335
@@ -913,6 +970,7 @@
         "name": "Florista Pilar Silva",
         "address": "Rua Dr Albano Barreiros, Edifício Coura Shopping, Loja 5",
         "description": "Tower Bridge",
+        "description2": "Construção original inspirado na conhecida Tower Bridge em Londres. A LEGO lançou em 2010 o conjunto 10214 Tower Bridge que apesar de ser muito mais pequeno, serviu de base a esta criação.",
         "coordinates": [
             41.910414,
             -8.560263
@@ -924,6 +982,7 @@
         "name": "Paula Caldas, Mediação de Seguros",
         "address": "Rua Dr Albano Barreiros, Edifício Coura Shopping, Loja 10",
         "description": "Conjuntos LEGO Architecture",
+        "description2": "Desde 2008 que a LEGO lança anualmente alguns conjuntos da linha Architecture com réplicas de edifícios, monumentos, moradias com interesse arquitectónico, etc. Esta linha é dirigida a um público adulto e é caracterizada pelo seu realismo aliada ao minimalismo proporcionado pelas peças LEGO. Nos últimos anos a LEGO adicionou a esta série um conjunto de sets onde são representados os edifícios mais icónicos de cidades famosas, a linha Skyline.",
         "coordinates": [
             41.910477,
             -8.560433
@@ -935,6 +994,7 @@
         "name": "RFM Informática",
         "address": "Rua Dr Albano Barreiros, Edifício Coura Shopping, Loja 6",
         "description": "Conjuntos LEGO Architecture",
+        "description2": "Desde 2008 que a LEGO lança anualmente alguns conjuntos da linha Architecture com réplicas de edifícios, monumentos, moradias com interesse arquitectónico, etc. Esta linha é dirigida a um público adulto e é caracterizada pelo seu realismo aliada ao minimalismo proporcionado pelas peças LEGO. Nos últimos anos a LEGO adicionou a esta série um conjunto de sets onde são representados os edifícios mais icónicos de cidades famosas, a linha Skyline.",
         "coordinates": [
             41.910406,
             -8.560278
@@ -946,6 +1006,7 @@
         "name": "Cristina Cabeleireira",
         "address": "Rua Dr Albano Barreiros, Edifício Coura Shopping, Loja 11",
         "description": "Conjuntos LEGO Architecture",
+        "description2": "Desde 2008 que a LEGO lança anualmente alguns conjuntos da linha Architecture com réplicas de edifícios, monumentos, moradias com interesse arquitectónico, etc. Esta linha é dirigida a um público adulto e é caracterizada pelo seu realismo aliada ao minimalismo proporcionado pelas peças LEGO. Nos últimos anos a LEGO adicionou a esta série um conjunto de sets onde são representados os edifícios mais icónicos de cidades famosas, a linha Skyline.",
         "coordinates": [
             41.910432,
             -8.560454
@@ -957,6 +1018,7 @@
         "name": "Paulo's Bar",
         "address": "Largo Hintze Ribeiro, Loja 28",
         "description": "Western - Acampamento indíos",
+        "description2": "Construções originais que pertencem a um display de cerca de 9 metros quadrados que esteve patente em várias edições do Arte em Peças e que foi seccionado para este evento.",
         "coordinates": [
             41.910609,
             -8.560768
@@ -968,6 +1030,7 @@
         "name": "Ninibel",
         "address": "Largo Hintze Ribeiro, Loja 26",
         "description": "Western - Cidade",
+        "description2": "Construções originais que pertencem a um display de cerca de 9 metros quadrados que esteve patente em várias edições do Arte em Peças e que foi seccionado para este evento.",
         "coordinates": [
             41.910668,
             -8.56085
@@ -979,6 +1042,7 @@
         "name": "Arquiteto Filipe Sousa",
         "address": "Largo Hintze Ribeiro, Loja 24",
         "description": "O Senhor dos Aneís",
+        "description2": "Construções originais representando cenários dos filmes/livros d'O Senhor dos Aneís. Aqui temos o duelo entre o feiticeiro Gandalf o Cinzento e o Balrog na ponte de Khazad-dûm e o lago proibido em que Faramir pergunta ao Frodo a sua relação com a criatura Gollum.",
         "coordinates": [
             41.910686,
             -8.560906
@@ -990,6 +1054,7 @@
         "name": "Blue",
         "address": "Largo Hintze Ribeiro, Loja 20",
         "description": "O Senhor dos Aneís",
+        "description2": "Construções originais representando cenários dos filmes/livros d'O Senhor dos Aneís. Aqui temos a casa (Bag End) do Bilbo Baggins e a perseguição dos Wraiths ao quatro pequenos hobbits no Buckleberry Ferry.",
         "coordinates": [
             41.910708,
             -8.560962
@@ -1001,6 +1066,7 @@
         "name": "Ourivesaria Barros",
         "address": "Largo Beato Frei Redento da Cruz, Loja 4",
         "description": "Conjunto LEGO 4002018 Employee Christmas Gift",
+        "description2": "A LEGO costuma oferecer todos os anos um conjunto exclusivo aos seus funcionários. Este conjunto foi o oferecido no Natal de 2017. Estes conjuntos são muito raros e difíceis de encontrar à venda.",
         "coordinates": [
             41.910506,
             -8.560831
@@ -1012,6 +1078,7 @@
         "name": "Minhahabita",
         "address": "Largo Beato Frei Redento da Cruz, 111",
         "description": "Conjuntos LEGO Architecture",
+        "description2": "Desde 2008 que a LEGO lança anualmente alguns conjuntos da linha Architecture com réplicas de edifícios, monumentos, moradias com interesse arquitectónico, etc. Esta linha é dirigida a um público adulto e é caracterizada pelo seu realismo aliada ao minimalismo proporcionado pelas peças LEGO. Nos últimos anos a LEGO adicionou a esta série um conjunto de sets onde são representados os edifícios mais icónicos de cidades famosas, a linha Skyline.",
         "coordinates": [
             41.910343,
             -8.56083
@@ -1022,6 +1089,7 @@
         "flyer": "93",
         "name": "Móveis Cunha",
         "description": "Cenário medieval",
+        "description2": "Construções originais representando um cenário medieval. Este cenário foi construído com intuito de ser utilizado no mesmo display que o Castelo Medieval que está patente no Quartel das Artes (45).",
         "coordinates": [
             41.909805,
             -8.560356
@@ -1032,6 +1100,7 @@
         "flyer": "93",
         "name": "Móveis Cunha",
         "description": "Igreja medieval",
+        "description2": "Esta construção original representando uma igreja medieval num casamento contemporâneo foi criada com o intuito de integrar um display em conjunto com o Castelo Medieval que está patente no Quartel das Artes (45).",
         "coordinates": [
             41.910223,
             -8.560718
@@ -1051,6 +1120,7 @@
         "flyer": "94",
         "name": "Talho Ribeiro",
         "description": "Cenário medieval",
+        "description2": "Construções originais representando um cenário medieval. Este cenário foi construído com intuito de ser utilizado no mesmo display que o Castelo Medieval que está patente no Quartel das Artes (45).",
         "coordinates": [
             41.910084,
             -8.560693
@@ -1072,6 +1142,7 @@
         "name": "Florart",
         "address": "Rua Dr Afonso Viana 77",
         "description": "Conjunto LEGO Ideas 21318 Tree House",
+        "description2": "Conjunto do tema Ideas foi lançado em 2019 e possui 3036 peças. Este foi um dos primeiros conjuntos LEGO a utilizar peças de folhagem cuja a matéria prima é de origem vegetal (cana de açúcar). Desenhado pelo português César Soares.",
         "coordinates": [
             41.909849,
             -8.559732
@@ -1083,6 +1154,7 @@
         "name": "Pizzaria Romântica",
         "address": "Rua Dr Afonso Viana 34",
         "description": "Conjunto LEGO 71043 Hogwarts Castle",
+        "description2": "Conjunto do tema Harry Potter  foi lançado em 2018 e possui 6020 peças.",
         "coordinates": [
             41.910107,
             -8.559405
@@ -1094,6 +1166,7 @@
         "name": "Biblioteca Municipal Aquilino Ribeiro",
         "address": "Largo Beato Frei Redento da Cruz",
         "description": "Conjuntos LEGO dos anos 70",
+        "description2": "Conjuntos LEGO do início dos anos 70. Estes conjuntos com perto de 50 anos onde a LEGO utilizava apenas 5 cores (amarelo, vermelho, azul, branco e preto) nas suas peças, mais o verde para as bases e o cinzeto para algumas peças especiais. Além disso a variedade de peças era muito menor que hoje em dia o que resultava em construções simples mas facilmente reconhecíveis.",
         "coordinates": [
             41.910428,
             -8.561297
@@ -1105,6 +1178,7 @@
         "name": "Assist Coura",
         "address": "Rua Tenente Coronel Cunha Brandão Loja 1 R/C",
         "description": "Templo Japonês",
+        "description2": "Construção original representando um conhecido templo japonês. O Kinkaku-ji (Templo Dourado ou Pavilhão de Ouro).",
         "coordinates": [
             41.909747,
             -8.564638
@@ -1128,6 +1202,7 @@
         "name": "Spegulo",
         "address": "Rua Tenente Coronel Cunha Brandão Lote 1. Loja Ginásio",
         "description": "Conjunto LEGO 70840 Welcome to Apocalypseburg!",
+        "description2": "Conjunto do tema The LEGO Movie 2. Foi lançado em 2019 e possui 3178 peças.",
         "coordinates": [
             41.909937,
             -8.564275
@@ -1139,6 +1214,7 @@
         "name": "Olga Rego",
         "address": "Rua Dr José Gomes Moreira Loja Nº1 R/C",
         "description": "Cenário Ninjago",
+        "description2": "Ninjago é um dos temas mais famosos da LEGO na última década. Neste cenário pode encontrar vários conjuntos oficiais enquandrados num cenário original.",
         "coordinates": [
             41.91208,
             -8.562344
@@ -1150,6 +1226,7 @@
         "name": "Icon",
         "address": "Rua Dr José Gomes Moreira, 318",
         "description": "Conjuntos LEGO BrickHeadz",
+        "description2": "Nos últimos anos a LEGO tem lançado várias séries de pequenos conjuntos contendo personagens famosos. Esta série é da responsabilidade do designer português Marcos Bessa.",
         "coordinates": [
             41.912156,
             -8.562383
@@ -1161,6 +1238,7 @@
         "name": "Café Palacium",
         "address": "Rua Dr José Gomes Moreira, 10",
         "description": "Cenário Ninjago",
+        "description2": "Ninjago é um dos temas mais famosos da LEGO na última década. Neste cenário pode encontrar vários conjuntos oficiais enquandrados num cenário original.",
         "coordinates": [
             41.912259,
             -8.562402
@@ -1171,9 +1249,43 @@
         "flyer": "105",
         "name": "Estamparia Courense",
         "description": "Conjuntos LEGO Architecture",
+        "description2": "Desde 2008 que a LEGO lança anualmente alguns conjuntos da linha Architecture com réplicas de edifícios, monumentos, moradias com interesse arquitectónico, etc. Esta linha é dirigida a um público adulto e é caracterizada pelo seu realismo aliada ao minimalismo proporcionado pelas peças LEGO. Nos últimos anos a LEGO adicionou a esta série um conjunto de sets onde são representados os edifícios mais icónicos de cidades famosas, a linha Skyline.",
         "coordinates": [
             41.91047,
             -8.56037
+        ]
+    },
+    {
+        "id": "6d0ce6bd",
+        "flyer": "106",
+        "name": "Compasso da Alma",
+        "description": "Conjunto LEGO 10236 Ewok Village",
+        "description2": "Conjunto do tema Star Wars foi lançado em 2013 e possui 1990 peças. Desenhado pelo português Marcos Bessa.",
+        "coordinates": [
+            41.913194,
+            -8.555472
+        ]
+    },
+    {
+        "id": "642df4f0",
+        "flyer": "107",
+        "name": "FisiCoura",
+        "description": "Micropolis",
+        "description2": "Construções originais. Em 2017 durante a segunda edição do Paredes de Coura Fan Weekend (convenção internacional do hobby LEGO) os participantes foram desafiados a construírem edifícios numa escala mais pequena que o habitual e utilizando conexões standard. Assim todas as criações poderiam facilmente ser integradas entre elas. Reflexo das diferentes origens dos criadores, as construções são bastante diferentes resultando num pequeno cenário rico de detalhes.",
+        "coordinates": [
+            41.911213710955046,
+            -8.565911707243833
+        ]
+    },
+    {
+        "id": "f8ebace0",
+        "flyer": "108",
+        "name": "Tagarelas",
+        "description": "Micropolis",
+        "description2": "Construções originais. Em 2017 durante a segunda edição do Paredes de Coura Fan Weekend (convenção internacional do hobby LEGO) os participantes foram desafiados a construírem edifícios numa escala mais pequena que o habitual e utilizando conexões standard. Assim todas as criações poderiam facilmente ser integradas entre elas. Reflexo das diferentes origens dos criadores, as construções são bastante diferentes resultando num pequeno cenário rico de detalhes.",
+        "coordinates": [
+            41.911164599589426,
+            -8.565834935915367
         ]
     }
 ]
