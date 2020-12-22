@@ -184,13 +184,21 @@ export default function Map({ markers = [], currentMarkerId, onMarkerClicked = (
 						)}
 					</DialogContentText>
 					<DialogContentText align="justify">{currentMarker?.description2}</DialogContentText>
+					<DialogContentText>
+						<Link href={currentMarker?.link} target="_blank" rel="noopener">
+							<Box component="span" display="flex" alignItems="center">
+								<MapIcon />
+								<Box component="span" ml={1}>
+									Direcções
+								</Box>
+							</Box>
+						</Link>
+					</DialogContentText>
 				</DialogContent>
 				<DialogActions>
-					<Link href={currentMarker?.link} target="_blank" rel="noopener">
-						<Button variant="contained" startIcon={<MapIcon />}>
-							Direcções
-						</Button>
-					</Link>
+					<Button onClick={handleCloseDialog} color="primary">
+						Fechar
+					</Button>
 				</DialogActions>
 			</Dialog>
 		</div>
