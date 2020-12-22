@@ -3,6 +3,7 @@
 	"version": "0.1.0",
 	"private": true,
 	"scripts": {
+		"clean": "rimraf out .next",
 		"dev": "next dev",
 		"build": "next build",
 		"export": "next export",
@@ -42,6 +43,7 @@
 		"next-images": "^1.6.2",
 		"next-react-svg": "^1.1.2",
 		"prettier": "2.1.2",
+		"rimraf": "^3.0.2",
 		"typescript": "^4.0.5"
 	}
 }
