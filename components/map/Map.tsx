@@ -8,6 +8,7 @@ import Avatar from '@material-ui/core/Avatar';
 import MapIcon from '@material-ui/icons/Map';
 import DescriptionIcon from '@material-ui/icons/Description';
 import RoomIcon from '@material-ui/icons/Room';
+import PanoramaHorizontalIcon from '@material-ui/icons/PanoramaHorizontal';
 
 import { makeStyles, createStyles, Theme } from '@material-ui/core/styles';
 
@@ -49,6 +50,7 @@ export type MyMarker = {
 	address: string;
 	type: string;
 	coordinates: LatLngExpression;
+	tourNode: string;
 	link: string;
 	description: string;
 	description2: string;
@@ -62,14 +64,22 @@ type MapProps = {
 
 const googleMapsUrl = 'https://www.google.com/maps/dir/?api=1&travelmode=driving&layer=traffic&destination=';
 
+const virtualTourUrl = 'https://caixadebrinquedos.paredesdecoura.pt/vtarteempecas';
+
 const Transition = forwardRef(function Transition(props: TransitionProps & { children?: ReactElement<any, any> }, ref: Ref<unknown>) {
 	return <Slide direction="up" ref={ref} {...props} />;
 });
+
+function isRunningStandalone() {
+	return window.matchMedia('(display-mode: standalone)').matches;
+}
 
 export default function Map({ markers = [], currentMarkerId, onMarkerClicked = () => {} }: MapProps) {
 	const classes = useStyles();
 
 	const [isNewMap, setIsNewMap] = useState<boolean>(true);
+
+	const isStandalone = isRunningStandalone();
 
 	const markers2 = markers.map((marker, i) => {
 		const selected = marker.id === currentMarkerId;
@@ -86,10 +96,13 @@ export default function Map({ markers = [], currentMarkerId, onMarkerClicked = (
 
 		const link = googleMapsUrl + marker.coordinates;
 
+		const tourLink = marker.tourNode && `${virtualTourUrl}/#node${marker.tourNode}`;
+
 		return {
 			...marker,
 			icon,
 			link,
+			tourLink,
 		};
 	});
 
@@ -184,6 +197,18 @@ export default function Map({ markers = [], currentMarkerId, onMarkerClicked = (
 						)}
 					</DialogContentText>
 					<DialogContentText align="justify">{currentMarker?.description2}</DialogContentText>
+					{currentMarker?.tourLink && (
+						<DialogContentText>
+							<Link href={currentMarker?.tourLink} target={isStandalone ? '_blank' : '_self'}>
+								<Box component="span" display="flex" alignItems="center">
+									<PanoramaHorizontalIcon />
+									<Box component="span" ml={1}>
+										Visita Virtual
+									</Box>
+								</Box>
+							</Link>
+						</DialogContentText>
+					)}
 					<DialogContentText>
 						<Link href={currentMarker?.link} target="_blank" rel="noopener">
 							<Box component="span" display="flex" alignItems="center">
