@@ -19,6 +19,7 @@ module.exports = withPlugins(
 	],
 	{
 		pwa: {
+			basePath: '/eventos/2020/arteempecas', 
 			disable: process.env.NODE_ENV !== 'production',
 			dest: 'public',
 		},
