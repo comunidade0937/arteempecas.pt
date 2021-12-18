@@ -6,21 +6,27 @@ const withPlugins = require('next-compose-plugins');
 const reactSvg = require('next-react-svg');
 const pwa = require('next-pwa');
 
+// next.js configuration
+const nextConfig = {};
+
 module.exports = withPlugins(
 	[
 		[
 			reactSvg,
 			{
-				include: path.resolve(__dirname, 'images'),
+				include: path.resolve(__dirname, 'src/assets/images'),
 			},
 			[PHASE_DEVELOPMENT_SERVER, PHASE_PRODUCTION_BUILD],
 		],
-		[pwa],
+		[
+			pwa,
+			{
+				pwa: {
+					dest: 'public',
+				},
+			},
+			[PHASE_PRODUCTION_BUILD],
+		],
 	],
-	{
-		pwa: {
-			disable: process.env.NODE_ENV !== 'production',
-			dest: 'public',
-		},
-	},
+	nextConfig,
 );

@@ -1,4 +1,4 @@
-export const GA_TRACKING_ID = 'UA-1495990-5';
+export const GA_TRACKING_ID: string = process.env.NEXT_PUBLIC_ANALYTICS_ID as string;
 
 type EventParams = { action: string; category: string; label: string; value: number };
 

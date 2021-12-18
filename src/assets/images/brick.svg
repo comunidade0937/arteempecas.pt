@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" view-box="0 0 841.89 595.28" preserveAspectRatio="xMidYMin meet">
+    <path opacity=".5" fill-rule="evenodd" clip-rule="evenodd" d="m792.492 235.559 10.279-107.333c.794-8.287-.45-9.796-8.737-10.591l-259.898-24.98c-8.288-.805-9.797.439-10.591 8.728l-10.28 107.337-171.715-16.505 10.287-107.337c.794-8.288-.449-9.796-8.748-10.591L83.201 49.298c-8.298-.794-9.796.449-10.591 8.737L62.322 165.376l-122.506-11.775-41.983 438.212 981.282 94.319 41.982-438.212-128.605-12.361z"/>
+    <linearGradient id="a27" gradientUnits="userSpaceOnUse" x1="100.675" y1="148.571" x2="333.152" y2="171.068" gradientTransform="matrix(1 -.0091 .0091 1 -7.295 4.28)">
+        <stop offset="0" style="stop-color:#00702d"/>
+        <stop offset="1" style="stop-color:#153413"/>
+    </linearGradient>
+    <path fill-rule="evenodd" clip-rule="evenodd" fill="url(#a27)" d="M49.343 80.092c.795-8.288 2.293-9.531 10.591-8.738l259.888 24.99c8.299.795 9.542 2.303 8.748 10.591l-12.674 132.241c-.794 8.288-2.293 9.531-10.591 8.737l-259.889-24.99c-8.298-.794-9.542-2.303-8.747-10.591l12.674-132.24z"/>
+    <linearGradient id="b27" gradientUnits="userSpaceOnUse" x1="520.82" y1="193.13" x2="769.795" y2="217.128" gradientTransform="matrix(1 -.0091 .0091 1 -7.295 4.28)">
+        <stop offset="0" style="stop-color:#00702d"/>
+        <stop offset="1" style="stop-color:#153413"/>
+    </linearGradient>
+    <path fill-rule="evenodd" clip-rule="evenodd" fill="url(#b27)" d="M500.278 123.438c.793-8.288 2.303-9.532 10.591-8.727l259.898 24.979c8.287.794 9.531 2.304 8.737 10.59L766.84 282.521c-.795 8.288-2.304 9.532-10.591 8.737L496.35 266.269c-8.288-.795-9.531-2.304-8.737-10.591l12.665-132.24z"/>
+    <linearGradient id="c" gradientUnits="userSpaceOnUse" x1="-26.191" y1="278.053" x2="759.742" y2="567.529" gradientTransform="matrix(1 -.0091 .0091 1 -7.295 4.28)">
+        <stop offset="0" style="stop-color:#00702d"/>
+        <stop offset="1" style="stop-color:#153413"/>
+    </linearGradient>
+    <path fill-rule="evenodd" clip-rule="evenodd" fill="url(#c)" d="m-83.45 165.656 981.281 94.321-41.982 438.211-981.282-94.32z"/>
+</svg>
