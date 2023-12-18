@@ -1,6 +1,6 @@
 import { Flex } from '@chakra-ui/react';
 
-import Logo from '../assets/images/aep-2022-logo.svg';
+import Logo from '../assets/images/aep-logo.svg';
 
 export const Hero = () => (
 	<Flex justifyContent="center" alignItems="center" height="100vh" style={{ zIndex: 1 }}>

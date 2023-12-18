@@ -18,8 +18,8 @@ const Index = () => (
 					Caixa dos Brinquedos
 				</Text>
 
-				<Text fontSize="4xl">17 a 31 de Dezembro</Text>
-				<Text fontSize="2xl">das 10h às 18h</Text>
+				<Text fontSize="4xl">16 a 31 de Dezembro</Text>
+				<Text fontSize="2xl">das 10h às 13h e das 14h às 18h</Text>
 				<Text fontSize="xl">Encerrado a 25 de Dezembro</Text>
 			</Flex>
 		</Main>
